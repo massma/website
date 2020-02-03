@@ -1,1 +1,6 @@
-* readme
+Source for my website, built with pandoc, managed by Shake.
+
+* Required software
+ - [[https://pandoc.org/][pandoc]]
+ - [[https://docs.haskellstack.org/en/stable/README/][Haskell Stack]]
+ - [[https://shakebuild.com/][Shake Build System]] (installable with Stack)

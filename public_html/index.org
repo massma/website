@@ -1,12 +1,11 @@
 #+STARTUP:    showall
-#+TITLE:      Adam Massmann
-#+AUTHOR:     Adam Massmann
-#+EMAIL:      akm2203 "at" columbia "dot" edu
+#+PAGETITLE:      Adam Massmann
 #+LANGUAGE:   en
 
-* Adam Massmann
-** Graduate Student in Environmental Engineering
-** Columbia University
+** Adam Massmann
+
+I am a Ph.D. student in environmental engineering, advised by Pierre
+Gentine at Columbia University.
 
 829 S.W. Mudd Hall \\
 Department of Earth and Environmental Engineering\\

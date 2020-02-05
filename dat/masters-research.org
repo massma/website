@@ -21,7 +21,7 @@
      test specific hypotheses.
 
      I made a poster explaining initial lake-effect snow results for the
-     [[https://www2.ametsoc.org/ams/index.cfm/meetings-events/ams-meetings/16th-conference-on-mesoscale-processes/][16th Conference on Mesoscale Processes]]. Poster available [[file:docs/Massmann_Mesoscale.pdf][here]].
+     [[https://www2.ametsoc.org/ams/index.cfm/meetings-events/ams-meetings/16th-conference-on-mesoscale-processes/][16th Conference on Mesoscale Processes]]. Poster available [[file:doc/MassmannMesoscale.pdf][here]].
 
 **** Orographic Rain
 

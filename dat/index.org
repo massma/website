@@ -1,0 +1,46 @@
+#+PAGETITLE:      Adam Massmann
+#+STARTUP:    showall
+#+AUTHOR: Adam Massmann
+#+EMAIL: akm2203 "at" columbia "dot" edu
+#+LANGUAGE: en
+
+** Adam Massmann's home
+
+   I am a Ph.D. student in environmental engineering, advised by
+   [[https://gentinelab.eee.columbia.edu/people/pierre-gentine][Pierre Gentine]] at Columbia University. I study *human-land-climate
+   interactions* by merging *physical or conceptual models* with
+   *observational data*.
+
+   - [[http://www.columbia.edu/~akm2203/doc/massmann-cv.pdf][CV]]
+
+*** Research
+    - [[file:vpd-et.html][Does atmospheric drying increase or reduce evapotranspiration?]]
+    - Previous: [[file:masters-research.html][Master's Research (UAlbany)]] in mesoscale meteorology
+
+*** Resources (mostly for fellow students)
+
+    The origins of each of these pages are responses to email
+    questions. After writing the same email a few times I decided to
+    just put them on the web for easy linking, and in case they are
+    useful to the public.
+
+    - [[file:writing.html][Writing]]
+
+*** Links
+    - [[https://gentinelab.eee.columbia.edu/][Dr. Pierre Gentine's home page]] - my current advisor's website
+    - [[http://www.atmos.albany.edu/facstaff/jminder/][Dr. Justin Minder's home page]] - my M.S. advisor's website at UAlbany
+    - [[http://depts.washington.edu/mtnhydr/index.shtml][Mountain Hydrology Research Group]] - research group I worked with as an
+      undergraduate at the University of Washington (led by Dr. Jessica Lundquist)
+
+*** Contact
+
+    829 S.W. Mudd Hall\\
+    Department of Earth and Environmental Engineering\\
+    Columbia University\\
+    500 West 120th Street, Mailcode: 4711\\
+    New York, NY 10027
+
+    email: /akm2203 "at" columbia "dot" edu/ \\
+    [[file:akm.asc][GPG Public key]] - id: 3B71B2E20E29FF1B
+
+    [[https://github.com/massma/website][/{Source of this site}/]]

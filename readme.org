@@ -4,6 +4,8 @@ Source for my website, built with pandoc, managed by Shake.
  - [[https://pandoc.org/][pandoc]]
  - [[https://docs.haskellstack.org/en/stable/README/][Haskell Stack]]
  - [[https://shakebuild.com/][Shake Build System]] (installable with Stack)
+ - texlive
+ - biber
 * Build instructions
 ** Windows (untested)
 

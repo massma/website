@@ -19,3 +19,6 @@ _shake
 # figs and derived stuff
 *.pdf
 *.png
+
+# additional stuff
+public_html/*.html

@@ -12,6 +12,8 @@ import           Development.Shake.Util
 css :: String
 css = "http://www.columbia.edu/~akm2203/pandoc.css"
 
+-- | parses the content of a .org file and adds a link to the home
+-- page and some meta data
 addHeader :: String -> String
 addHeader contents = unlines (header <> default' <> rest)
  where
@@ -26,16 +28,14 @@ addHeader contents = unlines (header <> default' <> rest)
     , "[[file:index.html][{Back to Home}]]"
     ]
 
-htmlToSrc :: FilePath -> FilePath
-htmlToSrc h = publicToDat h -<.> "org"
-
+-- | converts a filepath for an output file (e.g. html) in
+-- @public_html@ to its corresponding source in @dat@
 publicToDat :: FilePath -> FilePath
-publicToDat pul = case fs of
+publicToDat pul = case splitDirectories pul of
   (x : xs) -> if x == "public_html"
     then foldl (</>) "dat" xs
     else error "called publicToDat on a file not in publc_html"
   _ -> pul
-  where fs = splitDirectories pul
 
 main :: IO ()
 main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
@@ -52,7 +52,7 @@ main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
     )
 
   "public_html/*.html" %> \out -> do
-    let s      = htmlToSrc out
+    let s      = publicToDat out -<.> "org"
     let parser = if takeFileName out == "index.html" then id else addHeader
     need [s]
     contents <- liftIO (parser <$> readFile s)

@@ -25,7 +25,7 @@ addHeader contents = unlines (header <> default' <> rest)
     [ "#+AUTHOR: Adam Massmann"
     , "#+EMAIL: akm2203 \"at\" columbia \"dot\" edu"
     , "#+LANGUAGE: en"
-    , "[[file:index.html][{Back to Home}]]"
+    , "\n[[file:index.html][{Back to Home}]]"
     ]
 
 -- | converts a filepath for an output file (e.g. html) in

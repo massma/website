@@ -201,3 +201,5 @@ models and data
    Inexpensive Temperature Sensors to Estimate Incoming Radiation and
    Snow Surface Albedo. Poster presentation, /University of Washington
    Undergraduate Research Symposium/, Seattle, WA.
+
+@@html:<a href="../index.html">{Back to Home}</a>@@

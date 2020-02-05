@@ -6,8 +6,8 @@
 The goal of this project was to determine if there is more or less
 evapotranspiration[fn:2] from the land surface when dryness in the the
 air[fn:1] increases. This is a particularly *relevant problem because
-atmosperhic aridity is expected in increase in the future*. It is an
-interesting problem because there are two competing factors:
+atmospheric aridity is expected in increase in the future*, and it is
+interesting because there are two competing factors:
 
 1. Plants can sense increasing dryness in the air and close up the
    pores (stomata) on their leaves to conserve water for later
@@ -16,23 +16,26 @@ interesting problem because there are two competing factors:
 2. Drier air naturally demands more water from the land surface,
    encouraging evapotranspiration.
 
-We developed a very simplified analytical model based on recent
-results blending observations and plant theory. According to the
-theory, ecosystems are capable of broad range of behavior in response
-to increased atmospheric dryness, from strongly reducing
-evapotranspiration to allowing large increases
-evapotranspiration. Ecosystem behavior depends both on environmental
-conditions and plant type. For example, to access carbon in the air,
-plants must keep stomata open. So, plants that were bred or evolved to
-prioritize carbon gain (e.g. growth) over water conservation will tend
-to keep stomata open even as aridity increases. For these plant types
-(e.g. many crops), evapotranspiration will likely increase in response
-to increasing aridity. However, other plant types like many conifer
-trees prioritize resilience to aridity over growth, and are more
-likely to close their stomata in response to aridity. For these plant
-types, evapotranspiration will likely decrease in response to
-atmospheric aridity. See the [[https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001790][paper]] for more detail: e.g. the role of
-the environment, etc.
+So the question of whether increasing atmospheric dryness increases or
+reduces evapotranspiration reduces to which effect dominates: plant
+response (reduces evapotranspiration) or atmospheric demand (increases
+evapotranspiration). To answer this question, we developed a very
+simplified analytical model based on recent results blending
+observations and plant theory. According to the theory, ecosystems are
+capable of a broad range of behavior in response to increased
+atmospheric dryness, from strongly reducing evapotranspiration to
+allowing large increases evapotranspiration. Ecosystem behavior
+depends both on environmental conditions and plant type. For example,
+to access carbon in the air must keep stomata open. So, plants that
+were bred or evolved to prioritize carbon gain (e.g. growth) over
+water conservation will tend to keep stomata open even as aridity
+increases. For these plant types (e.g. many crops), evapotranspiration
+will likely increase in response to increasing aridity. However, other
+plant types like many conifer trees prioritize resilience to aridity
+over growth, and are more likely to close their stomata in response to
+aridity. For these plant types, evapotranspiration will likely
+decrease in response to atmospheric aridity. See the [[https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001790][paper]] for more
+detail: e.g. the role of the environment, etc.
 
 As an aside, the design of the project allowed us to test a range of
 proposed mathematical models for plants' stomatal behavior. While in

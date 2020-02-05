@@ -16,11 +16,12 @@
    - [[http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm]["Good Writing" by Marc Raibert]] : general advice on how to become a
      good writer.
    - "Furor Scribendi" by Octavia Butler : advice for aspiring writers
-     that resonates for amateurs too. Echos ideas in "Good Writing"
-     (good writing starts bad), but also discusses the importance of
-     habit and persistence. "Furor Scribendi" is under copyright, but
-     it is published as part of the anthology "[[https://en.wikipedia.org/wiki/Bloodchild_and_Other_Stories][Bloodchild and Other
-     Stories]]" which can be picked up at most libraries.
+     that resonates for amateurs too. Echos ideas from Marc Raibert
+     above (e.g. good writing starts bad), but also discusses the
+     importance of habit and persistence. "Furor Scribendi" is under
+     copyright, but it is published as part of the anthology
+     "[[https://en.wikipedia.org/wiki/Bloodchild_and_Other_Stories][Bloodchild and Other Stories]]" which can be picked up at most
+     libraries.
    - [[http://www.ccs.neu.edu/home/shivers/diss-advice.html]["Dissertation Advice" by Olin Shivers]] : specific to dissertations
    - George Orwell's 6 rules:
      1. Never use a metaphor, simile, or other figure of speech which

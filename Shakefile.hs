@@ -29,15 +29,28 @@ addHeader contents = unlines (header <> default' <> rest)
 htmlToSrc :: FilePath -> FilePath
 htmlToSrc h = "dat" </> takeFileName h -<.> "org"
 
+publicToDat :: FilePath -> FilePath
+publicToDat pul = case fs of
+  (x : xs) -> if x == "public_html"
+    then foldl (</>) "dat" xs
+    else error "called publicToDat on a file not in publc_html"
+  _ -> pul
+  where fs = splitDirectories pul
+
 main :: IO ()
 main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
   want
     (fmap
       ("public_html" </>)
-      ["index.html", "masters-research.html", "vpd-et.html", "writing.html"]
+      [ "index.html"
+      , "masters-research.html"
+      , "vpd-et.html"
+      , "writing.html"
+      , "cv" </> "massmann-cv.html"
+      ]
     )
 
-  "//*.html" %> \out -> do
+  "public_html/*.html" %> \out -> do
     let s      = htmlToSrc out
     let parser = if takeFileName out == "index.html" then id else addHeader
     need [s]
@@ -45,6 +58,27 @@ main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
     cmd_ (Stdin contents)
          "pandoc"
          ["-s", "-o", out, "-c", css, "--from", "org", "--to", "html5"]
+
+  "public_html/cv/*" %> \out -> do
+    let s = publicToDat out
+    need [s]
+    cmd_ "cp" [s, out]
+
+  "dat/cv/*.html" %> \out -> do
+    let s = out -<.> "org"
+    need [s]
+    cmd_
+      (Cwd (takeDirectory out))
+      Shell
+      "emacs"
+      [ "massmann-cv.org"
+      , "--batch"
+      , "--eval"
+      , "\"(progn (setq org-export-with-section-numbers nil) (setq org-html-validation-link nil))\""
+      , "-f"
+      , "org-html-export-to-html"
+      , "--kill"
+      ]
 
   phony "clean" $ do
     liftIO $ putStrLn "Cleaning files in _build"

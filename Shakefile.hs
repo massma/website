@@ -47,6 +47,7 @@ main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
       , "vpd-et.html"
       , "writing.html"
       , "cv" </> "massmann-cv.html"
+      , "cv" </> "massmann-cv.pdf"
       ]
     )
 
@@ -79,6 +80,15 @@ main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
       , "org-html-export-to-html"
       , "--kill"
       ]
+
+  "dat/cv/*.pdf" %> \out -> do
+    let s = out -<.> "org"
+    need [s]
+    cmd_
+      (Cwd (takeDirectory out))
+      Shell
+      "emacs"
+      ["massmann-cv.org", "--batch", "-f", "org-latex-export-to-pdf", "--kill"]
 
   phony "clean" $ do
     liftIO $ putStrLn "Cleaning files in _build"

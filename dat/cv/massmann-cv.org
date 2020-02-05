@@ -129,18 +129,20 @@ models and data
 
 * Publications
 
- - *Massmann, A.*, Gentine, P., and C. Lin. When does vapor pressure deficit drive or
-   reduce evapotranspiration? /Journal of Advances in Modeling Earth
-   Systems/, 11. [[https://doi.org/10.1029/2019MS001790][doi:10.1029/2019MS001790]]  [[https://arxiv.org/abs/1805.05444][arXiv:1805.05444]].
+ - *Massmann, A.*, Gentine, P., and C. Lin, 2019. When does vapor
+   pressure deficit drive or reduce evapotranspiration? /Journal of
+   Advances in Modeling Earth Systems/, 11. [[https://doi.org/10.1029/2019MS001790][doi:10.1029/2019MS001790]]
+   [[https://arxiv.org/abs/1805.05444][arXiv:1805.05444]].
  - Gentine, P., *Massmann, A.*, Lintner B.R., Alemohammad, S.H., Fu,
-   R., Green, J.K., Kennedy, D., and J. Vilà-Guerau de Arellano. Land
-   Atmosphere Interaction in the Tropics. /Hydrology and Earth System
-   Sciences/.  [[https://doi.org/10.5194/hess-2019-12][doi:10.5194/hess-2019-12]].
+   R., Green, J.K., Kennedy, D., and J. Vilà-Guerau de
+   Arellano, 2019. Land Atmosphere Interaction in the
+   Tropics. /Hydrology and Earth System Sciences/.
+   [[https://doi.org/10.5194/hess-2019-12][doi:10.5194/hess-2019-12]].
  - Fults, L.S., *Massmann, A.K.*, Montecinos, A., Andrews, E.,
    Kingsmill, D.E., Minder, J.R., Garreaud, R.D., and
-   J.R. Snider. Wintertime Aerosol Measurements during the Chilean
-   Coastal Orographic Precipitation Experiment. /Atmospheric Chemistry
-   and Physics/. [[https://doi.org/10.5194/acp-2019-185][doi:10.5194/acp-2019-185]].
+   J.R. Snider, 2019. Wintertime Aerosol Measurements during the
+   Chilean Coastal Orographic Precipitation Experiment. /Atmospheric
+   Chemistry and Physics/. [[https://doi.org/10.5194/acp-2019-185][doi:10.5194/acp-2019-185]].
  - *Massmann, A.K.*, Minder, J.R., Garreaud, R.D., Kingsmill, D.E.,
    Valenzuela, R.A., Montecinos, A., Fults, S.L. and Snider,
    J.R., 2017. The Chilean Coastal Orographic Precipitation

@@ -11,7 +11,7 @@
    interactions* by merging *physical or conceptual models* with
    *observational data*.
 
-   - [[http://www.columbia.edu/~akm2203/doc/massmann-cv.pdf][CV]]
+   - [[file:cv/massmann-cv.html][CV]] [[[file:cv/massmann-cv.pdf][pdf]]]
 
 *** Research
     - [[file:vpd-et.html][Does atmospheric drying increase or reduce evapotranspiration?]]

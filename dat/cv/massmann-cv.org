@@ -1,0 +1,211 @@
+#+OPTIONS: toc:nil H:10 tex:t title:nil
+#+STARTUP: showall
+#+TITLE: Adam Massmann's CV
+#+AUTHOR:     Adam Massmann
+#+EMAIL:      akm2203 "at" columbia "dot" edu
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.columbia.edu/~akm2203/pandoc.css" />
+#+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_HEADER: \usepackage{datetime}
+#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \usepackage{tabularx}
+#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+#+LaTeX_HEADER: \newdateformat{mydate}{\monthname[\THEMONTH] \THEYEAR}
+#+LaTeX_HEADER:  \setlength{\parskip}{-0.05cm}
+
+#+BEGIN_EXPORT latex
+\resheader{Adam Massmann}{http://www.columbia.edu/~akm2203/}{New York,
+NY}{akm2203@columbia.edu}{+1 206 919 1364}
+#+END_EXPORT
+
+@@html:<a href="../index.html">{Back to Home}</a>@@
+
+* Interests
+
+human-land-atmosphere interaction, methods for blending physical
+models and data
+
+* Education
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align lXr
+#+ATTR_HTML: :width 800 :frame above
+| <l>                                                       | <c> |                          <r> |
+| *Ph.D. in Environmental Engineering, Columbia University* |     | /in progress, expected 2021/ |
+| *M.S. in Atmospheric Science, University at Albany*       |     |                       /2016/ |
+| *B.S. in Civil Engineering, University of Washington*     |     |            /cum laude, 2014/ |
+
+* Research experience
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align lXr
+#+ATTR_HTML: :width 800 :frame above
+| <l>                                                       | <c> |                          <r> |
+| *Graduate Research Assistant* |   | /Sept. 2016 - Present/ |
+| /Environmental Engineering/ |   | /Columbia University/  |
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align lXr
+#+ATTR_HTML: :width 800 :frame above
+| <l>                                                       | <c> |                          <r> |
+| *Graduate Research Assistant* |   | /May. 2015 - Aug. 2016/ |
+| /Atmospheric and Environmental Sciences/ |   | /University at Albany/ |
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align lXr
+#+ATTR_HTML: :width 800 :frame above
+| <l>                                                       | <c> |                          <r> |
+| *Undergraduate Research Assistant* |   | /Nov. 2012 - Aug. 2014/ |
+| /Civil and Environmental Engineering/ |   | /University of Washington/ |
+
+* Teaching experience
+
+#+ATTR_LATEX: :environment tabularx :width \textwidth :align lXr
+#+ATTR_HTML: :width 800 :frame above
+| <l>                                                       | <c> |                          <r> |
+| *Graduate Teaching Assistant*                                                   |   | /Aug. 2014 - May 2015/ |
+| /Atmospheric and Environmental Sciences/                                        |   | /University at Albany/ |
+- /Introduction to Environmental Science; Surface Hydrology and Hydrometeorology/
+
+* Awards, fellowships and scholarships
+
+- *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellow]]*, Columbia University, 2019-Present
+- *Presidential Fellow*, Columbia University, 2019-Present
+- *PI, XSEDE Startup Allocation:* "A moist static energy approach to
+  understanding wet and dry season transitions in the Amazon
+  rainforest," 2016-2018
+- *NSF Graduate Research Fellowship Program*, 2015-2019
+- *AMS Student Travel Grant*, 16th Conference on Mountain Meteorology, 2014
+- *Annual Dean's List*, University of Washington, 2012-2014
+- *Ruth and Richard Meese Endowed Scholarship*, Department of Civil Engineering, University of Washington, 2013-2014
+- *Mary Gates Research Scholarship*,  University of Washington, 2013
+- *John Arthur Elliot Endowed Scholarship*, Department of Civil
+  Engineering,  University of Washington, 2013
+
+* Technical skills
+
+** Software
+   - *Languages* : Haskell, F#, Scheme, Python
+   - *Free Software Contributions* : [[https://github.com/DougBurke/hvega][hvega]];  [[https://github.com/haskell-numerics/hmatrix][hmatrix]]; [[https://github.com/trevorkeenan/FLUXNET_citations][FLUXNETcitations]]; [[https://www.gnu.org/software/guix/][GNU Guix]]
+
+** Field observations and hardware
+   - /Campbell Scientific dataloggers, InterMet radiosondes, PARSIVEL disdrometers,/
+     /METEK Micro Rain Radars, HOBO dataloggers, iButton chips, Raspberry Pi boards,/
+     /eddy-covariance turbulent flux estimation./
+** Construction
+   - /Shaft, steel and concrete construction; tractor operation; manlift operation./
+
+#+LATEX: \newpage
+
+* Field experience
+  - CCOPE-2015 Field Campaign (2015, [[http://www.atmos.albany.edu/student/massmann/ccope.html][ccope.html]]), Chile: /field operations lead/
+  - Pre-OLYMPEX Field Campaign (2014), Washington State: /site
+       design, testing and deployment (snow depth)/
+  - Snoqualmie Pass Snow Energy Balance Research Site (2013-2014),
+       Washington State: \\
+       /primary field technician; software design
+       for data archival and quality control/
+
+* Additional education
+  - /Innovative Teaching Summer Institute/, Columbia University Center
+    for Teaching and Learning, June 2016
+  - /Implicit Bias Workshop/, Columbia University, March 15, 2019
+  - /Fluid Dynamics of Sustainability and the Environment/, Department
+    of Applied Mathematics and Theoretical Physics, University of
+    Cambridge, August 2016
+
+* Service and extracurriculars
+
+- [[https://zuckermaninstitute.columbia.edu/stem-starters][STEM Starters Outreach]], Education Lab, Columbia University, Sept. 2019
+- Volunteer, /New York Scientific Data Summit/; June, 2019
+- Essay reader: /Washington State Opportunity Scholarship/; Mar. 2019
+- 6th Grade Science Interviewee; Realm School (Berkeley, CA); Sept. 2016
+- UAlbany Weather Camp Volunteer; University at Albany; Aug. 2016
+- Science Outreach to Voorheesville HS students; University at Albany; Mar. 2016
+- Science Outreach at Liceo Mariano Latorre; Curanilahue, Chile; Aug. 2015
+- Engineering Discovery Day; University of Washington; 2013, 2014
+- Volunteer Board Member, Northwest Youth Water Polo, Oct. 2013 - Aug. 2014
+- Reviewer for /Geophysical Research Letters/, /Journal of Applied
+  Meteorology and Climatology/, /Journal of Climate/, /Journal of
+  Hydrometeorology/, /Water Resources Research/, /Weather and
+  Forecasting/
+
+* Publications
+
+ - *Massmann, A.*, Gentine, P., and C. Lin. When does vapor pressure deficit drive or
+   reduce evapotranspiration? /Journal of Advances in Modeling Earth
+   Systems/, 11. [[https://doi.org/10.1029/2019MS001790][doi:10.1029/2019MS001790]]  [[https://arxiv.org/abs/1805.05444][arXiv:1805.05444]].
+ - Gentine, P., *Massmann, A.*, Lintner B.R., Alemohammad, S.H., Fu,
+   R., Green, J.K., Kennedy, D., and J. Vilà-Guerau de Arellano. Land
+   Atmosphere Interaction in the Tropics. /Hydrology and Earth System
+   Sciences/.  [[https://doi.org/10.5194/hess-2019-12][doi:10.5194/hess-2019-12]].
+ - Fults, L.S., *Massmann, A.K.*, Montecinos, A., Andrews, E.,
+   Kingsmill, D.E., Minder, J.R., Garreaud, R.D., and
+   J.R. Snider. Wintertime Aerosol Measurements during the Chilean
+   Coastal Orographic Precipitation Experiment. /Atmospheric Chemistry
+   and Physics/. [[https://doi.org/10.5194/acp-2019-185][doi:10.5194/acp-2019-185]].
+ - *Massmann, A.K.*, Minder, J.R., Garreaud, R.D., Kingsmill, D.E.,
+   Valenzuela, R.A., Montecinos, A., Fults, S.L. and Snider,
+   J.R., 2017. The Chilean Coastal Orographic Precipitation
+   Experiment: Observing the influence of microphysical rain regimes
+   on coastal orographic precipitation. /Journal of Hydrometeorology/,
+   18(10), pp.2723-2743, [[https://doi.org/10.1175/JHM-D-17-0005.1][doi:10.1175/JHM-D-17-0005.1]].
+ - Wayand, N.E., *Massmann, A.*, Butler, C., Keenan, E., Stimberis,
+   J. and Lundquist, J.D., 2015. A meteorological and snow
+   observational data set from Snoqualmie Pass (921 m), Washington
+   Cascades, USA. /Water Resources Research/, 51(12), pp.10092-10103,
+   [[https://doi.org/10.1002/2015WR017773%20][doi:10.1002/2015WR017773]].
+ - Lapo, K.E., Hinkelman, L.M., Landry, C.C., *Massmann, A.K.* and
+   Lundquist, J.D., 2015. A simple algorithm for identifying periods
+   of snow accumulation on a radiometer. Water Resources Research,
+   51(9), pp.7820-7828, [[https://doi.org/10.1002/2015WR017590][doi:10.1002/2015WR017590]].
+ - Lundquist, J.D., Wayand, N.E., *Massmann, A.*, Clark, M.P., Lott,
+   F. and Cristea, N.C., 2015. Diagnosis of insidious data
+   disasters. Water Resources Research, 51(5), pp.3815-3827
+   [[https://doi.org/10.1002/2014WR016585][doi:10.1002/2014WR016585]].
+
+#+LATEX: \newpage
+* Presentations (first author)
+ - Massmann, A., 2019. Causality and predictions; engineering and
+   science: the applicability of causal methods to earth science and
+   the potential for progress at the human-environment interface,
+   /Columbia University Earth and Environmental Engineering Graduate
+   Symposium/, New York, NY.
+ - Massmann, A., 2019. Probabilistic graphical models, causality and
+   software. Oral presentation, /Workshop on Data Analytics for Climate
+   and Earth (DANCE)/, Arrowhead Lake, CA.
+ - Massmann, A., P. Gentine and M. Wild, 2018. Propagator networks
+   and truth maintenance systems: blending physical constraints and
+   data to understand land-atmosphere interaction in the pre-satellite
+   and pre-FLUXNET era. Title modified post-submission to: "Causal
+   Bayesian networks in earth science research: an example examination
+   of North American dimming in the 1950s-1970s". Poster presentation, /AGU
+   2018 Fall Meeting/, Washington D.C.
+ - Massmann, A., P. Gentine and C. Lin, 2017. When does vapor pressure
+   deficit drive or reduce evapotranspiration? Oral presentation, /AGU
+   2017 Fall Meeting/, New Orleans, LA.
+ - Massmann, A., P. Gentine and C. Lin, 2017. When does vapor pressure
+   deficit drive or reduce evapotranspiration? Oral presentation,
+   /Columbia University Earth and Environmental Engineering Graduate
+   Symposium/, New York, NY.
+ - Massmann, A.K., J.R. Minder, D.E. Kingsmill, R. Garreaud,
+   A. Montecinos, J.R.  Snider, S. Fults, R. Valenzuela, and
+   M. Falvey, 2016. The Chilean Coastal Orographic Precipitation
+   Experiment Pilot Project. Overview and Preliminary Results.  Oral
+   presentation, /17th Conference on Mountain Meteorology/, Burlington,
+   VT.
+ - Massmann, A., J. Minder, A. Montecinos, and S. Fults, 2015
+   (invited). CCOPE-15 Trabajo Preliminar. Usando Perfiles de Radares
+   para Clasificar Lluvia en la Cordillera Nahuelbuta [CCOPE-15
+   Preliminary Work. Using Radar Profiles to Classify Rain in the
+   Nahuelbuta Mountains]. /Seminario de Geofísica/, Universidad de
+   Concepción, Concepción, Chile.
+ - Massmann, A.K., and J.R. Minder, 2015. Utilizing a Semi-idealized
+   Modeling Framework to Understand Meso- and Convective-scale
+   dynamics of severe Lake-effect Snowstorms. Poster presentation,
+   /16th Conference on Mesoscale Meteorology/, Boston, MA.
+ - Massmann, A.K., and J.R. Minder, 2015. Utilizing a Semi-idealized
+   Modeling Framework to Understand Observed Lake-effect Snowstorm
+   Dynamics. Poster presentation, /40th Annual Northeastern Storm
+   Conference/, Saratoga Springs, NY.
+ - Massmann, A.K., J.D. Lundquist, and M.S. Raleigh, 2013. Using
+   Inexpensive Temperature Sensors to Estimate Incoming Radiation and
+   Snow Surface Albedo. Poster presentation, /University of Washington
+   Undergraduate Research Symposium/, Seattle, WA.

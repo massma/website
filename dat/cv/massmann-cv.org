@@ -28,41 +28,28 @@ models and data
 
 * Education
 
-#+ATTR_LATEX: :environment tabularx :width \textwidth :align lXr
-#+ATTR_HTML: :width 800 :frame above
-| <l>                                                       | <c> |                          <r> |
-| *Ph.D. in Environmental Engineering, Columbia University* |     | /in progress, expected 2021/ |
-| *M.S. in Atmospheric Science, University at Albany*       |     |                       /2016/ |
-| *B.S. in Civil Engineering, University of Washington*     |     |            /cum laude, 2014/ |
+- *Ph.D. in Environmental Engineering*, Columbia University, /in progress, expected 2022/\\
+
+- *M.S. in Atmospheric Science*, University at Albany, /2016/\\
+
+- *B.S. in Civil Engineering*, University of Washington, /cum laude, 2014/
 
 * Research experience
 
-#+ATTR_LATEX: :environment tabularx :width \textwidth :align lXr
-#+ATTR_HTML: :width 800 :frame above
-| <l>                                                       | <c> |                          <r> |
-| *Graduate Research Assistant* |   | /Sept. 2016 - Present/ |
-| /Environmental Engineering/ |   | /Columbia University/  |
+** Graduate Research Assistant: /Sept. 2016 - Present/
+    - /Environmental Engineering/, Columbia University
 
-#+ATTR_LATEX: :environment tabularx :width \textwidth :align lXr
-#+ATTR_HTML: :width 800 :frame above
-| <l>                                                       | <c> |                          <r> |
-| *Graduate Research Assistant* |   | /May. 2015 - Aug. 2016/ |
-| /Atmospheric and Environmental Sciences/ |   | /University at Albany/ |
+** Graduate Research Assistant: /May 2015 - Aug. 2016/
+    - /Atmospheric and Environmental Sciences/, University at Albany
 
-#+ATTR_LATEX: :environment tabularx :width \textwidth :align lXr
-#+ATTR_HTML: :width 800 :frame above
-| <l>                                                       | <c> |                          <r> |
-| *Undergraduate Research Assistant* |   | /Nov. 2012 - Aug. 2014/ |
-| /Civil and Environmental Engineering/ |   | /University of Washington/ |
+** Undergraduate Research Assistant: /Nov. 2012 - Aug. 2014/
+    - /Civil and Environmental Engineering/, University of Washington
 
 * Teaching experience
 
-#+ATTR_LATEX: :environment tabularx :width \textwidth :align lXr
-#+ATTR_HTML: :width 800 :frame above
-| <l>                                                       | <c> |                          <r> |
-| *Graduate Teaching Assistant*                                                   |   | /Aug. 2014 - May 2015/ |
-| /Atmospheric and Environmental Sciences/                                        |   | /University at Albany/ |
-- /Introduction to Environmental Science; Surface Hydrology and Hydrometeorology/
+** Graduate Teaching Assistant: /Aug. 2014 - May 2015/
+- /Atmospheric and Environmental Sciences/, /University at Albany/
+  - /Introduction to Environmental Science; Surface Hydrology and Hydrometeorology/
 
 * Awards, fellowships and scholarships
 
@@ -82,7 +69,9 @@ models and data
 * Technical skills
 
 ** Software
-   - *Languages* : Haskell, F#, Scheme, Python
+   - *Languages* : Haskell, F#, Scheme; *uncomfortable (but some
+     experience) with*: C, Rust, Python, Fortran
+   - *Misc.* : Git, Latex, [[https://pandoc.org/][pandoc]], [[https://shakebuild.com/][Shake build system]], [[https://www.debian.org/][Debian]]
    - *Free Software Contributions* : [[https://github.com/DougBurke/hvega][hvega]];  [[https://github.com/haskell-numerics/hmatrix][hmatrix]]; [[https://github.com/trevorkeenan/FLUXNET_citations][FLUXNETcitations]]; [[https://www.gnu.org/software/guix/][GNU Guix]]
 
 ** Field observations and hardware

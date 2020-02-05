@@ -27,7 +27,7 @@ addHeader contents = unlines (header <> default' <> rest)
     ]
 
 htmlToSrc :: FilePath -> FilePath
-htmlToSrc h = "dat" </> takeFileName h -<.> "org"
+htmlToSrc h = publicToDat h -<.> "org"
 
 publicToDat :: FilePath -> FilePath
 publicToDat pul = case fs of

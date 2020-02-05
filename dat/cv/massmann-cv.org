@@ -14,6 +14,12 @@
 #+LaTeX_HEADER: \newdateformat{mydate}{\monthname[\THEMONTH] \THEYEAR}
 #+LaTeX_HEADER:  \setlength{\parskip}{-0.05cm}
 
+# TODO: change to use latex to export all presentations and pubs? just
+# not sure if it is worth the extra headache or not.
+
+# #+LaTeX_HEADER: \input{biblatex-config.tex}
+# #+LaTeX_HEADER: \addbibresource{massmann-papers.bib}
+
 #+BEGIN_EXPORT latex
 \resheader{Adam Massmann}{http://www.columbia.edu/~akm2203/}{New York,
 NY}{akm2203@columbia.edu}{+1 206 919 1364}
@@ -127,20 +133,21 @@ models and data
   Hydrometeorology/, /Water Resources Research/, /Weather and
   Forecasting/
 
+# use harvard styling from google scholar
 * Publications
 
- - *Massmann, A.*, Gentine, P., and C. Lin, 2019. When does vapor
+ - *Massmann, A.*, Gentine, P. and Lin, C., 2019. When does vapor
    pressure deficit drive or reduce evapotranspiration? /Journal of
    Advances in Modeling Earth Systems/, 11. [[https://doi.org/10.1029/2019MS001790][doi:10.1029/2019MS001790]]
    [[https://arxiv.org/abs/1805.05444][arXiv:1805.05444]].
  - Gentine, P., *Massmann, A.*, Lintner B.R., Alemohammad, S.H., Fu,
-   R., Green, J.K., Kennedy, D., and J. Vilà-Guerau de
-   Arellano, 2019. Land Atmosphere Interaction in the
+   R., Green, J.K., Kennedy, D. and Vilà-Guerau de
+   Arellano J., 2019. Land Atmosphere Interaction in the
    Tropics. /Hydrology and Earth System Sciences/.
    [[https://doi.org/10.5194/hess-2019-12][doi:10.5194/hess-2019-12]].
  - Fults, L.S., *Massmann, A.K.*, Montecinos, A., Andrews, E.,
-   Kingsmill, D.E., Minder, J.R., Garreaud, R.D., and
-   J.R. Snider, 2019. Wintertime Aerosol Measurements during the
+   Kingsmill, D.E., Minder, J.R., Garreaud, R.D. and
+   Snider, J.R., 2019. Wintertime Aerosol Measurements during the
    Chilean Coastal Orographic Precipitation Experiment. /Atmospheric
    Chemistry and Physics/. [[https://doi.org/10.5194/acp-2019-185][doi:10.5194/acp-2019-185]].
  - *Massmann, A.K.*, Minder, J.R., Garreaud, R.D., Kingsmill, D.E.,
@@ -163,6 +170,15 @@ models and data
    disasters. Water Resources Research, 51(5), pp.3815-3827
    [[https://doi.org/10.1002/2014WR016585][doi:10.1002/2014WR016585]].
 
+# TODO: change to use latex to export all presentations and pubs, just
+# not sure if it is worth the extra headache or not.
+# #+BEGIN_EXPORT latex
+# \boldname{Massmann}{Adam}{K.}
+# \nocite{*}
+# \printbibheading
+# \bibbycategory
+# #+END_EXPORT
+
 #+LATEX: \newpage
 * Presentations (first author)
  - Massmann, A., 2019. Causality and predictions; engineering and
@@ -173,41 +189,41 @@ models and data
  - Massmann, A., 2019. Probabilistic graphical models, causality and
    software. Oral presentation, /Workshop on Data Analytics for Climate
    and Earth (DANCE)/, Arrowhead Lake, CA.
- - Massmann, A., P. Gentine and M. Wild, 2018. Propagator networks
+ - Massmann, A., Gentine, P. and Wild, M., 2018. Propagator networks
    and truth maintenance systems: blending physical constraints and
    data to understand land-atmosphere interaction in the pre-satellite
    and pre-FLUXNET era. Title modified post-submission to: "Causal
    Bayesian networks in earth science research: an example examination
    of North American dimming in the 1950s-1970s". Poster presentation, /AGU
    2018 Fall Meeting/, Washington D.C.
- - Massmann, A., P. Gentine and C. Lin, 2017. When does vapor pressure
+ - Massmann, A., Gentine, P. and Lin, C., 2017. When does vapor pressure
    deficit drive or reduce evapotranspiration? Oral presentation, /AGU
    2017 Fall Meeting/, New Orleans, LA.
- - Massmann, A., P. Gentine and C. Lin, 2017. When does vapor pressure
+ - Massmann, A., Gentine, P. and Lin C., 2017. When does vapor pressure
    deficit drive or reduce evapotranspiration? Oral presentation,
    /Columbia University Earth and Environmental Engineering Graduate
    Symposium/, New York, NY.
- - Massmann, A.K., J.R. Minder, D.E. Kingsmill, R. Garreaud,
-   A. Montecinos, J.R.  Snider, S. Fults, R. Valenzuela, and
-   M. Falvey, 2016. The Chilean Coastal Orographic Precipitation
+ - Massmann, A.K., Minder,  J.R., Kingsmill, D.E., Garreaud, R.,
+   Montecinos, A., Snider, J.R., Fults, S., Valenzuela, R. and
+   Falvey, M. 2016. The Chilean Coastal Orographic Precipitation
    Experiment Pilot Project. Overview and Preliminary Results.  Oral
    presentation, /17th Conference on Mountain Meteorology/, Burlington,
    VT.
- - Massmann, A., J. Minder, A. Montecinos, and S. Fults, 2015
+ - Massmann, A., Minder, J., Montecinos, A. and Fults, S., 2015
    (invited). CCOPE-15 Trabajo Preliminar. Usando Perfiles de Radares
    para Clasificar Lluvia en la Cordillera Nahuelbuta [CCOPE-15
    Preliminary Work. Using Radar Profiles to Classify Rain in the
    Nahuelbuta Mountains]. /Seminario de Geofísica/, Universidad de
    Concepción, Concepción, Chile.
- - Massmann, A.K., and J.R. Minder, 2015. Utilizing a Semi-idealized
+ - Massmann, A.K. and  Minder, J.R., 2015. Utilizing a Semi-idealized
    Modeling Framework to Understand Meso- and Convective-scale
    dynamics of severe Lake-effect Snowstorms. Poster presentation,
    /16th Conference on Mesoscale Meteorology/, Boston, MA.
- - Massmann, A.K., and J.R. Minder, 2015. Utilizing a Semi-idealized
+ - Massmann, A.K. and Minder, J.R., 2015. Utilizing a Semi-idealized
    Modeling Framework to Understand Observed Lake-effect Snowstorm
    Dynamics. Poster presentation, /40th Annual Northeastern Storm
    Conference/, Saratoga Springs, NY.
- - Massmann, A.K., J.D. Lundquist, and M.S. Raleigh, 2013. Using
+ - Massmann, A.K., Lundquist, J.D., and Raleigh, M.S., 2013. Using
    Inexpensive Temperature Sensors to Estimate Incoming Radiation and
    Snow Surface Albedo. Poster presentation, /University of Washington
    Undergraduate Research Symposium/, Seattle, WA.

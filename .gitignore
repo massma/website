@@ -15,6 +15,8 @@ auto
 # build
 _build
 _shake
+stack.yaml.lock
+.stack-work
 
 # figs and derived stuff
 *.pdf

@@ -16,18 +16,18 @@ interesting because there are two competing factors:
 2. Drier air naturally demands more water from the land surface,
    encouraging evapotranspiration.
 
-So the question of whether increasing atmospheric dryness increases or
-reduces evapotranspiration reduces to which effect dominates: plant
+So the answer to whether evapotranspiration increases or decreases in
+response to drier air comes down to which effect dominates: plant
 response (reduces evapotranspiration) or atmospheric demand (increases
-evapotranspiration). To answer this question, we developed a very
-simplified analytical model based on recent results blending
-observations and plant theory. According to the theory, ecosystems are
+evapotranspiration). To test which effect dominates we developed a
+very simplified analytical model based on recent results blending
+observations and plant theory. According to the model, ecosystems are
 capable of a broad range of behavior in response to increased
 atmospheric dryness, from strongly reducing evapotranspiration to
 allowing large increases evapotranspiration. Ecosystem behavior
 depends both on environmental conditions and plant type. For example,
-to access carbon in the air must keep stomata open. So, plants that
-were bred or evolved to prioritize carbon gain (e.g. growth) over
+to access carbon in the air plants must keep stomata open. So, plants
+that were bred or evolved to prioritize carbon gain (e.g. growth) over
 water conservation will tend to keep stomata open even as aridity
 increases. For these plant types (e.g. many crops), evapotranspiration
 will likely increase in response to increasing aridity. However, other
@@ -77,7 +77,7 @@ technically: $VPD = (1-RH)e_s$, where $e_s$ is the [[https://en.wikipedia.org/wi
 pressure of water]], which is an exponentially increasing function of
 temperature.
 
-[fn:2] "transpiration" is the amount of water plants release to the
-atmosphere, while "evaporation" is the amount of water that evaporates
-from the soil. So evapotranspiration (ET) is the total amount of water
-released by an ecosystem (soil + plants).
+[fn:2] "transpiration" is water released by plants to the atmosphere,
+while "evapo" refers to water evaporated from soil (and other surfaces
+like ponds and puddles).  So evapotranspiration (ET) is the total
+amount of water released by an ecosystem (soil + plants).

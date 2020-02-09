@@ -7,8 +7,8 @@ under either the BSD-3-clause or the Apache-2.0 license; see [[file:LICENSE.org]
 * Required software
  - [[https://pandoc.org/][pandoc]]
  - [[https://docs.haskellstack.org/en/stable/README/][Haskell Stack]]
- - texlive
- - emacs
+ - [[https://www.tug.org/texlive/][texlive]]
+ - [[https://www.gnu.org/software/emacs/][emacs]]
 
 * Build instructions
 ** Windows (untested)

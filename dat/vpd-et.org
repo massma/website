@@ -57,7 +57,7 @@ the need for future research understanding plant response at the
 ecosystem scale: plant response to dryness is very much an open area
 of research. I would be very skeptical of anyone with strongly held
 convictions on the nature of the ET response to VPD! Hopefully in a
-few years the community can reach consensus on how to model plant
+few years we as a community can reach consensus on how to model plant
 response, and we can redo our analysis; we might even get very
 different results :).
 

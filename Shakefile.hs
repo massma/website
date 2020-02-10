@@ -72,7 +72,7 @@ main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
       (Cwd (takeDirectory out))
       Shell
       "emacs"
-      [ "massmann-cv.org"
+      [ takeFileName s
       , "--batch"
       , "--eval"
       , "\"(progn (setq org-export-with-section-numbers nil) (setq org-html-validation-link nil))\""
@@ -88,7 +88,7 @@ main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
       (Cwd (takeDirectory out))
       Shell
       "emacs"
-      ["massmann-cv.org", "--batch", "-f", "org-latex-export-to-pdf", "--kill"]
+      [takeFileName s, "--batch", "-f", "org-latex-export-to-pdf", "--kill"]
 
   phony "clean" $ do
     liftIO $ putStrLn "Cleaning files in _build"

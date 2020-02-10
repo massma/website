@@ -11,7 +11,8 @@
      rather than just *communicating research*. Start writing right
      away (just a research idea is usually enough to start on an
      introduction). I really wish I came across this earlier in my
-     Ph.D... A video of the presentation is also [[https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/][hosted by
+     Ph.D...\\
+     A video of the presentation is also [[https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/][hosted by
      Microsoft.]]
    - [[http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm]["Good Writing" by Marc Raibert]] : general advice on how to become a
      good writer.

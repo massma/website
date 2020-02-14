@@ -1,0 +1,74 @@
+#+STARTUP: showall
+#+PAGETITLE: Grad school advice
+
+** Advice for graduate students
+
+I would take all of this advice with a hefty grain of salt: given that
+I still have not finished my Ph.D., in no way am I an example of a
+successful graduate student. While I am hesitant to post this, all of
+this content is stuff people have asked me about in the past, so maybe
+it can be useful for some people.
+
+These are all things I learned along the way, some later than others,
+and these are all things that helped my productivity and/or personal
+hapiness as a graduate student. However everyone is different, so your
+experience may be different.
+
+
+*** Software
+
+    These are all general tools, and just for reference and as an
+    example I provide the specific piece of software I use in
+    parenthesis. However, I generally stick with whatever software I
+    am using unless something about it gets under my skin, so better
+    options might be out there that do the same thing. So, I recommend
+    picking whatever tool sounds good to you based on your research
+    instead of using what I use.
+
+    - *Text editor* ([[https://www.gnu.org/software/emacs/][emacs]]) : Whenever writing papers and analysis
+      code are the bulk of research, a text editor will be your most
+      used research tool. Some text editors are quite complicated
+      pieces of software and it is worth it to take the time to learn
+      their features and key bindings. Given how much time is spent
+      editing text, learning the time saving featurs in your text
+      editor can really add up to a lot of saved time.
+    - *Paper/bibliography management* ([[https://finestructure.net/xapers/][xapers]]) : keeping track of
+      papers and citation is crucial. Look for something that exports
+      citation lists to bibtex, has good search features (e.g. options
+      to search  year, author, title, abstract, etc. in addition to
+      general keyword search), and stores PDFs locally (this is useful
+      for working without internet access, like on a flight).
+    - *Build system* ([[https://shakebuild.com/][shake]]) : using a build system (like [[https://www.gnu.org/software/make/][Make]]) to
+      track file dependencies and automatically build projects and
+      papers will greatly reduce headaches when working. A build
+      system will free you from worrying about re-running code once
+      you have made changes; all dependencies are tracked, so if you
+      edit a piece of analysis code, all figures that depend on it
+      will be automatically regenerated, and if your latex paper uses
+      that figure it will be automatically regenerated using
+      pdflatex. It will also save you a ton of time in the long run; a
+      single command will rerun all the commands (and only those
+      commands) that are need to keep your products (e.g. papers) in
+      sync with the changes to your source files. For many build
+      systems you can also get automatic parallel execution of
+      commands when possible by the depenency structure; this can be a
+      cheap and easy way to parallelize your analysis. If you have a
+      preferred scripting or analysis computer language, I recommend
+      picking a build system that is embedded in that language, if it
+      is available. For example, [[https://scons.org/][SCons]] could be a good option for
+      python users (but I have not used it).
+    - *version control* ([[https://git-scm.com/][git]]): use a version control system to track
+      and document changes to your paper and code source. When
+      combined with websites like Github or Gitlab, you get free cloud
+      backups and a great collaboration tool as well.
+    - *document preparation* ([[https://www.latex-project.org/][latex]]) : look for a document preparation
+      system where changes are easily tracked by version control
+      (e.g. with plain text source), and one that either manually or
+      automatically regenerates a document when figures are
+      updated/changed. Basically, you do not want a system that
+      requires you to manually re-insert a new figure if you change
+      the figure. You want something that loads the figures from a
+      file location, so if that file changes and you regenerate the
+      document, it contains the new figure. If manual re-compilation
+      of the document is required, as with latex, you can make it
+      automatic by using a build system.

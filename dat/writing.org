@@ -1,6 +1,7 @@
 #+STARTUP: showall
 #+PAGETITLE: Writing resources
 
+
 ** Writing resources
 
    Writing is always a struggle for me. I am trying to get better, and

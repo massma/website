@@ -17,6 +17,22 @@
     - [[file:vpd-et.html][Does atmospheric drying increase or reduce evapotranspiration?]]
     - Previous: [[file:masters-research.html][Master's Research (UAlbany)]] in mesoscale meteorology
 
+*** Teaching
+
+    My goal for teaching is to shift education as far as possible
+    towards a collaboration between students and teachers where there
+    is a two way dialog and everyone works together to learn and
+    spread knowledge.  I think technology can help, for example the
+    software industry has developed some really great collaboration
+    tools built upon version control (e.g. [[https://github.com/][Github]] and [[https://gitlab.com/][Gitlab]]).
+
+    - [[https://massma.github.io/ltf-github-website-courses/][Git for course deployment and websites]] - a workshop on how to
+      use [[https://github.com/][Github]] as a tool to deploy course websites and materials,
+      and allow students, professors, and TAs to collaborate on
+      improving course materials. I put this together with funding
+      from and collaboration with Columbia's [[https://ctl.columbia.edu/][Center for Teaching and
+      Learning]].
+
 *** Resources (mostly for fellow students)
 
     The origins of each of these pages are responses to email

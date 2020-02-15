@@ -5,14 +5,14 @@
 
 These are classes I would recommend to any student that anticipates
 using computers for numerical modeling, solving, and/or data
-analysis. It is biased towards general classes (I've took some great
-very domain-specific classes that probably aren't broadly useful). I
-also tried to limit it in number; most people are already taking a
-lot, so these are the ones I would really go out of my way to take.
+analysis. It is biased towards general classes (I took some great very
+domain-specific classes that probably aren't broadly relevant). I also
+tried to limit it in number; most people are already taking a lot, so
+these are the ones I would really go out of my way to take.
 
 - [[https://github.com/mandli/intro-numerical-methods][Intro to Numerical Methods by Kyle Mandli]] - recommend taking this
   your first semester if you are going to take it; it introduces
-  methods for using computers to solve a wide breadth of problems in
+  methods for using computers to solve a breadth of problems in
   science and engineering (see the [[https://github.com/mandli/intro-numerical-methods/blob/master/00_intro_numerical_methods.ipynb][intro notebook]]). Prof. Mandli
   blends technology into the course and assignments nicely; he also
   implemented a unique code peer review element as part of the course,
@@ -33,7 +33,7 @@ lot, so these are the ones I would really go out of my way to take.
   dissertation and/or publications. Because of this, I would still
   recommend taking this course even if you are close to finishing. I
   would also probably recommend any of Prof. Blei's [[http://www.cs.columbia.edu/~blei/courses.html][other courses]]. I
-  took a Causality class that was excellent, but I am not sure if he
+  took a [[http://www.cs.columbia.edu/~blei/seminar/2019-applied-causality/index.html][causality class]] that was excellent, but I am not sure if he
   will offer it since Prof. Bareinboim joined the university and
   teaches a similar course. However, all of his classes sound
   interesting, and they mostly seem to be based around final projects

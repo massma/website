@@ -24,7 +24,7 @@ thing is probably to experiment and find what works for you.
    changes whether you want to continue the project, which is nice to
    realize early in the project. Also, by using the writing to dictate
    your analysis, you keep your analysis focused on the central idea
-   of the paper (e.g. you only spend time testing the hypothesis or
+   of the paper (e.g. you only spend time testing the hypotheses or
    implementing the ideas that are actually a part of the paper). If
    you wait to write the paper until after all the analysis, as I used
    to do, then you might end up cutting a bunch of analysis (that took
@@ -35,13 +35,13 @@ thing is probably to experiment and find what works for you.
    months of working on it. The best time to write is at the
    beginning, when I am very excited about the idea and project. This
    also leads to a natural interleaving of writing content and
-   implementing analysis and models that keeps me from getting tired
-   of one or the other: often I will write a paragraph in the morning,
-   then spend the rest of the day writing code to test or implement
-   the ideas in the paragraph and generate figures. In the worst case
-   that you start writing and realize your idea is not worth a paper,
-   you still got to practice writing and potentially saved yourself a
-   ton of time trying to implement a flawed idea. My [[file:writing.html][writing resources]]
+   implementing analysis that keeps me from getting tired of one or
+   the other: often I will write a paragraph in the morning, then
+   spend the rest of the day writing code to test or implement the
+   ideas in the paragraph and generate figures. In the worst case that
+   you start writing and realize your idea is not worth a paper, you
+   still got to practice writing and potentially saved yourself a ton
+   of time trying to implement a flawed idea. My [[file:writing.html][writing resources]]
    might be relevant as well.
 2. *Meet with your advisor frequently* - Frequently is relative, and
    probably mostly depends on how busy your advisor is. For example,
@@ -79,7 +79,7 @@ thing is probably to experiment and find what works for you.
    beat yourself up for not doing that. For example, I find that the
    quality and focus I bring to my work is much more important (for me
    personally) than the quantity of time. I can usually get more done
-   per a day in 4 hours of work than 8 (or even 12) hours, because I
+   per day in 4 hours of work than 8 (or even 12) hours, because I
    can maintain a much higher level of focus if I know I am only
    working for 4 hours on a given project. Going to seminars,
    meetings, classes, social events, walking my dog, reading a book,
@@ -158,16 +158,17 @@ thing is probably to experiment and find what works for you.
    time in the long run relative to Google-ing how to do a specific
    task X with language Y. If you know the fundamentals, you own
    general tools to do any task and do not need to use Google every
-   time you need to do something new. As far as learning fundamentals,
-   I recommend picking up a book on whatever language you (or your
-   friends) use the most. Look for a book[fn:3] with a few exercises
-   at the end of every chapter, and I recommend doing the exercises;
-   the only way to really learn is to write original code. I would shy
-   away from blog posts and tutorials: sometimes they skew a little
-   too far towards applications rather than fundamentals, but there
-   are always exceptions. Also, it is worth learning the standard
-   library of your languages; they are usually simple yet very
-   general, orthogonal building blocks that can be used to create a
+   time you need to do something new or encounter an error. As far as
+   learning fundamentals, I recommend picking up a book on whatever
+   language you (or your friends) use the most. Look for a book[fn:3]
+   with a few exercises at the end of every chapter, and I recommend
+   doing the exercises; the only way to really learn is to write
+   original code. I would shy away from blog posts and tutorials:
+   sometimes they skew a little too far towards applications rather
+   than fundamentals, but there are always exceptions. Also, it is
+   worth learning the standard library of your languages; they are
+   usually simple yet contain very general, orthogonal, and
+   well-designed building blocks that can be used to create a
    lot. Standard libraries are a nice complement to many scientific
    and statistical packages (like [[https://pandas.pydata.org/][pandas]] and [[https://numpy.org/][numpy]]) that are very
    complicated and have a ton of features to learn. Parallel to this

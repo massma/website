@@ -20,11 +20,10 @@
 *** Teaching
 
     My goal for teaching is to shift education as far as possible
-    towards a collaboration between students and teachers where there
-    is a two way dialog and everyone works together to learn and
-    spread knowledge.  I think technology can help; for example the
-    software industry has developed some really great collaboration
-    tools built upon version control (e.g. [[https://github.com/][Github]] and [[https://gitlab.com/][Gitlab]]).
+    towards a collaboration between students and teachers. Ideally
+    there is a two way dialog and everyone works together to improve
+    the learning process (and learn).  If thoughtfully deployed, I
+    think technology can help with this.
 
     - [[https://massma.github.io/ltf-github-website-courses/][Git for course deployment and websites]] - a workshop on how to
       use [[https://github.com/][Github]] as a tool to deploy course websites and materials,
@@ -35,14 +34,14 @@
 
 *** Resources (mostly for fellow students)
 
-    The origins of each of these pages are responses to email
-    questions. After writing the same email more than once I decided
-    to just put them on the web for easy linking, and in case they are
+    The origins of each of these pages are discussions and
+    emails. After rehashing the same content multiple times I decided
+    to just put it on the web for easy linking, and in case it is
     useful to the public.
 
     - [[file:writing.html][Writing]]
     - [[file:grad-school.html][Tips for Ph.D. students]]
-    - [[file:classes.html][Recommended courses at Columbia]]
+    - [[file:courses.html][Recommended courses at Columbia]]
 
 *** Links
     - [[https://gentinelab.eee.columbia.edu/][Dr. Pierre Gentine's home page]] - my current advisor's website

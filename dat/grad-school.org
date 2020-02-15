@@ -147,34 +147,34 @@ thing is probably to experiment and find what works for you.
    changes, and publish them when the paper is done. I can rest
    assured that my paper and all of its supporting analysis is
    transparent and 100% reproducible.
-7. *If you write code for your research, learn to code* - Google is
-   great for learning how to do a specific thing once (e.g. I will
-   Google how to merge a bunch of PDFs into a single PDF using the
-   command line; I don't need to understand how PDFs or the CLI tool
-   actually work). However, if you are going to be writing a lot of
-   code in some language it is worth it to learn the fundamentals of
-   how that language (and more generally a computer) works. Learning
-   the fundamentals will save you a lot of time in the long run
-   relative to Google-ing how to do a specific task X with language
-   Y. If you know the fundamentals, you have the general tools to do
-   any task and do not need to use Google every time you need to do
-   something new. As far as learning fundamentals, I recommend picking
-   up a book on whatever language you (or your friends) use the
-   most. Look for a book[fn:3] with a few exercises at the end of
-   every chapter, and I recommend doing the exercises; the only way to
-   really learn is to write original code. I would shy away from blog
-   posts and tutorials: sometimes they skew a little too far towards
-   applications rather than fundamentals, but there are always
-   exceptions. Also, it is worth learning the standard library of your
-   languages; they are usually simple yet very general, orthogonal
-   building blocks that can be used to create a lot. Standard
-   libraries are a nice complement to many scientific and statistical
-   packages (like [[https://pandas.pydata.org/][pandas]] and [[https://numpy.org/][numpy]]) that are very complicated and have
-   a ton of features to learn. Parallel to this reasoning about
-   learning to code in a language, if there is a specific library you
-   will use a lot, take the time to read the documentation rather than
-   just Google-ing how to do something very specific with said
-   library.
+7. *If you write code for your research, learn to code (with a
+   book)* - Google is great for learning how to do a specific thing
+   once (e.g. I will Google how to merge a bunch of PDFs into a single
+   PDF using the command line; I don't need to understand how PDFs or
+   the CLI tool actually work). However, if you are going to be
+   writing a lot of code in some language it is worth your time to
+   learn the fundamentals of how that language (and more generally a
+   computer) works. Learning the fundamentals will save you a lot of
+   time in the long run relative to Google-ing how to do a specific
+   task X with language Y. If you know the fundamentals, you own
+   general tools to do any task and do not need to use Google every
+   time you need to do something new. As far as learning fundamentals,
+   I recommend picking up a book on whatever language you (or your
+   friends) use the most. Look for a book[fn:3] with a few exercises
+   at the end of every chapter, and I recommend doing the exercises;
+   the only way to really learn is to write original code. I would shy
+   away from blog posts and tutorials: sometimes they skew a little
+   too far towards applications rather than fundamentals, but there
+   are always exceptions. Also, it is worth learning the standard
+   library of your languages; they are usually simple yet very
+   general, orthogonal building blocks that can be used to create a
+   lot. Standard libraries are a nice complement to many scientific
+   and statistical packages (like [[https://pandas.pydata.org/][pandas]] and [[https://numpy.org/][numpy]]) that are very
+   complicated and have a ton of features to learn. Parallel to this
+   reasoning about learning to code in a language, if there is a
+   specific library you will use a lot, take the time to read the
+   documentation rather than just Google-ing how to do something very
+   specific with said library.
 
 [fn:1] Like all great ideas, this one is not mine. It comes from
 Simon Peyton Jones's talk "[[https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/][How to write a great research paper]]."

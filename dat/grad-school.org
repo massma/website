@@ -3,72 +3,195 @@
 
 ** Advice for graduate students
 
-I would take all of this advice with a hefty grain of salt: given that
+I am not sure I would advocate follwing any of this advice: given that
 I still have not finished my Ph.D., in no way am I an example of a
 successful graduate student. While I am hesitant to post this, all of
-this content is stuff people have asked me about in the past, so maybe
-it can be useful for some people.
+this content is stuff I discussed with someone at some point, so maybe
+it is generally useful for some people. The criteria for these
+suggestions are that they helped my productivity and/or personal
+happiness as a graduate student in some major way. However everyone is
+different, so your experience may be different. The most important
+thing is probably to experiment and find what works for you.
 
-These are all things I learned along the way, some later than others,
-and these are all things that helped my productivity and/or personal
-hapiness as a graduate student. However everyone is different, so your
-experience may be different.
+1. *Start writing immediately[fn:1]* - as soon as you have a research
+   idea, start writing. To paraphrase Simon Peyton Jones, *writing a
+   research paper is a tool for doing research* instead of just a tool
+   for communicating research. Using writing as a research tool is the
+   biggest piece of advice I can offer, and unfortunately I came
+   across it late (4th year) of my Ph.D. Usually just an idea is
+   enough to write an introduction. Writing early forces you to
+   clarify your thoughts and you might discover that the clarification
+   changes whether you want to continue the project, which is nice to
+   realize early in the project. Also, by using the writing to dictate
+   your analysis, you keep your analysis focused on the central idea
+   of the paper (e.g. you only spend time testing the hypothesis or
+   implementing the ideas that are actually a part of the paper). If
+   you wait to write the paper until after all the analysis, as I used
+   to do, then you might end up cutting a bunch of analysis (that took
+   a lot of time) because it is irrelevant to the core idea. Also,
+   because writing is a struggle for me, waiting until the end of the
+   project is the absolute worst time to write; usually I am a little
+   fatigued of thinking and talking about the research after many
+   months of working on it. The best time to write is at the
+   beginning, when I am very excited about the idea and project. This
+   also leads to a natural interleaving of writing content and
+   implementing analysis and models that keeps me from getting tired
+   of one or the other: often I will write a paragraph in the morning,
+   then spend the rest of the day writing code to test or implement
+   the ideas in the paragraph and generate figures. In the worst case
+   that you start writing and realize your idea is not worth a paper,
+   you still got to practice writing and potentially saved yourself a
+   ton of time trying to implement a flawed idea. My [[file:writing.html][writing resources]]
+   might be relevant as well.
+2. *Meet with your advisor frequently* - Frequently is relative, and
+   probably mostly depends on how busy your advisor is. For example,
+   don't demand your advisor's time, but if they are available take
+   advantage of the opportunity, even if you don't have some
+   groundbreaking result to show. Just avoid saying "no need to meet
+   today, I have nothing to show" when you have a scheduled meeting
+   with your advisor. Even if you have just an idea, they can offer
+   guidance that could save you a lot of time, either by advising a
+   good approach to your idea, or by preventing you from implementing
+   an idea that may be flawed. Even if you don't have an idea, meeting
+   with your advisor is an opportunity to brainstorm research ideas
+   and communicate what is going on with you, what is or isn't working
+   for you, and what your goals are. Ideally (and in my experience
+   pretty much always) advisors care about you and want you to
+   succeed, so most conflict I've observed between students and
+   advisors stems from a lack of communication on goals, expectations,
+   and/or research direction (usually due to not meeting or
+   talking). This can be a two way street, and some advisors are not
+   very good about soliciting feedback or checking in with how their
+   students are doing, but that does not mean they are not open to
+   listening or do not care. Just be clear and forthcoming with what
+   you are thinking about and how you are feeling. If you are
+   extremely unlucky and have an advisor that does not care about you
+   or want you to succeed, then you will probably realize that sooner
+   if you meet with them frequently, and can adjust accordingly. You
+   don't want to realize that late, as you are submitting your
+   prospectus or dissertation and asking for recommendations.
+3. *Focus on the quality of time spent working, not the quantity* - I
+   talk to a lot of students that really beat themselves up about not
+   working enough, compare themselves to other students' time spent in
+   the office, etc. Yes, graduate student life is unstructured. Yes,
+   some students talk about how much they work, or visibly spend a lot
+   of time in the office. That works for them, but it is no reason to
+   beat yourself up for not doing that. For example, I find that the
+   quality and focus I bring to my work is much more important (for me
+   personally) than the quantity of time. I can usually get more done
+   per a day in 4 hours of work than 8 (or even 12) hours, because I
+   can maintain a much higher level of focus if I know I am only
+   working for 4 hours on a given project. Going to seminars,
+   meetings, classes, social events, walking my dog, reading a book,
+   cooking, sleeping, playing sports, hanging out with my spouse,
+   etc. are all great ways to break up the day into smaller chunks of
+   extremely focused work. The sub-conscious also seems to be pretty
+   good at making progress on a problem - I find that if I leave a
+   task and come back to it, many times I return with a clarity that I
+   might be missing if I spent that time at my desk banging my head
+   against the problem. As an anecdote, try and avoid the internet and
+   your phone while working. Smart people make a lot of money
+   designing apps and websites to be distracting and addicting, so be
+   wary. Most importantly, enjoy and take advantage of the lack of
+   structure of graduate education to live the fullest life possible,
+   instead of seeking some unattainable goal of working all day, every
+   day.
+4. *Take classes* - graduate school is the last chance for most of us
+   to take classes, so I recommend taking advantage, even later in
+   your Ph.D. But, as you get later in your Ph.D. filter classes to
+   those that are based more around an open final project than a lot
+   of assignments and exams. This way, the final project and your time
+   spent working on the course will (hopefully) directly contribute to
+   your dissertation and/or publications. If you are a Columbia
+   student, my [[file:courses.html][course recommendations]] could be useful.
+5. *Diversify projects, interests, and commitments* - Get involved
+   with other stuff besides research. This could be teaching, putting
+   on workshops, administration (e.g. graduate student councils,
+   social committees, unions), etc. The more diverse your interests,
+   the higher likelihood that something in your life will be rewarding
+   and going well. For example if a research idea fails, you might not
+   feel so bad if you put on an awesome workshop last week or hosted a
+   fun department happy hour. Also, while I have a hard time intensely
+   focusing on one project for more than about four hours a day, if my
+   to-do list contains some really diverse items, I find that I can
+   work with a pretty high level of focus for a longer amount of time
+   by switching up what I am working on every couple of hours (also
+   more commitments usually means more deadlines, which helps get
+   stuff done). So, a diversity of interest is a path towards quality
+   /and/ quantity of time spent working, if that is something you want
+   (I would still advocate moderation though). If you have a goal of
+   being tenured faculty it is also good practice for that, because
+   from what I've observed a professor's day-to-day consists of a
+   bunch of commitments spread across teaching, research,
+   administration, and management.
+6. *Make manuscripts reproducible by learning to use a build
+   tool[fn:2]* - A build tool is a piece of software that tracks file
+   dependencies and executes commands when the files they depend on
+   change. For example if you create your paper using [[https://www.latex-project.org/][latex]], then you
+   can track any code that generates the figures in your paper, and
+   every time you change that code the build system will automatically
+   re-run your code and re-generate your paper with updated
+   figures. It takes a little time to write the build file, but in the
+   long run it will save you a ton of time re-running the same
+   commands over and over again. Using a build system for your papers
+   also helps when doing research through writing, as described in #1
+   above. As you start adding data, code, and analysis to support or
+   implement the ideas in your writing, you can use the build system
+   to manage the downloading of data, execution of the code, and the
+   compilation of your figures and writing into a PDF. I've found this
+   to be a very pleasant way to do research: I can make any
+   improvements or additions I want to the written content and/or
+   code, and then automatically update the PDF document to look at the
+   consequences in terms of the final manuscript. When combined with
+   version control software like [[https://git-scm.com/][git]], I can undo and document all
+   changes, and publish them when the paper is done. I can rest
+   assured that my paper and all of its supporting analysis is
+   transparent and 100% reproducible.
+7. *If you write code for your research, learn to code* - Google is
+   great for learning how to do a specific thing once (e.g. I will
+   Google how to merge a bunch of PDFs into a single PDF using the
+   command line; I don't need to understand how PDFs or the CLI tool
+   actually work). However, if you are going to be writing a lot of
+   code in some language it is worth it to learn the fundamentals of
+   how that language (and more generally a computer) works. Learning
+   the fundamentals will save you a lot of time in the long run
+   relative to Google-ing how to do a specific task X with language
+   Y. If you know the fundamentals, you have the general tools to do
+   any task and do not need to use Google every time you need to do
+   something new. As far as learning fundamentals, I recommend picking
+   up a book on whatever language you (or your friends) use the
+   most. Look for a book[fn:3] with a few exercises at the end of
+   every chapter, and I recommend doing the exercises; the only way to
+   really learn is to write original code. I would shy away from blog
+   posts and tutorials: sometimes they skew a little too far towards
+   applications rather than fundamentals, but there are always
+   exceptions. Also, it is worth learning the standard library of your
+   languages; they are usually simple yet very general, orthogonal
+   building blocks that can be used to create a lot. Standard
+   libraries are a nice complement to many scientific and statistical
+   packages (like [[https://pandas.pydata.org/][pandas]] and [[https://numpy.org/][numpy]]) that are very complicated and have
+   a ton of features to learn. Parallel to this reasoning about
+   learning to code in a language, if there is a specific library you
+   will use a lot, take the time to read the documentation rather than
+   just Google-ing how to do something very specific with said
+   library.
 
+[fn:1] Like all great ideas, this one is not mine. It comes from
+Simon Peyton Jones's talk "[[https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/][How to write a great research paper]]."
 
-*** Software
+[fn:2] There are many build tools; [[https://www.gnu.org/software/make/][Make]] is probably the most
+common/popular. However, if you have a preferred scripting or analysis
+language, I recommend picking a build system that is embedded in that
+language, if it is available. For example, I write most of my code in
+Haskell so I use [[https://shakebuild.com/][Shake]], and [[https://scons.org/][SCons]] could be a good option for Python
+users (but I have not used it). Many of these build systems can
+analyze the dependency structure to automatic execute commands in
+parallel when possible, so this can be a cheap and easy way to
+parallelize your analysis.
 
-    These are all general tools, and just for reference and as an
-    example I provide the specific piece of software I use in
-    parenthesis. However, I generally stick with whatever software I
-    am using unless something about it gets under my skin, so better
-    options might be out there that do the same thing. So, I recommend
-    picking whatever tool sounds good to you based on your research
-    instead of using what I use.
-
-    - *Text editor* ([[https://www.gnu.org/software/emacs/][emacs]]) : Whenever writing papers and analysis
-      code are the bulk of research, a text editor will be your most
-      used research tool. Some text editors are quite complicated
-      pieces of software and it is worth it to take the time to learn
-      their features and key bindings. Given how much time is spent
-      editing text, learning the time saving featurs in your text
-      editor can really add up to a lot of saved time.
-    - *Paper/bibliography management* ([[https://finestructure.net/xapers/][xapers]]) : keeping track of
-      papers and citation is crucial. Look for something that exports
-      citation lists to bibtex, has good search features (e.g. options
-      to search  year, author, title, abstract, etc. in addition to
-      general keyword search), and stores PDFs locally (this is useful
-      for working without internet access, like on a flight).
-    - *Build system* ([[https://shakebuild.com/][shake]]) : using a build system (like [[https://www.gnu.org/software/make/][Make]]) to
-      track file dependencies and automatically build projects and
-      papers will greatly reduce headaches when working. A build
-      system will free you from worrying about re-running code once
-      you have made changes; all dependencies are tracked, so if you
-      edit a piece of analysis code, all figures that depend on it
-      will be automatically regenerated, and if your latex paper uses
-      that figure it will be automatically regenerated using
-      pdflatex. It will also save you a ton of time in the long run; a
-      single command will rerun all the commands (and only those
-      commands) that are need to keep your products (e.g. papers) in
-      sync with the changes to your source files. For many build
-      systems you can also get automatic parallel execution of
-      commands when possible by the depenency structure; this can be a
-      cheap and easy way to parallelize your analysis. If you have a
-      preferred scripting or analysis computer language, I recommend
-      picking a build system that is embedded in that language, if it
-      is available. For example, [[https://scons.org/][SCons]] could be a good option for
-      python users (but I have not used it).
-    - *version control* ([[https://git-scm.com/][git]]): use a version control system to track
-      and document changes to your paper and code source. When
-      combined with websites like Github or Gitlab, you get free cloud
-      backups and a great collaboration tool as well.
-    - *document preparation* ([[https://www.latex-project.org/][latex]]) : look for a document preparation
-      system where changes are easily tracked by version control
-      (e.g. with plain text source), and one that either manually or
-      automatically regenerates a document when figures are
-      updated/changed. Basically, you do not want a system that
-      requires you to manually re-insert a new figure if you change
-      the figure. You want something that loads the figures from a
-      file location, so if that file changes and you regenerate the
-      document, it contains the new figure. If manual re-compilation
-      of the document is required, as with latex, you can make it
-      automatic by using a build system.
+[fn:3] From personal experience I can recommend "[[https://www.cs.nott.ac.uk/~pszgmh/pih.html][Programming in
+Haskell]]" by Graham Hutton for Haskell, "[[https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html][Structure and Interpretation
+of Computer Programs]]" by Abelson and Sussman for Scheme, and "[[https://en.wikipedia.org/wiki/The_C_Programming_Language][The C
+Programming Language]]" by Kernighan and Ritchie for C. I have not used
+it, but "[[https://mcsp.wartburg.edu/zelle/python/][Python Programming: An Introduction to Computer Science]]" by
+Zelle has been recommended to me for Python.

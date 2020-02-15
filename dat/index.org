@@ -22,7 +22,7 @@
     My goal for teaching is to shift education as far as possible
     towards a collaboration between students and teachers where there
     is a two way dialog and everyone works together to learn and
-    spread knowledge.  I think technology can help, for example the
+    spread knowledge.  I think technology can help; for example the
     software industry has developed some really great collaboration
     tools built upon version control (e.g. [[https://github.com/][Github]] and [[https://gitlab.com/][Gitlab]]).
 
@@ -36,11 +36,13 @@
 *** Resources (mostly for fellow students)
 
     The origins of each of these pages are responses to email
-    questions. After writing the same email a few times I decided to
-    just put them on the web for easy linking, and in case they are
+    questions. After writing the same email more than once I decided
+    to just put them on the web for easy linking, and in case they are
     useful to the public.
 
     - [[file:writing.html][Writing]]
+    - [[file:grad-school.html][Tips for Ph.D. students]]
+    - [[file:classes.html][Recommended courses at Columbia]]
 
 *** Links
     - [[https://gentinelab.eee.columbia.edu/][Dr. Pierre Gentine's home page]] - my current advisor's website

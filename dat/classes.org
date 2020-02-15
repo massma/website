@@ -1,0 +1,40 @@
+#+STARTUP: showall
+#+PAGETITLE: Recommended classes
+
+* Recommended courses at Columbia
+
+These are classes I would recommend to any student that anticipates
+using computers for numerical modeling, solving, and/or data
+analysis. It is biased towards general classes (I've took some great
+very domain-specific classes that probably aren't broadly useful). I
+also tried to limit it in number; most people are already taking a
+lot, so these are the ones I would really go out of my way to take.
+
+- [[https://github.com/mandli/intro-numerical-methods][Intro to Numerical Methods by Kyle Mandli]] - recommend taking this
+  your first semester if you are going to take it; it introduces
+  methods for using computers to solve a wide breadth of problems in
+  science and engineering (see the [[https://github.com/mandli/intro-numerical-methods/blob/master/00_intro_numerical_methods.ipynb][intro notebook]]). Prof. Mandli
+  blends technology into the course and assignments nicely; he also
+  implemented a unique code peer review element as part of the course,
+  so you can pick up some coding and peer review skills along the way.
+- [[http://www.cs.columbia.edu/~blei/fogm/2019F/index.html][Foundations of Graphical Models by David Blei]] - if you anticipate or
+  are doing any data analysis in your dissertation, I very very
+  strongly recommend taking this course. For awhile, I tried to learn
+  the material covered by the course on my own, and concluded that I
+  would never understand it that well. However Prof. Blei is among the
+  best lecturers, and the class is very thoughtfully designed, so
+  after taking it I was able to finally "get" probabilistic modeling
+  and inference methods. There are some assignments, but they are well
+  designed and in my opinion the minimum necessary amount of work
+  required to actually understand the material through
+  implementation. Also the assignments are open (you can analyze any
+  data you want), and most of the course assessment is a final project
+  that if done thoughtfully will directly contribute to your
+  dissertation and/or publications. Because of this, I would still
+  recommend taking this course even if you are close to finishing. I
+  would also probably recommend any of Prof. Blei's [[http://www.cs.columbia.edu/~blei/courses.html][other courses]]. I
+  took a Causality class that was excellent, but I am not sure if he
+  will offer it since Prof. Bareinboim joined the university and
+  teaches a similar course. However, all of his classes sound
+  interesting, and they mostly seem to be based around final projects
+  which is great for Ph.D. students.

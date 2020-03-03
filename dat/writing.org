@@ -3,8 +3,10 @@
 
 ** Writing resources
 
-   Writing is always a struggle for me. I am trying to get better, and
-   here are some resources that helped me:
+   Writing is always a struggle for me but I am trying to get
+   better. For convenience, I gathered the resources that helped me,
+   but writing is very subjective so they may not be generally
+   useful:
 
    - [[http://www.cis.upenn.edu/~sweirich/icfp-plmw15/slides/peyton-jones.pdf]["How to write a great research paper" by Simon Peyton-Jones]].
      Biggest takeaway for me: writing is a method for *doing research*

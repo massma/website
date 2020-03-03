@@ -31,7 +31,6 @@
 *** Resources (mostly for fellow students)
 
     - [[file:writing.html][Writing]]
-    - [[file:grad-school.html][Tips for Ph.D. students]]
 
 *** Links
     - [[https://gentinelab.eee.columbia.edu/][Dr. Pierre Gentine's home page]] - my current advisor's website

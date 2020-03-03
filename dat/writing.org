@@ -10,8 +10,8 @@
      Biggest takeaway for me: writing is a method for *doing research*
      rather than just *communicating research*. Start writing right
      away; just a research idea is usually enough to start on an
-     introduction. I really wish I came across this earlier in my
-     Ph.D...\\
+     introduction (I really wish that I came across this earlier in
+     my Ph.D...)\\
      A video of the presentation is also [[https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/][hosted by Microsoft.]]
    - [[http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm]["Good Writing" by Marc Raibert]] : general advice on how to become
      a strong writer.
@@ -23,7 +23,9 @@
      published as part of the anthology "[[https://en.wikipedia.org/wiki/Bloodchild_and_Other_Stories][Bloodchild and Other Stories]],"
      which can be picked up at most libraries.
    - [[http://www.ccs.neu.edu/home/shivers/diss-advice.html]["Dissertation Advice" by Olin Shivers]] : specific to dissertations
-   - George Orwell's 6 rules:
+   - George Orwell's 6 rules, which are very subjective so take them
+     or leave them. (I happen to like them, but that is personal
+     preference.):
      1. Never use a metaphor, simile, or other figure of speech which
         you are used to seeing in print.
      2. Never use a long word where a short one will do.

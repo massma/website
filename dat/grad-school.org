@@ -79,31 +79,28 @@ thing is probably to experiment and find what works for you.
    beat yourself up for not doing that. For example, I find that the
    quality and focus I bring to my work is much more important (for me
    personally) than the quantity of time. I can usually get more done
-   per day in 4 hours of work than 8 (or even 12) hours, because I
-   can maintain a much higher level of focus if I know I am only
-   working for 4 hours on a given project. Going to seminars,
-   meetings, classes, social events, walking my dog, reading a book,
-   cooking, sleeping, playing sports, hanging out with my spouse,
-   etc. are all great ways to break up the day into smaller chunks of
-   extremely focused work. The sub-conscious also seems to be pretty
-   good at making progress on a problem - I find that if I leave a
-   task and come back to it, many times I return with a clarity that I
-   might be missing if I spent that time at my desk banging my head
-   against the problem. As an anecdote, try and avoid the internet and
-   your phone while working. Smart people make a lot of money
-   designing apps and websites to be distracting and addicting, so be
-   wary. Most importantly, enjoy and take advantage of the lack of
-   structure of graduate education to live the fullest life possible,
-   instead of seeking some unattainable goal of working all day, every
-   day.
+   per day in 4 hours of work than 8 (or even 12) hours, because I can
+   maintain a much higher level of focus if I know I am only working
+   for 4 hours on a given project. Going to seminars, meetings,
+   classes, social events, walking my dog, reading a book, cooking,
+   sleeping, playing sports, hanging out with my spouse, etc. are all
+   great ways to break up the day into smaller chunks of extremely
+   focused work. The sub-conscious also seems to be pretty good at
+   making progress on a problem - I find that if I leave a task and
+   come back to it, many times I return with a clarity that I might be
+   missing if I spent that time at my desk banging my head against the
+   problem. Enjoy and take advantage of the lack of structure of
+   graduate education to live the fullest life possible, instead of
+   seeking some unattainable goal of working all day, every day.
 4. *Take classes* - graduate school is the last chance for most of us
    to take classes, so I recommend taking advantage, even later in
    your Ph.D. But, as you get later in your Ph.D. filter classes to
    those that are based more around an open final project than a lot
    of assignments and exams. This way, the final project and your time
    spent working on the course will (hopefully) directly contribute to
-   your dissertation and/or publications. If you are a Columbia
-   student, my [[file:courses.html][course recommendations]] could be useful.
+   your dissertation and/or publications. Some good examples of
+   courses of this type are those [[http://www.cs.columbia.edu/~blei/courses.html][offered by David Blei]], which I
+   highly recommend.
 5. *Diversify projects, interests, and commitments* - Get involved
    with other stuff besides research. This could be teaching, putting
    on workshops, administration (e.g. graduate student councils,

@@ -19,29 +19,19 @@
 
 *** Teaching
 
-    My goal for teaching is to shift education as far as possible
-    towards a collaboration between students and teachers. Ideally
-    there is a two way dialog and everyone works together to improve
-    the learning process (and learn).  I think technology can help, if
-    thoughtfully deployed.
+    I approach teaching and learning as a collaborative process
+    between teachers and students.
 
     - [[https://massma.github.io/ltf-github-website-courses/][Git for course deployment and websites]] - a workshop on how to
-      use [[https://github.com/][Github]] as a tool to deploy course websites and materials,
-      and allow students, professors, and TAs to collaborate on
-      improving course materials. I put this together with funding
-      from and collaboration with Columbia's [[https://ctl.columbia.edu/][Center for Teaching and
-      Learning]].
+      use [[https://github.com/][Github]] as a tool to deploy course websites and materials and
+      allow students, professors, and TAs to collaborate on improving
+      course materials. I put this together with funding and support from
+      Columbia's [[https://ctl.columbia.edu/][Center for Teaching and Learning]].
 
 *** Resources (mostly for fellow students)
 
-    The origins of each of these pages are discussions and
-    emails. After rehashing the same content multiple times I decided
-    to just put it on the web for easy linking, and in case it is
-    useful to the public.
-
     - [[file:writing.html][Writing]]
     - [[file:grad-school.html][Tips for Ph.D. students]]
-    - [[file:courses.html][Recommended courses at Columbia]]
 
 *** Links
     - [[https://gentinelab.eee.columbia.edu/][Dr. Pierre Gentine's home page]] - my current advisor's website
@@ -58,7 +48,7 @@
     New York, NY 10027
 
     email: /akm2203 "at" columbia "dot" edu/ \\
-    [[file:akm.asc][GPG Public key]] - id: 3B71B2E20E29FF1B
+    [[file:akm.asc][PGP Public key]] - id: 3B71B2E20E29FF1B
 
 
 ------

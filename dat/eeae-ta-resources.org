@@ -1,0 +1,94 @@
+#+PAGETITLE: EEAE TA Resources
+#+STARTUP:    showall
+#+AUTHOR: Adam Massmann
+#+EMAIL: akm2203 "at" columbia "dot" edu
+#+LANGUAGE: en
+
+** EEAE TA Documentation: Help out the next TA generation (which could be you!)
+
+   This is the website for a [[https://ctl.columbia.edu/][CTL]]-sponsered workshop on documenting TA
+   course materials. The workshop is hosted in an
+   asynchronous/sychronous format (details below). Particpants will
+   learn first hand how to document course materials by contributing
+   to a repository of EEAE documentation.
+
+   After the workshop is over, I will modify this website to become a
+   landing page for future TAs' use. Basically, when TAs get their TA
+   assignment for the semester, I will grant them permission to view
+   the course materials for their course, and then they can come here
+   and use all of the previous TA's materials (details below). At the
+   end of the semester, they will add their notes and contributions ot
+   the course, so future TAs will get the same benefit. This type of
+   community effort and repository will save department TAs a ton of
+   time in the long run: it may take a little time to document your
+   course contributions at the end of the semster, but it will save
+   you a bunch of time next year when you benefit from others' work.
+
+** Objectives
+
+   - Value organization and documentation as a way to collectively
+     save all EEAE TAs time: there is a lot of repeat work (e.g.,
+     generating solutions) that can be avoided.
+   - Learn types of organization that can save both the community and
+     indiviudal TAs time. In particular, clear and well organized
+     grading rubrics can help the grading process, mediate grading
+     disagreements with students, and improve course consistancy
+     year-to-year.
+   - Apply revisions to improve course materials: revising problem
+     sets, solutions, and frequenlty asked questiions/answers can
+     remove pain points for future TAs. In particular, ambiguos
+     problems should be removed through revision; these are a main
+     pain point for many TAs during grading, office hours, and student
+     questions.
+   - Awareness of available tools for communal documentation, and
+     their strengths and weeknesses.
+
+** Asychonous participation
+
+   Please read through and examine links in "[[*Materials to Document][Materials to Document]]", "[[*Contributing
+ Guidelines][Contributing Guidelines]]", and "[[*Repository Tools][Repository Tools]]." Then, add any
+documentation you have created as a part of your TA responsibilities
+to the corresponding Google Drive folders for your course, linked at
+the bottom of the page. At a minimum, please document your TA
+responsibilities for the course, and the average amount of time you
+spent TAing teach week. Just these few items will help future TAs plan
+their semester (try and base the time spent on pre-COVID-19 conditions
+in Jan/Feb). But more is better when it comes to documentation, so if
+you can fill in many of the materials in "Materials to Document" that
+would be great!
+
+*If your course is not listed, or you do not have permission, please
+contact Adam (uni: akm2203) and he will fix it.*
+
+If you are not a TA, you can still contribute to the general EEAE
+Ph.D. student resources pages. At a minimum please add your name,
+email, start year, and advisor to the master page.
+
+** Synchronous participation
+
+   Towards the end of the workshop period (April 13-17) I will
+   schedule a zoom meeting based on people's availability. This will
+   be a 45 minute session where we can discuss repository design
+   choice, materials, and a plan for the future. This will be a very
+   informal meeting, so is also a chance for us to see each other and
+   catch up with all of the chaos that has been going on!
+
+** Materials to Document
+
+
+
+** Contributing Guidelines
+
+
+** Repository Tools
+
+** This workshop, the CTL and the LTF program
+
+   This workshop is sponsered by the [[https://ctl.columbia.edu/][Center for Teaching and
+   Learning]]'s (CTL) [[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellowship]] (LTF). LTFs receive a
+   stipend of $1000 per a semester to attend 3 pedagogy workshops for
+   professional personal develoment, host their own pedagogy related
+   workshop, and liason between acaedmic deparments and the CTL. The
+   CTL also offers a bunch of programming to help graduate students
+   and instructors; see their website for more details. A good
+   starting point is also the [[https://ctl.columbia.edu/graduate-instructors/programs-for-graduate-students/ctl-teaching-development-program/][Teachign Development Program]].

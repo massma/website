@@ -6,56 +6,59 @@
 
 ** EEAE TA Documentation: Help out the next TA generation (which could be you!)
 
-   This is the website for a [[https://ctl.columbia.edu/][CTL]]-sponsered workshop on documenting TA
-   course materials. The workshop is hosted in an
-   asynchronous/sychronous format (details below). Particpants will
-   learn first hand how to document course materials by contributing
-   to a repository of EEAE documentation.
+   This is the website for a [[https://ctl.columbia.edu/][CTL]]-sponsored workshop on documenting TA
+   course materials and adding them to a repository for future TAs'
+   use. The workshop is hosted in an asynchronous/synchronous format
+   (details below). Participants will learn first hand how to document
+   course materials by contributing to a repository of EEAE
+   documentation.
 
    After the workshop is over, I will modify this website to become a
    landing page for future TAs' use. Basically, when TAs get their TA
-   assignment for the semester, I will grant them permission to view
-   the course materials for their course, and then they can come here
-   and use all of the previous TA's materials (details below). At the
-   end of the semester, they will add their notes and contributions ot
-   the course, so future TAs will get the same benefit. This type of
-   community effort and repository will save department TAs a ton of
-   time in the long run: it may take a little time to document your
-   course contributions at the end of the semster, but it will save
-   you a bunch of time next year when you benefit from others' work.
+   assignment for the semester, they will gain permission to view the
+   course respository containing all past materials, and then they can
+   come here and use all of the previous TA's materials (details
+   below). At the end of the semester, they will add their notes and
+   contributions from the course, so future TAs will get the same
+   benefit. This type of community effort and repository will save
+   department TAs a ton of time in the long run: it may take a little
+   time to document your course contributions at the end of the
+   semester, but it will save you a bunch of time next year when you
+   benefit from others' work.
 
-** Objectives
+** Workshop Objectives for Participants
 
-   - Value organization and documentation as a way to collectively
+   - Understand how organization and documentation can collectively
      save all EEAE TAs time: there is a lot of repeat work (e.g.,
-     generating solutions) that can be avoided.
-   - Learn types of organization that can save both the community and
-     indiviudal TAs time. In particular, clear and well organized
+     generating solutions) that can be avoided year to year. Also
+     within a given year, strategies like the development of formal
      grading rubrics can help the grading process, mediate grading
-     disagreements with students, and improve course consistancy
+     disagreements with students, and improve course consistency
      year-to-year.
    - Apply revisions to improve course materials: revising problem
-     sets, solutions, and frequenlty asked questiions/answers can
-     remove pain points for future TAs. In particular, ambiguos
+     sets, solutions, and frequently asked questions/answers can
+     remove major time sinks for future TAs. In particular, ambiguous
      problems should be removed through revision; these are a main
      pain point for many TAs during grading, office hours, and student
      questions.
    - Awareness of available tools for communal documentation, and
-     their strengths and weeknesses.
+     their strengths and weaknesses.
 
-** Asychonous participation
+** Asynchronous participation
 
-   Please read through and examine links in "[[*Materials to Document][Materials to Document]]", "[[*Contributing
- Guidelines][Contributing Guidelines]]", and "[[*Repository Tools][Repository Tools]]." Then, add any
-documentation you have created as a part of your TA responsibilities
-to the corresponding Google Drive folders for your course, linked at
-the bottom of the page. At a minimum, please document your TA
-responsibilities for the course, and the average amount of time you
-spent TAing teach week. Just these few items will help future TAs plan
-their semester (try and base the time spent on pre-COVID-19 conditions
-in Jan/Feb). But more is better when it comes to documentation, so if
-you can fill in many of the materials in "Materials to Document" that
-would be great!
+   Please read through and examine links in the sections: "[[*Materials to Document][Materials
+ to Document]]", "/Contributing Guidelines/", and "[[*Repository Tools][Repository Tools]]."
+ Then, add any documentation you have created as a part of your TA
+ responsibilities to the corresponding Google Drive folders for your
+ course, linked at the bottom of the page. At a minimum, please
+ document your TA responsibilities for the course, and the average
+ amount of time you spent TAing teach week. Just these two items will
+ help future TAs plan their semester (try and base the time spent on
+ pre-COVID-19 conditions in Jan/Feb). But more is better when it comes
+ to documentation, so if you can fill in many of the materials in
+ "/Materials to Document/" that would be really great! Remember the
+ expected amount you get out of any community effort is proportional
+ to the amount you put in.
 
 *If your course is not listed, or you do not have permission, please
 contact Adam (uni: akm2203) and he will fix it.*
@@ -76,19 +79,115 @@ email, start year, and advisor to the master page.
 ** Materials to Document
 
 
+    - *TA responsibilities and weekly time spent on each
+      responsibility (on average)*. The department does not tell TAs
+      how much time they will spend on a course. Documenting how much
+      time you spent (on average) as a TA is a way for future TAs to
+      get an idea of how much time they will spend, so they can plan
+      accordingly. Documenting responsibilities is a very simple and
+      minimal piece of documentation that can be very helpful for
+      future TAs.
+    - *Solutions to problem sets and exams*, and any other answer
+      keys. Many TAs needlessly repeat work by generating the same set
+      of solutions as previous years' TAs.
+    - *Student FAQ (and answers)*. Many students ask the same
+      questions; documenting the answers to those questions can save
+      future TAs the time needed to re-craft the same answers. Also
+      through iteration we can improve the answers to frequently asked
+      questions year after year.
+    - *Revised problem sets and lab activities*. Consider revising
+      problem sets again /after/ grading for the benefit of next
+      year's TAs. For example, if an ambiguous question created issues
+      during grading, revise the question to be less ambiguous and post
+      it.
+    - *Grading rubrics*. Grading rubrics make the grading process more
+      efficient, help mediate grading disagreements with students, and
+      improve course consistency year-to-year. Creating grading
+      rubrics can save you time, and adding them to the course
+      repository can save future TAs time.
+    - *Learning Objectives*. Learning objectives are what you hope
+      students will gain from a course, lesson, or problem set. There
+      is a whole course design philosphy called "backwards design"
+      where the teacher defines the learning objectives first, and
+      then designs every element of the course in service of meeting
+      the learning objectives. Documeting learning objectives can help
+      future TAs design course elements and assignments. For more on
+      learning objectives, I recommend the CTL's [[https://www.columbia.edu/content/events/essentials-teaching-and-learning-backward-design-and-learning-objectives-graduate-students][Workshop on Backwards
+      Design and Learning Objectives]]. They ususally offer it every
+      semester.
+    - *Course notes, lecture slides and syllabus.* Self explanatory,
+      but documeting can save future TAs time, and imrpove the quality
+      of the course through iterative refinement.
 
 ** Contributing Guidelines
 
+   Please upload all files to the Google Drive folder
+   "Course-Materials-Uploads" in the directory corresponding to the
+   course you TA'd for.
+
+   For individual files that you upload, please add a dated prefix to
+   the filename of the form "YYYY-Semester-filename.extension". Please
+   *do not include any spaces* in the filename. For example, if I was
+   uploading a picture of the first midterm solutions for Fall of 2019
+   I would call the file:
+
+   "2019-Fall-midterm1.jpg"
+
+   Or if I was uploading a pdf of the first Problem Set for a course
+   in Spring of 2020, I would call the file:
+
+   "2020-Spring-ps1.pdf"
+
+   Please add your name, contact infomration, and TA reponsibilities
+   in the Google Doc called "PreviousTAs" which is in the directory
+   corresponding to the course you TA'd for. Any Student FAQs you came
+   across should be added or edited in the Google Doc titled
+   "StudentFAQ(with answers)" which is in the same directory.
+
+   Please reach out to Adam (uni: akm2203) if you have any questions.
 
 ** Repository Tools
 
+   Initially I set up the repository to be hosted on Google Drive with
+   help from Google Doc, etc.. The benefits of this approach are:
+
+   - All Columbia affiliates have Google Suites associate with their
+     uni's. This makes access and managing permissions easier.
+   - Can restrict access to only certain people (e.g. people who are
+     or have been TAs to the course - very important for solutions).
+   - Low barrier to entry (most people know how to use already, or can
+     learn quickly how to use Google Suite (Drive, etc.)
+
+   Disadvantages:
+
+   - ethics of using Google, a large corporation dealing in consumer
+     advertising and surveillance.
+
+   There are other possible repositories for hosting websites. These
+   include:
+
+   - Dropbox
+   - Gihub (or Gitlab, bitbucket)
+   - Custom website (e.g. Github hosted)
+
+   We will discuss advantages and disadvantages of repository hosting
+   software and organization strategies in the [[*Synchronous participation][Synchronous
+   participation]] session. We can use our initial experience with Google
+   Drive to modify and change the approach to organization and hosting
+   going forwards.
+
+** Contact
+
+   Please contact Adam Massmann (akm2203) with any questions and
+   concerns.
+
 ** This workshop, the CTL and the LTF program
 
-   This workshop is sponsered by the [[https://ctl.columbia.edu/][Center for Teaching and
+   This workshop is sponsored by the [[https://ctl.columbia.edu/][Center for Teaching and
    Learning]]'s (CTL) [[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellowship]] (LTF). LTFs receive a
    stipend of $1000 per a semester to attend 3 pedagogy workshops for
-   professional personal develoment, host their own pedagogy related
-   workshop, and liason between acaedmic deparments and the CTL. The
+   professional personal development, host their own pedagogy related
+   workshop, and liaison between academic departments and the CTL. The
    CTL also offers a bunch of programming to help graduate students
    and instructors; see their website for more details. A good
-   starting point is also the [[https://ctl.columbia.edu/graduate-instructors/programs-for-graduate-students/ctl-teaching-development-program/][Teachign Development Program]].
+   starting point is also the [[https://ctl.columbia.edu/graduate-instructors/programs-for-graduate-students/ctl-teaching-development-program/][Teaching Development Program]].

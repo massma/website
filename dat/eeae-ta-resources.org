@@ -47,16 +47,18 @@
       during your course and you documented the answers, add these to
       the Google Doc "StudentFAQ(with answers)" in the directory
       corresponding to your course. An example is [[https://docs.google.com/document/d/1tU4cYfTnPPxTATnUdLqaK5Z69cOEnaHKGZXop56H-AQ/edit?usp=sharing][here]].
-   6. *Required*: If you have never been a TA, you can still
-      participate! Add your contact information to the
-      [[https://docs.google.com/document/d/1G9RP-Xpefz0XbgiVjvUEUR8BPmGeOqkGRgEAM-SHsbk/edit?usp=sharing][EAEE-PhD-Student-Resources]] Google Doc, and optionally update the
-      document with any resources or information you think will be
-      helpful to new EAEE students (that may or may not be TAs). You
-      can also upload any other materials that do not fit within the
-      document format to the [[https://drive.google.com/drive/folders/16vFLRhV8zds_UYv3W_SXswAD45no8QEu?usp=sharing][folder]].
-   7. Attend the synchronous zoom session, time: TBD, where we will
-      discuss and improve the process for sharing course materials and
-      documents, and put together a plan for the future.
+   6. *Required for non-TAs, recommended for all*: If you have never
+      been a TA, you can still participate! Add your contact
+      information to the [[https://docs.google.com/document/d/1G9RP-Xpefz0XbgiVjvUEUR8BPmGeOqkGRgEAM-SHsbk/edit?usp=sharing][EAEE-PhD-Student-Resources]] Google Doc, and
+      optionally update the document with any resources or information
+      you think will be helpful to new EAEE students (that may or may
+      not be TAs). You can also upload any other materials that do not
+      fit within the document format to the [[https://drive.google.com/drive/folders/16vFLRhV8zds_UYv3W_SXswAD45no8QEu?usp=sharing][folder]].
+   7. Attend the synchronous zoom session where we will discuss and
+      improve the process for sharing course materials and documents,
+      and put together a plan for the future. The time is to be
+      determined, but I will send out an email and post here on Friday
+      April 10th. It will be sometime the week of April 13 - 17th.
 
 ** Workshop Objectives for Participants
 

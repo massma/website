@@ -146,11 +146,11 @@ models and data
    [[https://doi.org/10.1002/2015WR017773%20][doi:10.1002/2015WR017773]].
  - Lapo, K.E., Hinkelman, L.M., Landry, C.C., *Massmann, A.K.* and
    Lundquist, J.D., 2015. A simple algorithm for identifying periods
-   of snow accumulation on a radiometer. Water Resources Research,
+   of snow accumulation on a radiometer. /Water Resources Research/,
    51(9), pp.7820-7828. [[https://doi.org/10.1002/2015WR017590][doi:10.1002/2015WR017590]].
  - Lundquist, J.D., Wayand, N.E., *Massmann, A.*, Clark, M.P., Lott,
    F. and Cristea, N.C., 2015. Diagnosis of insidious data
-   disasters. Water Resources Research, 51(5), pp.3815-3827.
+   disasters. /Water Resources Research/, 51(5), pp.3815-3827.
    [[https://doi.org/10.1002/2014WR016585][doi:10.1002/2014WR016585]].
 
 #+LATEX: \newpage

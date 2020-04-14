@@ -1,0 +1,54 @@
+* discussion outline
+** How is everyone doing? Where is everyone right now?
+
+** Any questions?
+
+** Goals for meeting
+
+   - touch base with everyone
+
+   - improve and critique the TA repository
+
+   - discuss a plan for the future
+
+   - introduce EAEE TAs to more of CTL's programming
+
+** Any thoughts on what did/didn't work about the current repository?
+
+** Documentation - any changes, additions or updates?
+
+   - Contact info, TA responsibilities, and time spent
+
+   - Student FAQ
+
+   - Revised problem sets and lab activities
+
+   - Solutions (problem sets, exams, etc.)
+
+   - Grading rubrics ([[https://ctl.columbia.edu/graduate-instructors/programs-for-graduate-students/workshops-for-graduate-students/essentials/]["Assessment & Feedback" CTL workshop]])
+
+   - Learning objectives ([[https://ctl.columbia.edu/graduate-instructors/programs-for-graduate-students/workshops-for-graduate-students/essentials/]["Learning Objectives and Backwards
+     Design" CTL workshop]])
+
+   - Course notes, lecture slides, etc.
+
+   - Syllabus ([[https://ctl.columbia.edu/announcements/grad-student-weekly-dec-9/]["Syllabus from Scratch" CTL workshop]])
+
+** Alternative hosting options
+
+   - Dropbox
+
+   - Github (James Github example?)
+
+   - Custom website (e.g. Github hosted)
+
+** Plan for the future/next steps
+
+** CTL Programming and Survey
+
+   https://ctl.columbia.edu/ (show TDP and fellowship
+   opportunities for graduate students)
+
+   http://bit.ly/ltf-event
+
+   screen capture!

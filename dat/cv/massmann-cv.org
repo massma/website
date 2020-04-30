@@ -122,7 +122,7 @@ models and data
  - *Massmann, A.*, Gentine, P. and Lin, C., 2019. When does vapor
    pressure deficit drive or reduce evapotranspiration? /Journal of
    Advances in Modeling Earth Systems/, 11. [[https://doi.org/10.1029/2019MS001790][doi:10.1029/2019MS001790]]
-   [[https://arxiv.org/abs/1805.05444][arXiv:1805.05444]].
+   [[https://arxiv.org/abs/1805.05444][arXiv:1805.05444]]. * *Top Downloaded Paper (10%), 2018-2019*
  - Gentine, P., *Massmann, A.*, Lintner B.R., Alemohammad, S.H., Fu,
    R., Green, J.K., Kennedy, D. and Vilà-Guerau de
    Arellano J., 2019. Land Atmosphere Interaction in the

@@ -7,7 +7,7 @@
 ** EAEE Graduate Student and TA Documentation Repository
 
    This website hosts documentation for EAEE graduate students and
-   TAs. The website if provided for EAEE students, by EAEE students,
+   TAs. The website is provided for EAEE students, by EAEE students,
    and was originally put together by the participants of a [[https://ctl.columbia.edu/][Center for
    Teaching and Learning]]-sponsored workshop. The original workshop
    website is available at
@@ -15,66 +15,69 @@
    if you want more information.
 
    Please browse the website for links to general documentation for
-   graduate student and TAs, as well as course-specific documentation
-   for TAs. To protect materials, course-specific documentation has
-   restricted permissions to those that are currently or have
-   previously been TAs of the course. If you cannot access materials
-   that you should have permission for, just email Adam (uni: akm2203)
-   and he will fix it.
+   graduate students and TAs, as well as course-specific documentation
+   for TAs. If have any questions or comments, or notice any errors,
+   please reach out to Adam (uni: akm2203).
 
-** General EAEE Graduate Student resources (not TA-specific)
+*** General EAEE Graduate Student resources (not TA-specific)
 
-   - [[https://drive.google.com/open?id=1G9RP-Xpefz0XbgiVjvUEUR8BPmGeOqkGRgEAM-SHsbk][EAEE-PhD-Student-Resources]] - put your contact information, as
-     well as anything you think would be useful for new EAEE Ph.D. students.
-   - [[https://drive.google.com/open?id=16vFLRhV8zds_UYv3W_SXswAD45no8QEu][EAEE Ph.D. Resource Folder]] - upload any materials that are useful
-     for new EAEE Ph.D. students that do not fit into the above Google
-     Doc.
+    - [[https://drive.google.com/open?id=1G9RP-Xpefz0XbgiVjvUEUR8BPmGeOqkGRgEAM-SHsbk][EAEE-PhD-Student-Resources]] - contact information of EAEE graduate
+      students, as well as general resources for students.
+    - [[https://drive.google.com/open?id=16vFLRhV8zds_UYv3W_SXswAD45no8QEu][EAEE Ph.D. Resource Folder]] - folder for any materials that do not
+      fit into the above Google Doc.
 
-** General EAEE TA resources (not course-specific)
-   - [[https://drive.google.com/open?id=11CtnP6b9XiIIkwqhN-H3P8evJnZzAOfNNfc6MnvpOmk][EAEE General TA Resources]] - document of general ideas and
-     resources for TAs.
-   - [[https://drive.google.com/open?id=11zI63C5Vvl85B4pWQBX0SRVLIgYsPb0J][EAEE General TA Folder]] - a place to upload any stand alone
-     documents or materials.
+*** General EAEE TA resources (not course-specific)
+    - [[https://drive.google.com/open?id=11CtnP6b9XiIIkwqhN-H3P8evJnZzAOfNNfc6MnvpOmk][EAEE General TA Resources]] - document of general ideas and
+      resources for TAs.
+    - [[https://drive.google.com/open?id=11zI63C5Vvl85B4pWQBX0SRVLIgYsPb0J][EAEE General TA Folder]] - a place to upload any stand alone
+      documents or materials.
 
-** Repository TO-DO list
+*** Repository TO-DO list
 
-   - Think of a catchy name for these resources. "EAEE Graduate
-     Student and TA Documentation Repository" isn't drawing anyone in!
-   - Outreach to include new Ph.D.-track students and TAs at EAEE
-     orientation. This might require creating a separate Ph.D.-track
-     only orientation that does not yet exist. During the workshop we
-     discussed just a really short (~1 hr) student-run orientation
-     where we introduce things like this repository, and more
-     generally just being a graduate student in the department. Sara
-     (thanks Sara!)  volunteered to reach out to the department about
-     how we might do this (Thanos?), and Adam is also available to
-     help/facilitate the orientation.
-   - (at some point) Pass this repository on when Adam graduates. Ian
-     volunteered to take it over (thanks Ian!).
+    - Think of a catchy name for these resources. "EAEE Graduate
+      Student and TA Documentation Repository" isn't drawing anyone in!
+    - Outreach to include new Ph.D.-track students and TAs at EAEE
+      orientation. This might require creating a separate Ph.D.-track
+      only orientation that does not yet exist. During the workshop we
+      discussed just a really short (~1 hr) student-run orientation
+      where we introduce things like this repository, and more
+      generally just being a graduate student in the department. Sara
+      (thanks Sara!)  volunteered to reach out to the department about
+      how we might do this (Thanos?), and Adam is also available to
+      help/facilitate the orientation.
+    - (at some point) Pass this repository on when Adam graduates. Ian
+      volunteered to take it over (thanks Ian!).
 
-** Contributing guidelines for course-specific materials
+*** Contributing guidelines for course-specific materials
+    To protect materials, course-specific documentation has restricted
+    permissions to those that are currently or have previously been TAs
+    of the course. If you cannot access materials that you should have
+    permission for, just email Adam (uni: akm2203) and he will fix
+    it. Maybe even more importantly, if you somehow discover that you
+    have access to materials that you should not have permission to,
+    please contact Adam immediately so he can fix it.
 
-   For file uploads to the Google Drive folder in course-specific
-   repositories, please add a dated prefix to the filename of the
-   form "YYYY-Semester-filename.extension." Please *do not include any
-   spaces* in the filename. For example, if I was uploading a picture
-   of the first midterm solutions for Fall of 2019 I would call the
-   file:
+    For file uploads to the Google Drive folder in course-specific
+    repositories, please add a dated prefix to the filename of the
+    form "YYYY-Semester-filename.extension." Please *do not include any
+    spaces* in the filename. For example, if I was uploading a picture
+    of the first midterm solutions for Fall of 2019 I would call the
+    file:
 
-   "2019-Fall-midterm1-solutions.jpg"
+    "2019-Fall-midterm1-solutions.jpg"
 
-   Or if I was uploading a pdf of the first Problem Set for a course
-   in Spring of 2020, I would call the file:
+    Or if I was uploading a pdf of the first Problem Set for a course
+    in Spring of 2020, I would call the file:
 
-   "2020-Spring-ps1.pdf"
+    "2020-Spring-ps1.pdf"
 
-   Please reach out to Adam (uni: akm2203) if you have any questions.
+    Please reach out to Adam (uni: akm2203) if you have any questions.
 
-   If you already have a course repository hosted on another platform
-   like Github or Dropbox, you can continue to host the repository on
-   that platform. Just add a Google document to the Google drive
-   folder with a link to the external repository and instructions for
-   how to obtain access/edit permissions.
+    If you already have a course repository hosted on another platform
+    like Github or Dropbox, you can continue to host the repository on
+    that platform. Just add a Google document to the Google drive
+    folder with a link to the external repository and instructions for
+    how to obtain access/edit permissions.
 
 *** Ideas of course-specific materials to Document
 

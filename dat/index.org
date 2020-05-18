@@ -47,7 +47,7 @@
     New York, NY 10027
 
     email: /akm2203 "at" columbia "dot" edu/ \\
-    [[file:akm.asc][PGP Public key]] - id: 3B71B2E20E29FF1B
+    [[file:akm.asc][PGP Public key]] - id: 64D3824DEEA15678
 
 
 ------

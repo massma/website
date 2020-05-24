@@ -23,9 +23,11 @@
     between teachers and students.
 
     - [[https://massma.github.io/ltf-github-website-courses/][Git for course deployment and websites]] - a workshop on how to
-      use [[https://github.com/][Github]] as a tool to deploy course websites and materials and
-      allow students, professors, and TAs to collaborate on improving
-      course materials. I put this together with funding and support from
+      use [[https://github.com/][Github]] as a tool to:
+        1) deploy course websites and materials, and
+        2) allow students, professors, and TAs to collaborate on
+          improving course materials.
+      I put this together with funding and support from
       Columbia's [[https://ctl.columbia.edu/][Center for Teaching and Learning]].
 
 *** Resources (mostly for fellow students)

@@ -37,6 +37,8 @@ publicToDat pul = case splitDirectories pul of
     else error "called publicToDat on a file not in publc_html"
   _ -> pul
 
+cvStyle = (</> "mycv.sty")
+
 main :: IO ()
 main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
   want
@@ -50,6 +52,7 @@ main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
       , "eaee-ta-resources-workshop-version.html"
       , "cv" </> "massmann-cv.html"
       , "cv" </> "massmann-cv.pdf"
+      , "cv" </> "massmann-cv-short.pdf"
       ]
     )
 
@@ -69,7 +72,7 @@ main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
 
   "dat/cv/*.html" %> \out -> do
     let s = out -<.> "org"
-    need [s]
+    need [s, (cvStyle . takeDirectory $ out)]
     cmd_
       (Cwd (takeDirectory out))
       Shell
@@ -85,7 +88,7 @@ main = shakeArgs shakeOptions { shakeFiles = "_build" } $ do
 
   "dat/cv/*.pdf" %> \out -> do
     let s = out -<.> "org"
-    need [s]
+    need [s, (cvStyle . takeDirectory $ out)]
     cmd_
       (Cwd (takeDirectory out))
       Shell

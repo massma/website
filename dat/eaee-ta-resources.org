@@ -29,11 +29,11 @@
       resources on fighting against racism and bias, and promoting
       inclusion within EAEE.
 
-*** Origins of this website
+** Origins of this website and TA resources
 
    This website was originally put together by the participants of a
-   [[https://ctl.columbia.edu/][Center for Teaching and Learning]]-sponsored workshop. The original
-   workshop website is available at
+   [[https://ctl.columbia.edu/][Center for Teaching and Learning]]-sponsored workshop on TA
+   documentation. The original workshop website is available at
    http://www.columbia.edu/~akm2203/eaee-ta-resources-workshop-version.html
    if you want more information.
 

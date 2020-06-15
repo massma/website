@@ -15,8 +15,7 @@
 #+LaTeX_HEADER:  \setlength{\parskip}{-0.05cm}
 
 #+BEGIN_EXPORT latex
-\resheader{Adam Massmann}{http://www.columbia.edu/~akm2203/}{New York,
-NY}{akm2203@columbia.edu}{+1 206 919 1364}
+\resheader{Adam Massmann}{http://www.columbia.edu/~akm2203/}{https://github.com/massma}{akm2203@columbia.edu}{+1 206 919 1364}
 #+END_EXPORT
 
 @@html:<a href="../index.html">{Back to Home}</a>@@
@@ -53,8 +52,8 @@ models and data
 
 * Awards, fellowships and scholarships
 
-- *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellow]]*, Columbia University, 2019-Present
 - *Presidential Fellow*, Columbia University, 2019-Present
+- *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellow]]*, Columbia University, 2019-2020
 - *PI, XSEDE Startup Allocation:* "A moist static energy approach to
   understanding wet and dry season transitions in the Amazon
   rainforest," 2016-2018
@@ -95,7 +94,7 @@ models and data
 * Additional education
   - /Innovative Teaching Summer Institute/, Columbia University Center
     for Teaching and Learning, June 2019
-  - /Implicit Bias Workshop/, Columbia University, March 15, 2019
+  - /Implicit Bias Workshop/, Columbia University, March 2019
   - /Fluid Dynamics of Sustainability and the Environment/, Department
     of Applied Mathematics and Theoretical Physics, University of
     Cambridge, August 2016
@@ -159,9 +158,9 @@ models and data
 * Presentations (first author)
  - Massmann, A., 2019. Causality and predictions; engineering and
    science: the applicability of causal methods to earth science and
-   the potential for progress at the human-environment interface,
-   /Columbia University Earth and Environmental Engineering Graduate
-   Symposium/, New York, NY.
+   the potential for progress at the human-environment interface. Oral
+   presentation, /Columbia University Earth and Environmental
+   Engineering Graduate Symposium/, New York, NY.
  - Massmann, A., 2019. Probabilistic graphical models, causality and
    software. Oral presentation, /Workshop on Data Analytics for Climate
    and Earth (DANCE)/, Arrowhead Lake, CA.
@@ -186,9 +185,9 @@ models and data
    presentation, /17th Conference on Mountain Meteorology/, Burlington,
    VT.
  - Massmann, A., Minder, J., Montecinos, A. and Fults, S., 2015
-   (invited). CCOPE-15 Trabajo Preliminar. Usando Perfiles de Radares
+   (invited). CCOPE-15 Trabajo Preliminar: Usando Perfiles de Radares
    para Clasificar Lluvia en la Cordillera Nahuelbuta [CCOPE-15
-   Preliminary Work. Using Radar Profiles to Classify Rain in the
+   Preliminary Work: Using Radar Profiles to Classify Rain in the
    Nahuelbuta Mountains]. /Seminario de Geofísica/, Universidad de
    Concepción, Concepción, Chile.
  - Massmann, A.K. and  Minder, J.R., 2015. Utilizing a Semi-idealized

@@ -7,17 +7,17 @@
 ** EAEE Graduate Student and TA Documentation Repository
 
    This website hosts documentation for EAEE graduate students and
-   TAs. The website is provided for EAEE students, by EAEE students,
-   and was originally put together by the participants of a [[https://ctl.columbia.edu/][Center for
-   Teaching and Learning]]-sponsored workshop. The original workshop
-   website is available at
-   http://www.columbia.edu/~akm2203/eaee-ta-resources-workshop-version.html
-   if you want more information.
+   TAs. The website is provided for EAEE students, by EAEE students
 
    Please browse the website for links to general documentation for
    graduate students and TAs, as well as course-specific documentation
    for TAs. If have any questions or comments, or notice any errors,
    please reach out to Adam (uni: akm2203).
+
+   *Contributions are enthusiastically encouraged!* A good first
+   contribution is to add your name and contact information to the
+   [[https://drive.google.com/open?id=1G9RP-Xpefz0XbgiVjvUEUR8BPmGeOqkGRgEAM-SHsbk][EAEE-PhD-Student-Resources]] document. Please feel free to add
+   comments or content to any and all Google Docs/Drive folders!
 
 *** General EAEE Graduate Student resources (not TA-specific)
 
@@ -25,12 +25,18 @@
       students, as well as general resources for students.
     - [[https://drive.google.com/open?id=16vFLRhV8zds_UYv3W_SXswAD45no8QEu][EAEE Ph.D. Resource Folder]] - folder for any materials that do not
       fit into the above Google Doc.
+    - [[https://docs.google.com/document/d/1vIPLfSkA6XfdMGeDzCCie-P64uCCdM9KRt-2Kk65opE/edit?usp=sharing][EAEE Graduate Student Inclusion and Anti-Racism Resources]] -
+      resources on fighting against racism and bias, and promoting
+      inclusion within EAEE.
 
-*** General EAEE TA resources (not course-specific)
-    - [[https://drive.google.com/open?id=11CtnP6b9XiIIkwqhN-H3P8evJnZzAOfNNfc6MnvpOmk][EAEE General TA Resources]] - document of general ideas and
-      resources for TAs.
-    - [[https://drive.google.com/open?id=11zI63C5Vvl85B4pWQBX0SRVLIgYsPb0J][EAEE General TA Folder]] - a place to upload any stand alone
-      documents or materials.
+*** Origins of this website
+
+   This website was originally put together by the participants of a
+   [[https://ctl.columbia.edu/][Center for Teaching and Learning]]-sponsored workshop. The original
+   workshop website is available at
+   http://www.columbia.edu/~akm2203/eaee-ta-resources-workshop-version.html
+   if you want more information.
+
 
 *** Repository TO-DO list
 
@@ -47,6 +53,13 @@
       help/facilitate the orientation.
     - (at some point) Pass this repository on when Adam graduates. Ian
       volunteered to take it over (thanks Ian!).
+
+*** General EAEE TA resources (not course-specific)
+    - [[https://drive.google.com/open?id=11CtnP6b9XiIIkwqhN-H3P8evJnZzAOfNNfc6MnvpOmk][EAEE General TA Resources]] - document of general ideas and
+      resources for TAs.
+    - [[https://drive.google.com/open?id=11zI63C5Vvl85B4pWQBX0SRVLIgYsPb0J][EAEE General TA Folder]] - a place to upload any stand alone
+      documents or materials.
+
 
 *** Contributing guidelines for course-specific materials
     To protect materials, course-specific documentation has restricted
@@ -300,6 +313,7 @@
       as needed.
     - [[https://drive.google.com/open?id=1-cJfQj-fjiO2c6fB5XZQSg0CQFKyX8Dr][Folder for uploading other course materials]] : folder for any
       other course materials (see ideas section above).
+
 
 ** Contact
 

@@ -11,8 +11,8 @@
 
    Please browse the website for links to general documentation for
    graduate students and TAs, as well as course-specific documentation
-   for TAs. If have any questions or comments, or notice any errors,
-   please reach out to Adam (uni: akm2203).
+   for TAs. If you have any questions or comments, or notice any
+   errors, please reach out to Adam (uni: akm2203).
 
    *Contributions are enthusiastically encouraged!* A good first
    contribution is to add your name and contact information to the

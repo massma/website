@@ -6,7 +6,7 @@ under either the BSD-3-clause or the Apache-2.0 license; see [[file:LICENSE.org]
 
 * Required software
  - [[https://pandoc.org/][pandoc]]
- - [[https://docs.haskellstack.org/en/stable/README/][Haskell Stack]]
+ - [[https://www.haskell.org/downloads/#minimal][The Haskell GHC Compiler and Cabal Build tool]]
  - [[https://www.tug.org/texlive/][texlive]]
  - [[https://www.gnu.org/software/emacs/][emacs]]
 
@@ -16,7 +16,7 @@ under either the BSD-3-clause or the Apache-2.0 license; see [[file:LICENSE.org]
    Clone this repository, enter directory, and run:
 
    #+BEGIN_SRC bash
-  stack build && stack exec build
+  cabal v2-build && cabal v2-run build
    #+END_SRC
 
 ** GNU/Linux instructions
@@ -24,7 +24,7 @@ under either the BSD-3-clause or the Apache-2.0 license; see [[file:LICENSE.org]
    Clone this repository, enter directory, and run:
 
    #+BEGIN_SRC bash
-  stack build && stack exec build
+  cabal v2-build && cabal v2-run build
    #+END_SRC
 
    or, with GNU Make:

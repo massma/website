@@ -1,7 +1,7 @@
 # just a dummy makefile to call shake
 
 all :
-	stack build && stack exec build -- # --lint --progress
+	cabal v2-build && cabal run build -- # --lint --progress
 
 clean :
-	stack build && stack exec build -- clean
+	cabal v2-build && cabal run build -- clean

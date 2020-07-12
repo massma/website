@@ -62,6 +62,9 @@
       help/facilitate the orientation.
     - (at some point) Pass this repository on when Adam graduates. Ian
       volunteered to take it over (thanks Ian!).
+    - Once we are all back in Mudd, create a department library where
+      we share books. Also include an undergraduate textbook section
+      and give the undergrads access. (thanks Ian!).
 
 *** General EAEE TA resources (not course-specific)
     - [[https://drive.google.com/open?id=11CtnP6b9XiIIkwqhN-H3P8evJnZzAOfNNfc6MnvpOmk][EAEE General TA Resources]] - document of general ideas and

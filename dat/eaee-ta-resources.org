@@ -1,10 +1,10 @@
-#+PAGETITLE: EAEE TA Resources
+#+PAGETITLE: EAEE Grad Student Resources
 #+STARTUP:    showall
 #+AUTHOR: Adam Massmann
 #+EMAIL: akm2203 "at" columbia "dot" edu
 #+LANGUAGE: en
 
-** EAEE Graduate Student and TA Documentation Repository
+** EAEE Graduate Student Resources
 
    This website hosts documentation for EAEE graduate students and
    TAs. The website is provided for EAEE students, by EAEE students
@@ -50,16 +50,7 @@
 *** Repository TO-DO list
 
     - Think of a catchy name for these resources. "EAEE Graduate
-      Student and TA Documentation Repository" isn't drawing anyone in!
-    - Outreach to include new Ph.D.-track students and TAs at EAEE
-      orientation. This might require creating a separate Ph.D.-track
-      only orientation that does not yet exist. During the workshop we
-      discussed just a really short (~1 hr) student-run orientation
-      where we introduce things like this repository, and more
-      generally just being a graduate student in the department. Sara
-      (thanks Sara!)  volunteered to reach out to the department about
-      how we might do this (Thanos?), and Adam is also available to
-      help/facilitate the orientation.
+      Student Resources" isn't drawing anyone in!
     - (at some point) Pass this repository on when Adam graduates. Ian
       volunteered to take it over (thanks Ian!).
     - Once we are all back in Mudd, create a department library where
@@ -71,7 +62,6 @@
       resources for TAs.
     - [[https://drive.google.com/open?id=11zI63C5Vvl85B4pWQBX0SRVLIgYsPb0J][EAEE General TA Folder]] - a place to upload any stand alone
       documents or materials.
-
 
 *** Contributing guidelines for course-specific materials
     To protect materials, course-specific documentation has restricted

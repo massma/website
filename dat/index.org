@@ -33,6 +33,10 @@
 *** Resources (mostly for fellow students)
 
     - [[file:writing.html][Writing]]
+    - [[file:eaee-ta-resources.html][EEE Graduate Student Resources]] - department specific
+      documentation provided by graduate students, for graduate
+      students (and TAs)
+
 
 *** Links
     - [[https://gentinelab.eee.columbia.edu/][Dr. Pierre Gentine's home page]] - my current advisor's website

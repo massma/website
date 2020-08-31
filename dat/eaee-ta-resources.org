@@ -21,7 +21,14 @@
 
 *** General EAEE Graduate Student resources (not TA-specific)
 
-    - [[https://drive.google.com/open?id=1G9RP-Xpefz0XbgiVjvUEUR8BPmGeOqkGRgEAM-SHsbk][EAEE-PhD-Student-Resources]] - contact information of EAEE graduate
+    - [[https://drive.google.com/file/d/1-cW1Rgtk-prQiiB6mQUxH6fGwDnEpbnf/view?usp=sharing][2020 EAEE Ph.D. Orientation Slides]] - put together by Chae
+      (thanks!): thorough documentation on Ph.D. program requirements,
+      teaching, and funding opportunities.
+    - [[https://docs.google.com/document/d/15XLTX804nb2GqjX6Kyi9Y8hvwzYY8rXKRRRxKpaKTIQ/edit][EAEE Working Orientation Document]] - this is the place to
+      document changes to the program, and also the source of the most
+      up to date information on program requirements. Every year,
+      updated orientation slides will be built from this document.
+    - [[https://drive.google.com/open?id=1G9RP-Xpefz0XbgiVjvUEUR8BPmGeOqkGRgEAM-SHsbk][EAEE PhD Student Resources]] - contact information of EAEE graduate
       students, as well as general resources for students.
     - [[https://drive.google.com/open?id=16vFLRhV8zds_UYv3W_SXswAD45no8QEu][EAEE Ph.D. Resource Folder]] - folder for any materials that do not
       fit into the above Google Doc.

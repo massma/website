@@ -27,6 +27,7 @@ models and data; the selection, communication, and analysis of
 assumptions used in Earth systems science; philosophy of climate
 science; community-based climate impacts mitigation
 
+
 * Education
 
 - *Ph.D. in Environmental Engineering*, Columbia University, /in progress, expected 2021-2022/\\
@@ -48,12 +49,16 @@ science; community-based climate impacts mitigation
 
 * Teaching experience
 
+** Graduate Teaching Assistant: /Sept. 2020 - Present/
+- /Environmental Engineering/, /Columbia University/
+  - /A Better Planet By Design/
+
 ** Graduate Teaching Assistant: /Aug. 2014 - May 2015/
 - /Atmospheric and Environmental Sciences/, /University at Albany/
   - /Introduction to Environmental Science; Surface Hydrology and Hydrometeorology/
 
 * Awards, fellowships and scholarships
-
+- *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellow]]*, Columbia University, 2020-Present
 - *Presidential Fellow*, Columbia University, 2019-Present
 - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellow]]*, Columbia University, 2019-2020
 - *PI, XSEDE Startup Allocation:* "A moist static energy approach to
@@ -158,6 +163,10 @@ science; community-based climate impacts mitigation
 
 #+LATEX: \newpage
 * Presentations (first author)
+ - Massmann, A., 2020. What do we know? Or, how we need a framework
+   for consolidating and collaborating on climate knowledge.
+   /Columbia University Earth and Environmental Engineering
+   Summer Seminar Series/, New York, NY.
  - Massmann, A., 2019. Causality and predictions; engineering and
    science: the applicability of causal methods to earth science and
    the potential for progress at the human-environment interface. Oral

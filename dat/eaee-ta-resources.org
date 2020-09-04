@@ -59,6 +59,10 @@
 
 *** Repository TO-DO list
 
+    - Change sharing settings in the Working Orientation Document so
+      everyone can access.
+    - Change sharing settings in the Inclusion and Anti-Racism
+      resources so everyone can access.
     - Think of a catchy name for these resources. "EAEE Graduate
       Student Resources" isn't drawing anyone in!
     - (at some point) Pass this repository on when Adam graduates. Ian

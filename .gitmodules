@@ -1,4 +1,4 @@
-[submodule "teacher-learner-wellbeing"]
-	path = teacher-learner-wellbeing
+[submodule "extras/teacher-learner-wellbeing"]
+	path = extras/teacher-learner-wellbeing
 	url = git@github.com:massma/teacher-learner-wellbeing.git
 	branch = main

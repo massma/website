@@ -85,7 +85,6 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
           </> "*",
         "public_html" </> "teacher-learner-wellbeing/"
       ]
-    putInfo "test"
     need
       ( fmap
           ("public_html" </>)

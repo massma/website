@@ -67,8 +67,7 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
             "eaee-ta-resources-workshop-version.html",
             "climate-school.html",
             "cv" </> "massmann-cv.html",
-            "cv" </> "massmann-cv.pdf",
-            "cv" </> "massmann-cv-short.pdf"
+            "cv" </> "massmann-cv.pdf"
           ]
       )
 

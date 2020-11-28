@@ -23,10 +23,10 @@
 * Interests
 
 human-land-atmosphere interaction; methods for blending physical
-models and data; the selection, communication, and analysis of
-assumptions used in Earth systems science; philosophy of climate
-science; community-based climate impacts mitigation
-
+models and data; tools for collaboration; the selection,
+communication, and analysis of assumptions used in Earth systems
+science; philosophy of climate science; community-based climate
+impacts mitigation
 
 * Education
 

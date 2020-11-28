@@ -43,8 +43,19 @@ cvStyle = (</> "mycv.sty")
 main :: IO ()
 main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
   action $ do
-    -- cmd_ (Cwd "teacher-learner-wellbeing") "make"
-    -- putInfo "test"
+    cmd_ (Cwd "extras/teacher-learner-wellbeing") "make"
+    cmd_
+      "cp"
+      Shell
+      [ "-r",
+        "-u",
+        "extras"
+          </> "teacher-learner-wellbeing"
+          </> "public_html"
+          </> "*",
+        "public_html" </> "teacher-learner-wellbeing/"
+      ]
+    putInfo "test"
     need
       ( fmap
           ("public_html" </>)
@@ -57,13 +68,9 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
             "climate-school.html",
             "cv" </> "massmann-cv.html",
             "cv" </> "massmann-cv.pdf",
-            "cv" </> "massmann-cv-short.pdf",
-            "teacher-learner-wellbeing"
+            "cv" </> "massmann-cv-short.pdf"
           ]
       )
-
-  "public_html/teacher-learner-wellbeing" %> \out -> do
-    cmd_ "ln" ["-s", "teacher-learner-wellbeing" </> "public_html", out]
 
   "public_html/*.html" %> \out -> do
     let s = publicToDat out -<.> "org"

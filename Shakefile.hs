@@ -4,29 +4,59 @@
 {-# OPTIONS_GHC -Wincomplete-uni-patterns #-}
 {-# OPTIONS_GHC -Wredundant-constraints #-}
 
+import qualified Data.Maybe as M
 import Development.Shake
 import Development.Shake.Command
 import Development.Shake.FilePath
 import Development.Shake.Util
+import qualified Text.ParserCombinators.ReadP as RP
 
 css :: String
 css = "http://www.columbia.edu/~akm2203/pandoc.css"
 
--- | parses the content of a .org file and adds a link to the home
--- page and some meta data
-addHeader :: String -> String
-addHeader contents = unlines (header <> default' <> rest)
+type Document = [Item]
+
+data Item = Yaml String | Rest String deriving (Show)
+
+yamlStart :: String
+yamlStart = "---\n"
+
+yamlEnd :: String
+yamlEnd = "\n---\n"
+
+showDocument :: Document -> String
+showDocument = foldMap go
   where
-    p xs = case xs of
-      (x1 : x2 : _xs) -> [x1, x2] == "#+"
-      _ -> False
-    (header, rest) = span p (lines contents)
-    default' =
-      [ "#+AUTHOR: Adam Massmann",
-        "#+EMAIL: akm2203 \"at\" columbia \"dot\" edu",
-        "#+LANGUAGE: en",
-        "\n[[file:index.html][{Back to Home}]]"
-      ]
+    go (Yaml x) = yamlStart <> x <> yamlEnd
+    go (Rest x) = x
+
+parseDocument :: RP.ReadP Document
+parseDocument = do
+  xs <-
+    (parseYaml >>= (\y -> parseRest >>= (\r -> return [y, r])))
+      RP.<++ ((: []) <$> parseRest)
+  _ <- RP.eof
+  return xs
+
+parseYaml :: RP.ReadP Item
+parseYaml = do
+  _ <- RP.string yamlStart
+  ymls <- RP.many RP.get
+  _ <- RP.string yamlEnd
+  return (Yaml ymls)
+
+parseRest :: RP.ReadP Item
+parseRest = Rest <$> RP.munch1 (const True)
+
+prependStr :: String -> Document -> Document
+prependStr x (y@(Yaml _) : rest) = (y : Rest x : rest)
+prependStr x xs = Rest x : xs
+
+maybeParse :: RP.ReadP a -> String -> Maybe a
+maybeParse p s = case RP.readP_to_S p s of
+  (x, "") : [] -> Just x
+  (_x, _xs) : _ -> Nothing
+  [] -> Nothing
 
 -- | converts a filepath for an output file (e.g. html) in
 -- @public_html@ to its corresponding source in @dat@
@@ -72,14 +102,21 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
       )
 
   "public_html/*.html" %> \out -> do
-    let s = publicToDat out -<.> "org"
-    let parser = if takeFileName out == "index.html" then id else addHeader
-    need [s]
+    let s = publicToDat out -<.> "md"
+    let parser =
+          if takeFileName out == "index.html"
+            then id
+            else
+              showDocument
+                . prependStr "\n[{Back to Home}](index.html)\n"
+                . M.fromMaybe (error ("failed to parse yaml: " <> s))
+                . maybeParse parseDocument
+    need [s, "Shakefile.hs"]
     contents <- liftIO (parser <$> readFile s)
     cmd_
       (Stdin contents)
       "pandoc"
-      ["-s", "-o", out, "-c", css, "--from", "org", "--to", "html5"]
+      ["-s", "-o", out, "-c", css, "--from", "markdown", "--to", "html5"]
 
   "public_html/cv/*" %> \out -> do
     let s = publicToDat out
@@ -88,7 +125,7 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
 
   "dat/cv/*.html" %> \out -> do
     let s = out -<.> "org"
-    need [s, (cvStyle . takeDirectory $ out)]
+    need [s, (cvStyle . takeDirectory $ out), "Shakefile.hs"]
     cmd_
       (Cwd (takeDirectory out))
       Shell
@@ -104,7 +141,7 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
 
   "dat/cv/*.pdf" %> \out -> do
     let s = out -<.> "org"
-    need [s, (cvStyle . takeDirectory $ out)]
+    need [s, (cvStyle . takeDirectory $ out), "Shakefile.hs"]
     cmd_
       (Cwd (takeDirectory out))
       Shell

@@ -31,7 +31,7 @@ merging **physical or conceptual models** with **observational data**.
     focus is on centering teacher and learner wellbeing in the
     classroom. We emphasized breaking down false notions of mind-body
     dualism and embracing embodied teaching/learning as a way to do
-    that (and improve learning). The lion's share of the credit goes
+    that (and improve learning). The vast majority of the credit goes
     to Abby who really made both the collaboration and learning
     community thrive.
 

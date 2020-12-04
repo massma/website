@@ -73,6 +73,8 @@ if you want more information.
 -   Once we are all back in Mudd, create a department library where we
     share books. Also include an undergraduate textbook section and give
     the undergrads access. (thanks Ian!).
+-   Communally (through feedback or otherwise) refine & redesign the
+    website, streamlining as needed
 
 ### General EAEE TA resources (not course-specific)
 

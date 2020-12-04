@@ -169,6 +169,9 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
         ( parser . addComments (takeFileName s) . replaceAll ".md" ".html"
             <$> readFile s
         )
+    -- should we switch to use teacher-learner-wellbeing/bin/pandoc so
+    -- we don't need pandoc as an external requirement for the
+    -- website?
     cmd_
       (Stdin contents)
       "pandoc"

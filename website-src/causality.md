@@ -2,7 +2,7 @@
 pagetitle: "Causality for clarification: Examples from climate science"
 ---
 
-Causality for clarification: Examples from climate science
+Causality for clarification: examples from climate science
 ==========================================================================
 
 There has been a ton of recent work attempting to "discover" causal

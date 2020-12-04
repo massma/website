@@ -26,7 +26,9 @@ merging **physical or conceptual models** with **observational data**.
 
 -   [Considering the Whole Self in Teaching and
     Learning](teacher-learner-wellbeing/index.html) - a two part
-    "Learning Community" developed in collaboration with [Abby
+    "[Learning
+    Community](https://ctl.columbia.edu/graduate-instructors/ctlgrads-learning-communities/)"
+    developed in collaboration with [Abby
     Schroering](https://theatre-phd.columbia.edu/people/abby-schroering/). The
     focus is on centering teacher and learner wellbeing in the
     classroom. We emphasized breaking down false notions of mind-body

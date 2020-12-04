@@ -70,6 +70,23 @@ publicToDat pul = case splitDirectories pul of
 
 cvStyle = (</> "mycv.sty")
 
+replaceAll ::
+  -- | String to search for
+  String ->
+  -- | String to repalce
+  String ->
+  -- | string to search
+  String ->
+  String
+replaceAll s r xs = go xs
+  where
+    l = length s
+    go ys = case splitAt l ys of
+      (h, rest)
+        | h == s -> r <> go rest
+        | null rest -> h
+        | otherwise -> (head h) : (go (drop 1 ys))
+
 main :: IO ()
 main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
   action $ do
@@ -91,6 +108,7 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
           [ "index.html",
             "masters-research.html",
             "vpd-et.html",
+            "ccm.html",
             "writing.html",
             "eaee-ta-resources.html",
             "eaee-ta-resources-workshop-version.html",
@@ -111,7 +129,7 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
                 . M.fromMaybe (error ("failed to parse yaml: " <> s))
                 . maybeParse parseDocument
     need [s, "Shakefile.hs"]
-    contents <- liftIO (parser <$> readFile s)
+    contents <- liftIO (parser . replaceAll ".md" ".html" <$> readFile s)
     cmd_
       (Stdin contents)
       "pandoc"

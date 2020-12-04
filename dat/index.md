@@ -15,9 +15,10 @@ merging **physical or conceptual models** with **observational data**.
 
 ### Research
 
+- [The Communal Climate Machine (CCM)](ccm.md)
 -   [Does atmospheric drying increase or reduce
-    evapotranspiration?](vpd-et.html)
--   Previous: [Master\'s Research (UAlbany)](masters-research.html) in
+    evapotranspiration?](vpd-et.md)
+-   Previous: [Master\'s Research (UAlbany)](masters-research.md) in
     mesoscale meteorology
 
 ### Teaching
@@ -37,8 +38,8 @@ teachers and students.
 
 ### Resources (mostly for fellow students)
 
--   [Writing](writing.html)
--   [EEE Graduate Student Resources](eaee-ta-resources.html) -
+-   [Writing](writing.md)
+-   [EEE Graduate Student Resources](eaee-ta-resources.md) -
     department specific documentation provided by graduate students, for
     graduate students (and TAs)
 

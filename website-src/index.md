@@ -30,10 +30,10 @@ merging **physical or conceptual models** with **observational data**.
     Schroering](https://theatre-phd.columbia.edu/people/abby-schroering/). The
     focus is on centering teacher and learner wellbeing in the
     classroom. We emphasized breaking down false notions of mind-body
-    dualism and embracing embodied teaching/learning as a way to do
-    that (and improve learning). The vast majority of the credit goes
-    to Abby who really made both the collaboration and learning
-    community thrive.
+    dualism and embracing embodied teaching/learning as a way to
+    center wellbeing (and improve learning). The vast majority of the
+    credit goes to Abby who really made both the collaboration and
+    learning community thrive.
 
 -   [Git for course deployment and
     websites](https://massma.github.io/ltf-github-website-courses/) - a

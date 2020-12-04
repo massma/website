@@ -59,13 +59,13 @@ maybeParse p s = case RP.readP_to_S p s of
   [] -> Nothing
 
 -- | converts a filepath for an output file (e.g. html) in
--- @public_html@ to its corresponding source in @dat@
-publicToDat :: FilePath -> FilePath
-publicToDat pul = case splitDirectories pul of
+-- @public_html@ to its corresponding source in @website-src@
+htmlToSrc :: FilePath -> FilePath
+htmlToSrc pul = case splitDirectories pul of
   (x : xs) ->
     if x == "public_html"
-      then foldl (</>) "dat" xs
-      else error "called publicToDat on a file not in publc_html"
+      then foldl (</>) "website-src" xs
+      else error "called htmlToSrc on a file not in publc_html"
   _ -> pul
 
 cvStyle = (</> "mycv.sty")
@@ -119,7 +119,7 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
       )
 
   "public_html/*.html" %> \out -> do
-    let s = publicToDat out -<.> "md"
+    let s = htmlToSrc out -<.> "md"
     let parser =
           if takeFileName out == "index.html"
             then id
@@ -136,11 +136,11 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
       ["-s", "-o", out, "-c", css, "--from", "markdown", "--to", "html5"]
 
   "public_html/cv/*" %> \out -> do
-    let s = publicToDat out
+    let s = htmlToSrc out
     need [s]
     cmd_ "cp" [s, out]
 
-  "dat/cv/*.html" %> \out -> do
+  "website-src/cv/*.html" %> \out -> do
     let s = out -<.> "org"
     need [s, (cvStyle . takeDirectory $ out), "Shakefile.hs"]
     cmd_
@@ -156,7 +156,7 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
         "--kill"
       ]
 
-  "dat/cv/*.pdf" %> \out -> do
+  "website-src/cv/*.pdf" %> \out -> do
     let s = out -<.> "org"
     need [s, (cvStyle . takeDirectory $ out), "Shakefile.hs"]
     cmd_

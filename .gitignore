@@ -27,8 +27,8 @@ dist-newstyle
 public_html/*.html
 public_html/teacher-learner-wellbeing
 public_html/data
-dat/cv/massmann-cv.html
-dat/cv/massmann-cv.tex
-dat/cv/massmann-cv-short.tex
+website-src/cv/massmann-cv.html
+website-src/cv/massmann-cv.tex
+website-src/cv/massmann-cv-short.tex
 public_html/cv
 public_html/propagator-bbvi-0.1.0.0

@@ -1,5 +1,5 @@
 ---
-pagetitle: "Adam's plant and aridity research"
+pagetitle: "Plants and aridity research"
 ---
 
 Does increasing atmospheric dryness increase or reduce evapotranspiration?
@@ -69,11 +69,7 @@ Links
 -----
 
 -   [Github repository for the
-    project](https://github.com/massma/climate_et) : can be used for
-    reproducing the manuscript, but also for comments. If you have any
-    comments or questions on this project, please [open an
-    issue](https://github.com/massma/climate_et/issues). Discussion is
-    encouraged.
+    project](https://github.com/massma/climate_et)
 -   Manuscript in [the Journal of Advances in Modeling Earth
     Systems](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001790)
 -   Same manuscript, but on [arxiv](https://arxiv.org/abs/1805.05444).

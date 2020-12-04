@@ -40,8 +40,8 @@ Google Docs/Drive folders!
     Folder](https://drive.google.com/open?id=16vFLRhV8zds_UYv3W_SXswAD45no8QEu) -
     folder for any materials that do not fit into the above Google Doc.
 -   [EAEE Graduate Student Inclusion and Anti-Racism
-    Resources](https://docs.google.com/document/d/1vIPLfSkA6XfdMGeDzCCie-P64uCCdM9KRt-2Kk65opE/edit?usp=sharing)
-    - resources on combatting racism and bias, and promoting inclusion
+    Resources](https://docs.google.com/document/d/1vIPLfSkA6XfdMGeDzCCie-P64uCCdM9KRt-2Kk65opE/edit?usp=sharing) -
+    resources on combatting racism and bias, and promoting inclusion
     within EAEE.
 -   [EAEE observed and experienced acts of
     exclusion](https://docs.google.com/forms/d/e/1FAIpQLSdR1lVWkQGeObLfnAO-PTuud9QCJEtHjJwfovjQGg-ejh5Mew/viewform?usp=sf_link) -

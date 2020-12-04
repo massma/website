@@ -16,6 +16,7 @@ merging **physical or conceptual models** with **observational data**.
 ### Research
 
 - [The Communal Climate Machine (CCM)](ccm.md)
+- [Causality for clarification: examples from climate science](causality.md)
 -   [Does atmospheric drying increase or reduce
     evapotranspiration?](vpd-et.md)
 -   Previous: [Master\'s Research (UAlbany)](masters-research.md) in
@@ -23,8 +24,16 @@ merging **physical or conceptual models** with **observational data**.
 
 ### Teaching
 
-I approach teaching and learning as a collaborative process between
-teachers and students.
+-   [Considering the Whole Self in Teaching and
+    Learning](teacher-learner-wellbeing/index.html) - a two part
+    "Learning Community" developed in collaboration with [Abby
+    Schroering](https://theatre-phd.columbia.edu/people/abby-schroering/). The
+    focus is on centering teacher and learner wellbeing in the
+    classroom. We emphasized breaking down false notions of mind-body
+    dualism and embracing embodied teaching/learning as a way to do
+    that (and improve learning). The lion's share of the credit goes
+    to Abby who really made both the collaboration and learning
+    community thrive.
 
 -   [Git for course deployment and
     websites](https://massma.github.io/ltf-github-website-courses/) - a
@@ -33,8 +42,8 @@ teachers and students.
     2.  allow students, professors, and TAs to collaborate on improving
         course materials.
 
-    I put this together with funding and support from Columbia\'s
-    [Center for Teaching and Learning](https://ctl.columbia.edu/).
+Both these workshops were funded and supported by Columbia\'s [Center
+for Teaching and Learning](https://ctl.columbia.edu/).
 
 ### Resources (mostly for fellow students)
 

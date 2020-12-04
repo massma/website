@@ -16,6 +16,7 @@ common build-dependencies
   build-depends:
       base >=4.7 && <5
     , shake
+    , containers
   default-language: Haskell2010
 
 

@@ -4,6 +4,7 @@
 {-# OPTIONS_GHC -Wincomplete-uni-patterns #-}
 {-# OPTIONS_GHC -Wredundant-constraints #-}
 
+import qualified Data.Map as Map
 import qualified Data.Maybe as M
 import Development.Shake
 import Development.Shake.Command
@@ -96,6 +97,26 @@ copyRule =
         cmd_ "cp" [s, out]
   )
 
+commentMap :: Map.Map FilePath String
+commentMap =
+  Map.fromList
+    [ ("causality.md", "https://github.com/massma/website/issues/1"),
+      ("ccm.md", "https://github.com/massma/website/issues/2"),
+      ("vpd-et.md", "https://github.com/massma/website/issues/3")
+    ]
+
+addComments ::
+  -- | markdown filepath
+  String ->
+  -- | markdwon string
+  String ->
+  -- | web page with comment section appended
+  String
+addComments c w =
+  case commentMap Map.!? c of
+    Just x -> w <> "\n---------------\n\n### [Post comments](" <> x <> ")\n\nI am too technologically illiterate to set up a comment system on this page, but comments and questions are very welcome and encouraged through Github's issue system: [just click here](" <> x <> ")! (I know it's kind of a hack but it should work well enough.)"
+    Nothing -> w
+
 main :: IO ()
 main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
   action $ do
@@ -120,6 +141,9 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
             "ccm.html",
             "causality.html",
             "dot" </> "cloud-aerosol.png",
+            "dot" </> "ccope.png",
+            "fig" </> "naiveCloudSunlight.png",
+            "fig" </> "cloudSunlight.png",
             "writing.html",
             "eaee-ta-resources.html",
             "eaee-ta-resources-workshop-version.html",
@@ -140,7 +164,11 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
                 . M.fromMaybe (error ("failed to parse yaml: " <> s))
                 . maybeParse parseDocument
     need [s, "Shakefile.hs"]
-    contents <- liftIO (parser . replaceAll ".md" ".html" <$> readFile s)
+    contents <-
+      liftIO
+        ( parser . addComments (takeFileName s) . replaceAll ".md" ".html"
+            <$> readFile s
+        )
     cmd_
       (Stdin contents)
       "pandoc"
@@ -149,6 +177,8 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
   copyRule "public_html/cv/*"
 
   copyRule "public_html/dot/*"
+
+  copyRule "public_html/fig/*"
 
   "website-src/dot/*.png" %> \out -> do
     let s = out -<.> ".dot"

@@ -25,8 +25,7 @@
 human-land-atmosphere interaction; methods for blending physical
 models and data; tools for collaboration; the selection,
 communication, and analysis of assumptions used in Earth systems
-science; philosophy of climate science; community-based climate
-impacts mitigation
+science
 
 * Education
 
@@ -106,8 +105,10 @@ impacts mitigation
     of Applied Mathematics and Theoretical Physics, University of
     Cambridge, August 2016
 
-* Service and extracurriculars
+* Miscellaneous activities
 
+- "Getting a Ph.D. in Environmental Engineering" information session
+  (led by [[https://yiplab-h2o-e-env.eee.columbia.edu/ian-billinge][Ian Billinge]]), Nov. 2020
 - Collegiate athletics and academic career Q&A, /Northwest Water Polo
   Club/, May 2020
 - [[https://zuckermaninstitute.columbia.edu/stem-starters][STEM Starters Outreach]], Education Lab, Columbia University, Sept. 2019

@@ -42,9 +42,9 @@ Even though the test case is still work in progress, I **really
 strongly encourage anyone even the slightest bit interested in this
 project to reach out to me**, either through email
 (akm2203@columbia.edu) or a [Github
-issue](https://github.com/massma/website/issues) (public). My goal is
-to bring as many people in as early as possible so we can come up with
-a design together.
+issue](https://github.com/massma/website/issues/2) (public). My goal
+is to bring as many people in as early as possible so we can come up
+with a design together.
 
 A lot of this work is built on ideas from Alexey Radul's
 [Ph.D. thesis](https://dspace.mit.edu/handle/1721.1/54635) and

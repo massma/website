@@ -33,9 +33,10 @@ loss, photosynthesis). This is a useful test because it involves
 climate-life (plant) interaction, and it is also an area of study with
 a lot of contradictory results and uncertainty. So this example case
 should really test our ability to encode and analyze contradictory
-assumptions and world views. It is also personally useful because at
-some point I need to put together a coherent dissertation, and it
-connects directly to previous [writing](vpd-et.md).
+assumptions and world views, but it is focused enough to be
+tractable. It is also personally useful because at some point I need
+to put together a coherent dissertation, and it connects directly to
+previous [writing](vpd-et.md).
 
 Even though the test case is still work in progress, I **really
 strongly encourage anyone even the slightest bit interested in this
@@ -48,15 +49,15 @@ a design together.
 A lot of this work is built on ideas from Alexey Radul's
 [Ph.D. thesis](https://dspace.mit.edu/handle/1721.1/54635) and
 research on truth maintenance systems (Ken Forbus's textbook "Building
-problem solvers" seems like a good reference, although I have had time
-yet to fully dive in). Also the "[Supporting Domain-Specific Inquiry
-with Rule-Based
+problem solvers" seems like a good reference, although I have not had
+time yet to fully dive in). Also the "[Supporting Domain-Specific
+Inquiry with Rule-Based
 Modeling](https://sites.google.com/ncsu.edu/poem/projects#h.p_Wk0l1pdCVrrw)"
 project at [Chris
 Martens](https://sites.google.com/ncsu.edu/cmartens)'s
 [POEM](https://sites.google.com/ncsu.edu/poem/home) lab seems to have
-a ton of overlap in goals (I am actively working right now to learn
-more about logic). If anyone knows of any other overlapping projects
-let me know, and if you work in this area and want to get involved
-please please reach out! I am not a computer scientist and could
-always use the help...
+a ton of overlap in goals. (Understanding more about the logic
+approach this project takes is high up on my to-do list). If anyone
+knows of any other overlapping projects let me know, and if you work
+in this area and want to get involved please please reach out! I am
+not a computer scientist and could really use the help...

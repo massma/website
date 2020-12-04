@@ -87,6 +87,15 @@ replaceAll s r xs = go xs
         | null rest -> h
         | otherwise -> (head h) : (go (drop 1 ys))
 
+copyRule :: FilePattern -> Rules ()
+copyRule =
+  ( %>
+      \out -> do
+        let s = htmlToSrc out
+        need [s]
+        cmd_ "cp" [s, out]
+  )
+
 main :: IO ()
 main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
   action $ do
@@ -109,6 +118,8 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
             "masters-research.html",
             "vpd-et.html",
             "ccm.html",
+            "causality.html",
+            "dot" </> "cloud-aerosol.png",
             "writing.html",
             "eaee-ta-resources.html",
             "eaee-ta-resources-workshop-version.html",
@@ -135,10 +146,14 @@ main = shakeArgs shakeOptions {shakeFiles = "_build"} $ do
       "pandoc"
       ["-s", "-o", out, "-c", css, "--from", "markdown", "--to", "html5"]
 
-  "public_html/cv/*" %> \out -> do
-    let s = htmlToSrc out
+  copyRule "public_html/cv/*"
+
+  copyRule "public_html/dot/*"
+
+  "website-src/dot/*.png" %> \out -> do
+    let s = out -<.> ".dot"
     need [s]
-    cmd_ "cp" [s, out]
+    cmd_ "dot" ["-o", out, "-Tpng", s]
 
   "website-src/cv/*.html" %> \out -> do
     let s = out -<.> "org"

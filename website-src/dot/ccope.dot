@@ -1,0 +1,34 @@
+digraph G {
+	synopticForcing[label="weather systems\n(large scale)", style="dashed"];
+	orographicLift[label="air flow over\nmountains", style="dashed"];
+	cloudTimescale[label="time to generate\nrain from air", style="dashed"];
+	advectionTimescale[label="time for air to\ncross mountains", style="dashed"];
+	rainRegime[label="rain regime", shape="invhouse"];
+	orographicEnhancement[label="mountain\nrainfall", shape="house"];
+	stability[label="stability"];
+	wind[label="wind"];
+	aerosols[label="aerosols"];
+	terrain[label="terrain"];
+	columnWater[label="atmospheric\nmoisture"];
+
+
+	aerosols -> rainRegime;
+	aerosols -> cloudTimescale;
+	rainRegime -> cloudTimescale;
+	synopticForcing -> rainRegime;
+	synopticForcing -> stability;
+	synopticForcing -> wind;
+	synopticForcing -> columnWater;
+	columnWater -> cloudTimescale;
+	columnWater -> rainRegime;
+	orographicLift -> cloudTimescale;
+	stability -> orographicLift;
+	wind -> orographicLift;
+	terrain -> orographicLift;
+	wind -> advectionTimescale;
+	cloudTimescale -> orographicEnhancement;
+	advectionTimescale -> orographicEnhancement;
+	orographicLift -> orographicEnhancement;
+
+
+}

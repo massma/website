@@ -74,13 +74,13 @@ access to aerosol observations, we would not be able to calculate the
 causal effect, no matter how many samples of cloud and sunlight were
 available. In this way, we can analyze our causal graphs in light of
 available observations to determine whether calculating a causal
-effect is possible before we have to deal with any tedious (and time
+effect is possible, before we have to deal with any tedious (and time
 consuming) collection or downloading of data!
 
 To summarize, causal graphs allow us to:
 
-1. Communicate in an intuitive way our assumptions about dependencies
-   between variables in a system.
+1. Intuitively communicate our assumptions about dependencies between
+   variables in a system.
 2. Automatically analyze which variables we must control for to lend a
    causal (rather then correlational) interpretation to our analysis.
 3. Filter out tractable vs intractable causal questions before we
@@ -149,7 +149,7 @@ assumptions and structuring/organizing analyses.
 
 #### Final words
 
-That was way longer than I expected; apologies. Despite the length I
+That was longer than I expected; apologies. Despite the length I
 glossed over or neglected a bunch of important details. We should have
 a paper with all of these details up on the
 [arXiv](https://arxiv.org/) soon; I am just wrinkling out some final

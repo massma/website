@@ -1,4 +1,4 @@
-Source for my website, built with pandoc, managed by Shake.
+Source for my website, built with pandoc.
 
 All written content on the website is licensed under a [Creative Commons
 Attribution 4.0 International
@@ -10,23 +10,14 @@ Required software
 =================
 
 -   [pandoc](https://pandoc.org/)
--   [The Haskell GHC Compiler and Cabal Build
-    tool](https://www.haskell.org/downloads/#minimal)
 -   [texlive](https://www.tug.org/texlive/)
 -   [emacs](https://www.gnu.org/software/emacs/)
 -   [Graphviz](https://graphviz.org/)
+-   [GNU Make](https://www.gnu.org/software/make/)
+-   miscellaneous Linux utilities (e.g., `sed`)
 
 Build instructions
 ==================
-
-Windows (untested)
-------------------
-
-Clone this repository, enter directory, and run:
-
-``` {.bash}
-cabal build && cabal run build
-```
 
 GNU/Linux instructions
 ----------------------
@@ -34,13 +25,14 @@ GNU/Linux instructions
 Clone this repository, enter directory, and run:
 
 ``` {.bash}
-cabal build && cabal run build
-```
-
-or, with GNU Make:
-
-``` {.bash}
 make
 ```
 
 This should also probably work on OSX, but I haven\'t tested it.
+
+Windows (unsupported for now- help needed)
+------------------
+
+Any Windows wizards please reach out - I'd love to have build
+instructions for Windows but I don't know how (or if) Make, sh, and
+CLI utilities work on Windows.

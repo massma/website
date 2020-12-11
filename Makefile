@@ -64,9 +64,3 @@ $(T)/cv/massmann-cv.html : $(S)/cv/massmann-cv.org $(S)/cv/mycv.sty Makefile
 
 clean :
 	rm -rf $(NEEDS) $(S)/cv/massmann-cv.html $(S)/cv/massmann-cv.pdf
-
-haskell-all :
-	cabal run build -- # --lint --progress
-
-haskell-clean :
-	cabal run build -- clean

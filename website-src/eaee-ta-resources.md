@@ -376,6 +376,24 @@ Course-specific Repositories
     materials](https://drive.google.com/open?id=1-cJfQj-fjiO2c6fB5XZQSg0CQFKyX8Dr)
     : folder for any other course materials (see ideas section above).
 
+### Hydrosystems Engineering (CIEEE 3250/EAEE 4250)
+
+-   [Previous TAs and Course
+    Responsibilities](https://docs.google.com/document/d/1tPQmz4eouUYXpmrQ1-jMFqxR7EUW8Hyd8Y1_pBzz_9A/edit?usp=sharing)
+    : a document with contact information, TA responsibilities, the
+    average weekly amount of time spent on each responsibility (I know
+    this varies strongly week to week, but these are just an estimate on
+    average time per week), and any other information that might help
+    future TAs (see ideas section above).
+-   [Student FAQ (with
+    answers)](https://docs.google.com/document/d/1RqD9zMeMuTEDRaYbboIJdYkCn23extPe98o_2I0kWLs/edit?usp=sharing)
+    : any common questions students ask, with previous TAs\' responses.
+    Future TAs can then use these answers as a starting point, and edit,
+    improve, and add to them as needed.
+-   [Folder for uploading other course
+    materials](https://drive.google.com/drive/folders/10c0HEn13nDM3s5kkCcB5-wh0V09E1ihS?usp=sharing)
+    : folder for any other course materials (see ideas section above).
+
 Contact
 -------
 

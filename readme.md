@@ -1,4 +1,5 @@
-Source for my website, built with pandoc.
+Source for my [website](http://www.columbia.edu/~akm2203/), built with
+pandoc and emacs.
 
 All written content on the website is licensed under a [Creative Commons
 Attribution 4.0 International

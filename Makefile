@@ -1,5 +1,4 @@
-    # just a dummy makefile to call shake
-.PHONY: all haskell-all haskell-clean
+.PHONY: all clean
 
 S = website-src
 
@@ -63,4 +62,4 @@ $(T)/cv/massmann-cv.html : $(S)/cv/massmann-cv.org $(S)/cv/mycv.sty Makefile
 	mv $(S)/cv/massmann-cv.html $@
 
 clean :
-	rm -rf $(NEEDS) $(S)/cv/massmann-cv.html $(S)/cv/massmann-cv.pdf
+	rm -rf $(NEEDS)

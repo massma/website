@@ -30,7 +30,9 @@ endef
 
 all : $(NEEDS)
 	+$(MAKE) -C extras/teacher-learner-wellbeing
+	+$(MAKE) -C extras/eee-grad-website
 	cp -r extras/teacher-learner-wellbeing/public_html $(T)/teacher-learner-wellbeing
+	cp -r extras/eee-grad-website/public_html $(T)/eee-grad-website
 
 $(T)/index.html : $(S)/index.md Makefile # still working here
 	cat $< | $(PANDOC) > $@

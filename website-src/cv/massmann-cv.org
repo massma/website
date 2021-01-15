@@ -20,6 +20,8 @@
 
 @@html:<a href="../index.html">{Back to Home}</a>@@
 
+# to add: presentation to Vondrick's lab?, my CTL workshops & mentoring?
+
 * Interests
 
 human-land-atmosphere interaction; methods for blending physical
@@ -50,7 +52,7 @@ science
 
 ** Graduate Teaching Assistant: /Sept. 2020 - Present/
 - /Environmental Engineering/, /Columbia University/
-  - /A Better Planet By Design/
+  - /A Better Planet By Design/, /Hydrosystems Engineering/
 
 ** Graduate Teaching Assistant: /Aug. 2014 - May 2015/
 - /Atmospheric and Environmental Sciences/, /University at Albany/
@@ -162,8 +164,9 @@ science
    disasters. /Water Resources Research/, 51(5), pp.3815-3827.
    [[https://doi.org/10.1002/2014WR016585][doi:10.1002/2014WR016585]].
 
-#+LATEX: \newpage
+ #+LATEX: \newpage
 * Presentations (first author)
+
  - Massmann, A., 2020. What do we know? Or, how we need a framework
    for consolidating and collaborating on climate knowledge.
    /Columbia University Earth and Environmental Engineering

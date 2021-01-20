@@ -7,7 +7,7 @@ T = public_html
 NEEDS = $(T)/index.html \
         $(T)/masters-research.html \
         $(T)/vpd-et.html \
-        $(T)/ccm.html \
+        $(T)/ccc.html \
         $(T)/causality.html \
         $(T)/dot/cloud-aerosol.png \
         $(T)/dot/ccope.png \
@@ -40,7 +40,7 @@ $(T)/index.html : $(S)/index.md Makefile # still working here
 $(T)/causality.html : $(S)/causality.md Makefile
 	cat $< | $(call add_comments,https://github.com/massma/website/issues/1) > $@
 
-$(T)/ccm.html : $(S)/ccm.md Makefile
+$(T)/ccc.html : $(S)/ccc.md Makefile
 	cat $< | $(call add_comments,https://github.com/massma/website/issues/2) > $@
 
 $(T)/vpd-et.html : $(S)/vpd-et.md Makefile

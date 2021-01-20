@@ -15,7 +15,7 @@ merging **physical or conceptual models** with **observational data**.
 
 ### Research
 
-- [The Communal Climate Machine (CCM)](ccm.md)
+- [The Communal Climate Consciousness (CCC)](ccc.md)
 - [Causality for clarification: examples from climate science](causality.md)
 -   [Does atmospheric drying increase or reduce
     evapotranspiration?](vpd-et.md)

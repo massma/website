@@ -1,8 +1,8 @@
 ---
-pagetitle: "The Communal Climate Machine"
+pagetitle: "The Communal Climate Consciousness"
 ---
 
-The Communal Climate Machine (CCM)
+The Communal Climate Consciousness (CCC)
 ==========================================================================
 
 The goal of this project is to build a tool that **allows any

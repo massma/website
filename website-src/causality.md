@@ -167,7 +167,7 @@ first step in your next project; it might help clarify a lot**.
 
 [^1]: "aerosols" are tiny particles that float in the air.
 
-[^2]: one of my biggest regrets is that I did not learn about causal
+[^2]: one of my academic regrets is that I did not learn about causal
     graphs until I was a Ph.D. student. I would have loved a math
     class growing up where we were encouraged to draw diagrams for
     complicated problems, and then view these as valid mathematical

@@ -29,10 +29,10 @@ $(HOME_LINK) | { cat - ;  printf "\n---------------\n\n### [Post comments]($(1))
 endef
 
 all : $(NEEDS)
-	+$(MAKE) -C extras/teacher-learner-wellbeing
-	+$(MAKE) -C extras/eee-grad-website
-	rsync -auvX --delete extras/teacher-learner-wellbeing/public_html/ $(T)/teacher-learner-wellbeing
-	rsync -auvX --delete extras/eee-grad-website/public_html/ $(T)/eee-grad-website
+	+$(MAKE) -C teacher-learner-wellbeing
+	+$(MAKE) -C eee-grad-website
+	rsync -auvX --delete teacher-learner-wellbeing/public_html/ $(T)/teacher-learner-wellbeing
+	rsync -auvX --delete eee-grad-website/public_html/ $(T)/eee-grad-website
 $(T)/index.html : $(S)/index.md Makefile # still working here
 	cat $< | $(PANDOC) > $@
 

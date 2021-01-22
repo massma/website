@@ -4,5 +4,5 @@
 	branch = main
 [submodule "eee-grad-website"]
 	path = eee-grad-website
-	url = https://github.com/massma/eee-grad-website
+	url = git@github.com:massma/eee-grad-website.git
 	branch = main

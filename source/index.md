@@ -17,9 +17,9 @@ merging **physical or conceptual models** with **observational data**.
 
 - [The Communal Climate Consciousness (CCC)](ccc.md)
 - [Causality for clarification: examples from climate science](causality.md)
--   [Does atmospheric drying increase or reduce
-    evapotranspiration?](vpd-et.md)
--   Previous: [Master\'s Research (UAlbany)](masters-research.md) in
+- [Does atmospheric drying increase or reduce
+    evaporation?](vpd-et.md)
+- Previous: [Master\'s Research (UAlbany)](masters-research.md) in
     mesoscale meteorology
 
 ### Teaching
@@ -35,7 +35,10 @@ merging **physical or conceptual models** with **observational data**.
     dualism and embracing embodied teaching/learning as a way to
     center wellbeing (and improve learning). The vast majority of the
     credit goes to Abby who really made both the collaboration and
-    learning community thrive.
+    learning community thrive.\
+    **Update**: Abby and I will be giving
+    this workshop again [in Spring of 2021 through the CIRTL
+    network](https://www.cirtl.net/events/943).
 
 -   [Git for course deployment and
     websites](https://massma.github.io/ltf-github-website-courses/) - a

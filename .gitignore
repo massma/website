@@ -28,8 +28,8 @@ public_html/*.html
 public_html/teacher-learner-wellbeing
 public_html/eee-grad-website
 public_html/data
-website-src/cv/massmann-cv.html
-website-src/cv/massmann-cv.tex
-website-src/cv/massmann-cv-short.tex
+source/cv/massmann-cv.html
+source/cv/massmann-cv.tex
+source/cv/massmann-cv-short.tex
 public_html/cv
 public_html/propagator-bbvi-0.1.0.0

@@ -1,6 +1,6 @@
 .PHONY: all clean
 
-S = website-src
+S = source
 
 T = public_html
 

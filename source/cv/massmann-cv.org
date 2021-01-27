@@ -57,6 +57,7 @@ science
 ** Graduate Teaching Assistant: /Aug. 2014 - May 2015/
 - /Atmospheric and Environmental Sciences/, /University at Albany/
   - /Introduction to Environmental Science; Surface Hydrology and Hydrometeorology/
+# where to add workshops?
 
 * Awards, fellowships and scholarships
 - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellow]]*, Columbia University, 2020-Present
@@ -105,7 +106,7 @@ science
   - /Implicit Bias Workshop/, Columbia University, March 2019
   - /Fluid Dynamics of Sustainability and the Environment/, Department
     of Applied Mathematics and Theoretical Physics, University of
-    Cambridge, August 2016
+    Cambridge, September 2016
 
 * Miscellaneous activities
 
@@ -128,6 +129,7 @@ science
   Forecasting/
 
 # use harvard styling from google scholar
+# need to add Yazmina's paper
 * Publications
 
  - *Massmann, A.*, Gentine, P. and Lin, C., 2019. When does vapor

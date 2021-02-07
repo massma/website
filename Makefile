@@ -33,6 +33,12 @@ all : $(NEEDS)
 	+$(MAKE) -C eee-grad-website
 	rsync -auvX --delete teacher-learner-wellbeing/public_html/ $(T)/teacher-learner-wellbeing
 	rsync -auvX --delete eee-grad-website/public_html/ $(T)/eee-grad-website
+ifneq ($(wildcard eee-grad-admissions/.*),)
+	+$(MAKE) -C eee-grad-admissions
+	rsync -auvX --delete eee-grad-admissions/public_html/ $(T)/eee-grad-admissions
+endif
+
+
 $(T)/index.html : $(S)/index.md Makefile # still working here
 	cat $< | $(PANDOC) > $@
 

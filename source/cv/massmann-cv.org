@@ -132,6 +132,11 @@ science
 # need to add Yazmina's paper
 * Publications
 
+ - Rojas, Y., Minder, J.R., Campbell, L.S., *Massmann, A.* and Garreaud,
+   R., 2021. Assessment of GPM IMERG satellite precipitation
+   estimation and its dependence on microphysical rain regimes over
+   the mountains of south-central Chile. /Atmospheric Research/, 253,
+   p.105454.
  - *Massmann, A.*, Gentine, P. and Lin, C., 2019. When does vapor
    pressure deficit drive or reduce evapotranspiration? /Journal of
    Advances in Modeling Earth Systems/, 11. [[https://doi.org/10.1029/2019MS001790][doi:10.1029/2019MS001790]]

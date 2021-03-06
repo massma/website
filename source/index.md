@@ -53,7 +53,7 @@ for Teaching and Learning](https://ctl.columbia.edu/).
 ### Resources (mostly for fellow students)
 
 -   [Writing](writing.md)
--   [EEE Graduate Student Resources](eaee-ta-resources.md) -
+-   [EEE Graduate Student Resources](eee-grad-website/index.html) -
     department specific documentation provided by graduate students, for
     graduate students (and TAs)
 

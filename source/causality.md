@@ -172,8 +172,9 @@ first step in your next project; it might help clarify a lot**.
     class growing up where we were encouraged to draw diagrams for
     complicated problems, and then view these as valid mathematical
     objects/answers themselves. I think there is a lot of opportunity
-    for causal graphs in K-12 education, but I am not super up on that
-    field so maybe people are already introducing them.
+    for causal graphs in K-12 and higher education, and while I am not
+    super up on that field it sounds like people are [starting to use
+    causal graphs in education](https://www.tandfonline.com/doi/abs/10.1080/00221341.2019.1608460).
 
 [^3]: W/m$^2$ is a measure of the amount of sunlight. It has units of
     energy per unit time, per a square meter of the Earth's surface.

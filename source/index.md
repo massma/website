@@ -35,9 +35,8 @@ merging **physical or conceptual models** with **observational data**.
     dualism and embracing embodied teaching/learning as a way to
     center wellbeing (and improve learning). The vast majority of the
     credit goes to Abby who really made both the collaboration and
-    learning community thrive.\
-    **Update**: Abby and I will be giving
-    this workshop again [in Spring of 2021 through the CIRTL
+    learning community thrive.\ **Update**: Abby and I gave this
+    workshop again [in Spring of 2021 through the CIRTL
     network](https://www.cirtl.net/events/943).
 
 -   [Git for course deployment and

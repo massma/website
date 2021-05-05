@@ -50,18 +50,17 @@
 * Teaching and mentoring experience
 
 ** [[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellow]]: /Aug. 2020 - Present/
-   - Mentored six graduate students from across disciplines (nursing,
-     business, classics, italian, religion, theater).
+   - Mentored six graduate students from across disciplines (Nursing,
+     Marketing, Classics, Italian, Religion, Theater).
    - Co-facilitated, with [[https://theatre-phd.columbia.edu/people/abby-schroering/][Abby Schroering]], a two-part learning
      community on "[[http://www.columbia.edu/~akm2203/teacher-learner-wellbeing/][Considering the Whole Self in Teaching and
      Learning]]", for both the Columbia University community, and also
      the [[https://www.cirtl.net/events/943][national CIRTL network]].
 
 ** [[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellow]]: /Aug. 2019 - May 2020/
-   - Created two workshops: "[[https://massma.github.io/ltf-github-website-courses/][Git for course deployment and websites"]],
-     and "Document, organize, share: make your course contributions
-     immortal and toss a lifeline to future TAs"
-   - Built a [[http://www.columbia.edu/~akm2203/eee-grad-website/][website for graduate assistants]].
+   - Created a workshop on "[[https://massma.github.io/ltf-github-website-courses/][Git for course deployment and websites"]].
+   - Built a collaborative [[http://www.columbia.edu/~akm2203/eee-grad-website/][website for graduate assistants]] to share
+     resources.
 
 ** Graduate Teaching Assistant: /Sept. 2020 - Present/
    - /Environmental Engineering/, /Columbia University/
@@ -165,10 +164,10 @@
     Snider, J.R., 2019. Wintertime Aerosol Measurements during the
     Chilean Coastal Orographic Precipitation Experiment. /Atmospheric
     Chemistry and Physics/. [[https://doi.org/10.5194/acp-2019-185][doi:10.5194/acp-2019-185]].
-
-  #+LATEX: \newpage
-
-* Publications (continued)
+#+BEGIN_EXPORT latex
+\newpage
+\section{Publications (continued)}
+#+END_EXPORT
   - *Massmann, A.K.*, Minder, J.R., Garreaud, R.D., Kingsmill, D.E.,
     Valenzuela, R.A., Montecinos, A., Fults, S.L. and Snider,
     J.R., 2017. The Chilean Coastal Orographic Precipitation

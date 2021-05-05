@@ -30,7 +30,7 @@
 
 * Education
 
-  - *Ph.D. in Environmental Engineering*, Columbia University, /in progress, expected 2021-2022/\\
+  - *Ph.D. in Environmental Engineering*, Columbia University, /in progress, expected 2022/\\
 
   - *M.S. in Atmospheric Science*, University at Albany, /2016/\\
 
@@ -47,30 +47,35 @@
 ** Undergraduate Research Assistant: /Nov. 2012 - Aug. 2014/
    - /Civil and Environmental Engineering/, University of Washington
 
-* Teaching experience
+* Teaching and mentoring experience
+
+** [[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellow]]: /Aug. 2020 - Present/
+   - Mentored six graduate students from across disciplines (nursing,
+     business, classics, italian, religion, theater).
+   - Co-facilitated, with [[https://theatre-phd.columbia.edu/people/abby-schroering/][Abby Schroering]], a two-part learning
+     community on "[[http://www.columbia.edu/~akm2203/teacher-learner-wellbeing/][Considering the Whole Self in Teaching and
+     Learning]]", for both the Columbia University community, and also
+     the [[https://www.cirtl.net/events/943][national CIRTL network]].
+
+** [[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellow]]: /Aug. 2019 - May 2020/
+   - Created two workshops: "[[https://massma.github.io/ltf-github-website-courses/][Git for course deployment and websites"]],
+     and "Document, organize, share: make your course contributions
+     immortal and toss a lifeline to future TAs"
+   - Built a [[http://www.columbia.edu/~akm2203/eee-grad-website/][website for graduate assistants]].
 
 ** Graduate Teaching Assistant: /Sept. 2020 - Present/
    - /Environmental Engineering/, /Columbia University/
-     - /A Better Planet By Design/, /Hydrosystems Engineering/
+     - Courses: /A Better Planet By Design/, /Hydrosystems Engineering/
 
 ** Graduate Teaching Assistant: /Aug. 2014 - May 2015/
    - /Atmospheric and Environmental Sciences/, /University at Albany/
-     - /Introduction to Environmental Science; Surface Hydrology and Hydrometeorology/
+     - Courses: /Introduction to Environmental Science; Surface Hydrology and Hydrometeorology/
    # where to add workshops?
 
 * Awards, fellowships and scholarships
-  - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellow]]*, Columbia University, 2020-Present
-    - Mentored six graduate students from diverse disciplines
-      (Nursing, Business, Classics, Italian, Religion, Theater).
-    - Co-facilitated, with Abby Schroering, a two-part learning
-      community on "[[http://www.columbia.edu/~akm2203/teacher-learner-wellbeing/][Considering the Whole Self in Teaching and
-      Learning]]", for both the Columbia University community, and also
-      the [[https://www.cirtl.net/events/943][national CIRTL network]].
+  - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellowship]]*, Columbia University, 2020-Present
   - *Presidential Fellow*, Columbia University, 2019-Present
-  - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellow]]*, Columbia University, 2019-2020
-    - Created a workshop on using [[https://massma.github.io/ltf-github-website-courses/][Git for course deployment and
-      websites]]
-    - Built a [[http://www.columbia.edu/~akm2203/eee-grad-website/][website for graduate assistants]].
+  - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellowship]]*, Columbia University, 2019-2020
   - *PI, XSEDE Startup Allocation:* "A moist static energy approach to
     understanding wet and dry season transitions in the Amazon
     rainforest," 2016-2018
@@ -98,7 +103,7 @@
      /eddy-covariance turbulent flux estimation./
 ** Construction
    - /Shaft, steel and concrete construction; tractor operation; manlift operation./
-v
+
 * Field experience
   - CCOPE-2015 Field Campaign (2015, [[http://www.atmos.albany.edu/student/massmann/ccope.html][ccope.html]]), Chile: /field operations lead/
   - Pre-OLYMPEX Field Campaign (2014), Washington State: /site

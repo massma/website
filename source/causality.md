@@ -65,7 +65,7 @@ the paper):
 results in a causal effect of cloud decreasing sunlight by 68.5
 W/m$^2$, much less than our original estimate of 160 W/m$^2$. This
 toy example was done on generated rather than real data, so we know
-the "true" causal effect, which is 68 W/m$^2$. So if we do not
+the "true" causal effect, which is 68 W/m$^2$. If we do not
 adjust for aerosol, we get a very wrong estimate of our causal effect,
 but if we do, we are very close to the truth!
 
@@ -150,14 +150,13 @@ assumptions and structuring/organizing analyses.
 #### Final words
 
 That was longer than I expected; apologies. Despite the length I
-glossed over or neglected a bunch of important details. We should have
-a paper with all of these details up on the
-[arXiv](https://arxiv.org/) soon; I am just wrinkling out some final
-details in the presentation with my collaborators. If you want a copy
-of the draft, just send me an email (akm2203@columbia.edu).
-
-Finally, the big takeaway is to consider **drawing a causal graph as a
-first step in your next project; it might help clarify a lot**.
+glossed over or neglected a bunch of important details, which are
+available in our [manuscript on
+arxiv](https://arxiv.org/abs/2105.00912), with coauthors [Pierre
+Gentine](https://gentinelab.eee.columbia.edu/people/pierre-gentine)
+and [Jakob Runge](https://climateinformaticslab.com/about/). Our big
+takeaway is to consider **drawing a causal graph as a first step in
+your next project; it might help clarify the research process**.
 
 [^5]: [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html)'s
     bibliography is a good place for a deep dive into a lot of the
@@ -173,12 +172,13 @@ first step in your next project; it might help clarify a lot**.
     complicated problems, and then view these as valid mathematical
     objects/answers themselves. I think there is a lot of opportunity
     for causal graphs in K-12 and higher education, and while I am not
-    super up on that field it sounds like people are [starting to use
-    causal graphs in education](https://www.tandfonline.com/doi/abs/10.1080/00221341.2019.1608460).
+    super up on that field it sounds like people are [using causal
+    graphs in
+    education](https://www.tandfonline.com/doi/abs/10.1080/00221341.2019.1608460).
 
 [^3]: W/m$^2$ is a measure of the amount of sunlight. It has units of
     energy per unit time, per a square meter of the Earth's surface.
 
 [^4]: These rain regimes were microphysical, which in this case just
-    means we were interested in whether ice falling into
-    rain clouds would change patterns of rainfall.
+    means we were interested in whether ice falling into rain clouds
+    would change patterns of rainfall.

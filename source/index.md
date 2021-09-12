@@ -3,8 +3,11 @@ pagetitle: "Adam Massmann"
 language: en
 ---
 
+### Please consider attending [The NYC Gathering on Climate, the Environment, and Ecology](nyc-gathering/index.html)
+
 Adam Massmann\'s home
 ---------------------
+
 
 I am a Ph.D. student in environmental engineering, advised by [Pierre
 Gentine](https://gentinelab.eee.columbia.edu/people/pierre-gentine) at
@@ -13,8 +16,12 @@ merging **physical or conceptual models** with **observational data**.
 
 -   [CV](cv/massmann-cv.html) \[[pdf](cv/massmann-cv.pdf)\]
 
-### Research
+### Research and Projects
 
+- [The NYC Gathering on Climate, the Environment, and
+  Ecology](nyc-gathering/index.html)
+- Scientific production versus introspection *(exploratory; description coming soon)*
+- Sustainabile communities *(exploratory; description coming soon)*
 - [The Communal Climate Consciousness (CCC)](ccc.md)
 - [Causality for clarification: examples from climate science](causality.md)
 - [Does atmospheric drying increase or reduce

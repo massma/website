@@ -26,6 +26,7 @@ stack.yaml.lock
 dist-newstyle
 public_html/*.html
 public_html/teacher-learner-wellbeing
+public_html/nyc-gathering
 public_html/eee-grad-website
 public_html/data
 source/cv/massmann-cv.html

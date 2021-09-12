@@ -49,13 +49,13 @@
 
 * Teaching and mentoring experience
 
-** [[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellow]]: /Aug. 2020 - Present/
+** [[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellow]]: /Aug. 2020 - June 2021/
    - Mentored six graduate students from across disciplines (Nursing,
      Marketing, Classics, Italian, Religion, Theater).
    - Co-facilitated, with [[https://theatre-phd.columbia.edu/people/abby-schroering/][Abby Schroering]], a two-part learning
      community on "[[http://www.columbia.edu/~akm2203/teacher-learner-wellbeing/][Considering the Whole Self in Teaching and
-     Learning]]", for both the Columbia University community, and also
-     the [[https://www.cirtl.net/events/943][national CIRTL network]].
+     Learning]]", for both the Columbia University [[https://ctl.columbia.edu/graduate-instructors/ctlgrads-learning-communities/][Center for Teaching
+     and Learning]], and also the [[https://www.cirtl.net/events/943][national CIRTL network]].
 
 ** [[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellow]]: /Aug. 2019 - May 2020/
    - Created a workshop on "[[https://massma.github.io/ltf-github-website-courses/][Git for course deployment and websites"]].
@@ -69,11 +69,10 @@
 ** Graduate Teaching Assistant: /Aug. 2014 - May 2015/
    - /Atmospheric and Environmental Sciences/, /University at Albany/
      - Courses: /Introduction to Environmental Science; Surface Hydrology and Hydrometeorology/
-   # where to add workshops?
 
 * Awards, fellowships and scholarships
-  - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellowship]]*, Columbia University, 2020-Present
   - *Presidential Fellow*, Columbia University, 2019-Present
+  - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellowship]]*, Columbia University, 2020-2021
   - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellowship]]*, Columbia University, 2019-2020
   - *PI, XSEDE Startup Allocation:* "A moist static energy approach to
     understanding wet and dry season transitions in the Amazon
@@ -121,7 +120,8 @@
     Cambridge, September 2016
 
 * Miscellaneous activities
-
+  - Co-organized the 2021 [[http://www.columbia.edu/~akm2203/eee-grad-website/seminar-series.html][Columbia University Environmental
+    Engineering Summer Seminar Series]]
   - "Getting a Ph.D. in Environmental Engineering" information session
     (led by [[https://yiplab-h2o-e-env.eee.columbia.edu/ian-billinge][Ian Billinge]]), Nov. 2020
   - Collegiate athletics and academic career Q&A, /Northwest Water Polo
@@ -149,7 +149,7 @@
     R., 2021. Assessment of GPM IMERG satellite precipitation
     estimation and its dependence on microphysical rain regimes over
     the mountains of south-central Chile. /Atmospheric Research/, 253,
-    p.105454.
+    p.105454. [[https://doi.org/10.1016/j.atmosres.2021.105454][doi.org:10.1016/j.atmosres.2021.105454]].
   - *Massmann, A.*, Gentine, P. and Lin, C., 2019. When does vapor
     pressure deficit drive or reduce evapotranspiration? /Journal of
     Advances in Modeling Earth Systems/, 11. [[https://doi.org/10.1029/2019MS001790][doi:10.1029/2019MS001790]]

@@ -20,12 +20,13 @@ merging **physical or conceptual models** with **observational data**.
 
 - [The NYC Gathering on Climate, the Environment, and
   Ecology](nyc-gathering/index.html)
-- Scientific production versus introspection *(exploratory; description coming soon)*
-- Sustainabile communities *(exploratory; description coming soon)*
 - [The Communal Climate Consciousness (CCC)](ccc.md)
 - [Causality for clarification: examples from climate science](causality.md)
 - [Does atmospheric drying increase or reduce
     evaporation?](vpd-et.md)
+- [Sustainable communities](sustainable-communities.md)
+  *(exploratory)*
+- Scientific progress: production, costs, and introspection *(exploratory; description coming soon)*
 - Previous: [Master\'s Research (UAlbany)](masters-research.md) in
     mesoscale meteorology
 

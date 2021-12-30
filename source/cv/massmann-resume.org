@@ -24,7 +24,10 @@
 
 * Education
 
-  - *Ph.D. in Environmental Engineering*, Columbia University, /in progress, expected 2022/\\
+  - *Ph.D. in Environmental Engineering*, Columbia University, /in
+    progress, expected 2022/\\
+
+  - *MPhil in Environmental Engineering*, Columbia University, /2021/
 
   - *M.S. in Atmospheric Science*, University at Albany, /2016/\\
 

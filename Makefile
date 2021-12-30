@@ -8,6 +8,7 @@ NEEDS = $(T)/index.html \
         $(T)/masters-research.html \
         $(T)/vpd-et.html \
         $(T)/ccc.html \
+        $(T)/sustainable-communities.html \
         $(T)/causality.html \
         $(T)/dot/cloud-aerosol.png \
         $(T)/dot/ccope.png \
@@ -17,7 +18,8 @@ NEEDS = $(T)/index.html \
         $(T)/eaee-ta-resources-workshop-version.html \
         $(T)/climate-school.html \
         $(T)/cv/massmann-cv.html \
-        $(T)/cv/massmann-cv.pdf
+        $(T)/cv/massmann-cv.pdf \
+	$(T)/cv/massmann-resume.pdf
 
 PANDOC = sed 's/\.md/\.html/g' | pandoc -s -c "http://www.columbia.edu/~akm2203/pandoc.css" --from markdown --to html5
 
@@ -64,6 +66,10 @@ $(T)/fig/%.png : $(S)/fig/%.png Makefile
 $(T)/cv/massmann-cv.pdf : $(S)/cv/massmann-cv.org $(S)/cv/mycv.sty Makefile
 	emacs $< --batch -f org-latex-export-to-pdf --kill
 	mv $(S)/cv/massmann-cv.pdf $@
+
+$(T)/cv/massmann-resume.pdf : $(S)/cv/massmann-resume.org $(S)/cv/mycv.sty Makefile
+	emacs $< --batch -f org-latex-export-to-pdf --kill
+	mv $(S)/cv/massmann-resume.pdf $@
 
 $(T)/cv/massmann-cv.html : $(S)/cv/massmann-cv.org $(S)/cv/mycv.sty Makefile
 	emacs $< --batch --eval "(progn (setq org-export-with-section-numbers nil) (setq org-html-validation-link nil))" -f org-html-export-to-html --kill

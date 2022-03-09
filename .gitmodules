@@ -6,6 +6,3 @@
 	path = eee-grad-website
 	url = git@github.com:massma/eee-grad-website.git
 	branch = main
-[submodule "nyc-gathering"]
-	path = nyc-gathering
-	url = git@github.com:massma/nyc-gathering.git

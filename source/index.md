@@ -3,8 +3,6 @@ pagetitle: "Adam Massmann"
 language: en
 ---
 
-### Please consider attending [The NYC Gathering on Climate, the Environment, and Ecology](nyc-gathering/index.html)
-
 Adam Massmann\'s home
 ---------------------
 
@@ -18,15 +16,12 @@ merging **physical or conceptual models** with **observational data**.
 
 ### Research and Projects
 
-- [The NYC Gathering on Climate, the Environment, and
-  Ecology](nyc-gathering/index.html)
-- [The Communal Climate Consciousness (CCC)](ccc.md)
 - [Causality for clarification: examples from climate science](causality.md)
 - [Does atmospheric drying increase or reduce
     evaporation?](vpd-et.md)
 - [Sustainable communities](sustainable-communities.md)
   *(exploratory)*
-- Scientific progress: production, costs, and introspection *(exploratory; description coming soon)*
+- Scientific progress: production, costs, and introspection *(exploratory)*
 - Previous: [Master\'s Research (UAlbany)](masters-research.md) in
     mesoscale meteorology
 

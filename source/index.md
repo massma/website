@@ -80,8 +80,8 @@ Columbia University\
 500 West 120th Street, Mailcode: 4711\
 New York, NY 10027
 
-email: *akm2203 \"at\" columbia \"dot\" edu*\
-[PGP Public key](akm.asc) - id: 64D3824DEEA15678
+email: *massma \"at\" autistici \"dot\" org*\
+[PGP Public key](massma.asc) - id: 64D3824DEEA15678
 
 ------------------------------------------------------------------------
 

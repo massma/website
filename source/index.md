@@ -6,10 +6,12 @@ language: en
 Adam Massmann\'s home
 ---------------------
 
+**Update**: In June 2022 I successfully defended my thesis. I am
+currently working with [Keta Waters](https://ketawaters.com/).
 
-I am a Ph.D. student in environmental engineering, advised by [Pierre
+I was a Ph.D. student in environmental engineering, advised by [Pierre
 Gentine](https://gentinelab.eee.columbia.edu/people/pierre-gentine) at
-Columbia University. I study **human-land-climate interactions** by
+Columbia University. I studied **human-land-climate interactions** by
 merging **physical or conceptual models** with **observational data**.
 
 -   [CV](cv/massmann-cv.html) \[[pdf](cv/massmann-cv.pdf)\]
@@ -49,15 +51,14 @@ merging **physical or conceptual models** with **observational data**.
 Both these workshops were funded and supported by Columbia\'s [Center
 for Teaching and Learning](https://ctl.columbia.edu/).
 
-### Resources (mostly for fellow students)
-
--   [Writing](writing.md)
--   [EEE Graduate Student Resources](eee-grad-website/index.html) -
-    department specific documentation provided by graduate students, for
-    graduate students (and TAs)
 
 ### Links
 
+-   [EEE Graduate Student Resources](eee-grad-website/index.html) -
+    department specific documentation provided by graduate students, for
+    graduate students (and TAs)
+-   [Keta Waters](https://ketawaters.com/) - engineering consulting
+    practice I currently work with.
 -   [Dr. Pierre Gentine\'s home
     page](https://gentinelab.eee.columbia.edu/) - my current advisor\'s
     website
@@ -71,13 +72,8 @@ for Teaching and Learning](https://ctl.columbia.edu/).
 
 ### Contact
 
-829 S.W. Mudd Hall\
-Department of Earth and Environmental Engineering\
-Columbia University\
-500 West 120th Street, Mailcode: 4711\
-New York, NY 10027
-
-email: *massma \"at\" autistici \"dot\" org*\
+email (work): *adam \"at\" ketawaters \"dot\" com*\
+email (personal): *massma \"at\" autistici \"dot\" org*\
 [PGP Public key](massma.asc) - id: 64D3824DEEA15678
 
 ------------------------------------------------------------------------

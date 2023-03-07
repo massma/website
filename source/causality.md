@@ -156,7 +156,7 @@ arxiv](https://arxiv.org/abs/2105.00912), with coauthors [Pierre
 Gentine](https://gentinelab.eee.columbia.edu/people/pierre-gentine)
 and [Jakob Runge](https://climateinformaticslab.com/about/). Our big
 takeaway is to consider **drawing a causal graph as a first step in
-your next project; it might help clarify the research process**.
+future projects; it might help clarify the research process**.
 
 [^5]: [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html)'s
     bibliography is a good place for a deep dive into a lot of the

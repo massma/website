@@ -7,14 +7,12 @@ T = public_html
 NEEDS = $(T)/index.html \
         $(T)/masters-research.html \
         $(T)/vpd-et.html \
-        $(T)/ccc.html \
         $(T)/sustainable-communities.html \
         $(T)/causality.html \
         $(T)/dot/cloud-aerosol.png \
         $(T)/dot/ccope.png \
         $(T)/fig/naiveCloudSunlight.png \
         $(T)/fig/cloudSunlight.png \
-        $(T)/writing.html \
         $(T)/eaee-ta-resources-workshop-version.html \
         $(T)/climate-school.html \
         $(T)/cv/massmann-cv.html \

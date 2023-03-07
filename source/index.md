@@ -63,7 +63,7 @@ for Teaching and Learning](https://ctl.columbia.edu/).
 -   [Keta Waters](https://ketawaters.com/) - engineering consulting
     practice I currently work with.
 -   [Dr. Pierre Gentine\'s home
-    page](https://gentinelab.eee.columbia.edu/) - my current advisor\'s
+    page](https://gentinelab.eee.columbia.edu/) - my Ph.D. advisor\'s
     website
 -   [Dr. Justin Minder\'s home
     page](http://www.atmos.albany.edu/facstaff/jminder/) - my M.S.

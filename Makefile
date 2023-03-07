@@ -14,7 +14,6 @@ NEEDS = $(T)/index.html \
         $(T)/fig/naiveCloudSunlight.png \
         $(T)/fig/cloudSunlight.png \
         $(T)/eaee-ta-resources-workshop-version.html \
-        $(T)/climate-school.html \
         $(T)/cv/massmann-cv.html \
         $(T)/cv/massmann-cv.pdf \
 	$(T)/cv/massmann-resume.pdf

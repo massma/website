@@ -20,8 +20,6 @@
 
 @@html:<a href="../index.html">{Back to Home}</a>@@
 
-# to add: presentation to Vondrick's lab?
-
 * Interests
 
   human-land-atmosphere interaction; methods for blending physical
@@ -30,15 +28,19 @@
 
 * Education
 
-  - *Ph.D. in Environmental Engineering*, Columbia University, /in progress, expected 2022/\\
+  - *Ph.D. in Environmental Engineering*, Columbia University, /2022/\\
 
   - *M.S. in Atmospheric Science*, University at Albany, /2016/\\
 
   - *B.S. in Civil Engineering*, University of Washington, /cum laude, 2014/
 
+* Work Experience
+
+  - Engineering Consultant, [[https://ketawaters.com/][Keta Waters]], /2018-present/
+
 * Research experience
 
-** Graduate Research Assistant: /Sept. 2016 - Present/
+** Graduate Research Assistant: /Sept. 2016 - June 2022/
    - /Environmental Engineering/, Columbia University
 
 ** Graduate Research Assistant: /May 2015 - Aug. 2016/
@@ -71,7 +73,7 @@
      - Courses: /Introduction to Environmental Science; Surface Hydrology and Hydrometeorology/
 
 * Awards, fellowships and scholarships
-  - *Presidential Fellow*, Columbia University, 2019-Present
+  - *Presidential Fellow*, Columbia University, 2019-2022
   - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellowship]]*, Columbia University, 2020-2021
   - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/][Lead Teaching Fellowship]]*, Columbia University, 2019-2020
   - *PI, XSEDE Startup Allocation:* "A moist static energy approach to
@@ -90,10 +92,9 @@
 * Technical skills
 
 ** Software
-   - *Languages* : Haskell, F#, Scheme; *uncomfortable (but some
-     experience) with*: C, Rust, Python, Fortran
-   - *Misc.* : Git, Latex, [[https://pandoc.org/][pandoc]], [[https://shakebuild.com/][Shake build system]], [[https://www.debian.org/][Debian]]
-   - *Free Software Contributions* : [[https://github.com/DougBurke/hvega][hvega]];  [[https://github.com/haskell-numerics/hmatrix][hmatrix]]; [[https://github.com/trevorkeenan/FLUXNET_citations][FLUXNETcitations]]; [[https://www.gnu.org/software/guix/][GNU Guix]]
+   - *Tools.* :  [[https://www.gnu.org/software/emacs/][Emacs]], [[https://www.debian.org/][Debian]], Python, Git, Latex, [[https://pandoc.org/][pandoc]]
+   - *Free Software Contributions* : [[https://mc-stan.org/][Stan]] (docs); [[https://github.com/DougBurke/hvega][hvega]]; [[https://github.com/haskell-numerics/hmatrix][hmatrix]];
+     [[https://github.com/trevorkeenan/FLUXNET_citations][FLUXNETcitations]]; [[https://www.gnu.org/software/guix/][GNU Guix]]
 
 ** Field observations and hardware
    - /Campbell Scientific dataloggers, InterMet radiosondes, PARSIVEL disdrometers,/
@@ -143,6 +144,14 @@
   # use harvard styling from google scholar
 * Publications
 
+  - *Massmann, A.,* 2022. Estimating ecosystem evaporation response to
+    aridity with theory and causality. Doctoral dissertation,
+    /Columbia University/. [[https://doi.org/10.7916/m1gy-x889][doi:10.7916/m1gy-x889]].
+    - Chapter 4, "Estimating the ecosystem evaporation response to
+      interventions on soil moisture: confounding and causal modeling
+      in a simulated world", *is new material* that has not been
+      published elsewhere; *Olya Skulovich* and *Pierre Gentine*
+      collaborated on this project.
   - *Massmann, A.*, Gentine, P. and Runge, J., 2021. Causal inference
     for process understanding in Earth sciences. [[https://arxiv.org/abs/2105.00912][arXiv:2105.00912]].
   - Rojas, Y., Minder, J.R., Campbell, L.S., *Massmann, A.* and Garreaud,
@@ -159,15 +168,15 @@
     Arellano J., 2019. Land Atmosphere Interaction in the
     Tropics. /Hydrology and Earth System Sciences/.
     [[https://doi.org/10.5194/hess-2019-12][doi:10.5194/hess-2019-12]].
+#+BEGIN_EXPORT latex
+\newpage
+\section{Publications (continued)}
+#+END_EXPORT
   - Fults, L.S., *Massmann, A.K.*, Montecinos, A., Andrews, E.,
     Kingsmill, D.E., Minder, J.R., Garreaud, R.D. and
     Snider, J.R., 2019. Wintertime Aerosol Measurements during the
     Chilean Coastal Orographic Precipitation Experiment. /Atmospheric
     Chemistry and Physics/. [[https://doi.org/10.5194/acp-2019-185][doi:10.5194/acp-2019-185]].
-#+BEGIN_EXPORT latex
-\newpage
-\section{Publications (continued)}
-#+END_EXPORT
   - *Massmann, A.K.*, Minder, J.R., Garreaud, R.D., Kingsmill, D.E.,
     Valenzuela, R.A., Montecinos, A., Fults, S.L. and Snider,
     J.R., 2017. The Chilean Coastal Orographic Precipitation

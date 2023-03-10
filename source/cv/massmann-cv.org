@@ -36,7 +36,7 @@
 
 * Work Experience
 
-  - Engineering Consultant, [[https://ketawaters.com/][Keta Waters]], /2018-present/
+** Engineering Consultant, [[https://ketawaters.com/][Keta Waters]]: /2018-present/
 
 * Research experience
 

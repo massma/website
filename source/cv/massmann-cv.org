@@ -2,7 +2,7 @@
 #+STARTUP: showall
 #+TITLE: Adam Massmann's CV
 #+AUTHOR:     Adam Massmann
-#+EMAIL:      akm2203 "at" columbia "dot" edu
+#+EMAIL:      adam "at" ketawaters "dot" com
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.columbia.edu/~akm2203/pandoc.css" />
 #+LaTeX_HEADER: \usepackage{mycv}
 #+LaTeX_HEADER: \usepackage{datetime}
@@ -15,7 +15,7 @@
 #+LaTeX_HEADER:  \setlength{\parskip}{-0.05cm}
 
 #+BEGIN_EXPORT latex
-\resheader{Adam Massmann}{http://www.columbia.edu/~akm2203/}{https://github.com/massma}{akm2203@columbia.edu}{+1 206 919 1364}
+\resheader{Adam Massmann}{http://www.columbia.edu/~akm2203/}{https://github.com/massma}{adam@ketawaters.com}{+1 206 919 1364}
 #+END_EXPORT
 
 @@html:<a href="../index.html">{Back to Home}</a>@@
@@ -34,9 +34,24 @@
 
   - *B.S. in Civil Engineering*, University of Washington, /cum laude, 2014/
 
-* Work Experience
+* Consulting Experience (with [[https://ketawaters.com/][Keta Waters]])
 
-** Engineering Consultant, [[https://ketawaters.com/][Keta Waters]]: /2018-present/
+** Quinault Indian Nation: April 2022 - present
+   - /TransAlta Water Right Acquisition: Phase I Feasibility Study/. Stream flow analysis and
+     reservoir simulations.
+
+** Swinomish Indian Tribal Community: November 2022
+   - Reservoir simulations related to US Golden Eagle water right
+     application.
+
+** Squaxin Island Tribe and Thurston County: October 2019 - October 2021
+   - Develop Soil Water Balance model to estimate recharge for the
+     Thurston County Groundwater Model.
+
+** Squaxin Island Tribe: June 2018 – March 2020
+   - Develop Soil Water Balance model to estimate recharge for the
+     Johns/Goldsborough watersheds.
+
 
 * Research experience
 
@@ -72,6 +87,7 @@
    - /Atmospheric and Environmental Sciences/, /University at Albany/
      - Courses: /Introduction to Environmental Science; Surface Hydrology and Hydrometeorology/
 
+   #+LATEX: \newpage
 * Awards, fellowships and scholarships
   - *Presidential Fellow*, Columbia University, 2019-2022
   - *[[https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/senior-lead-teaching-fellowship/][Senior Lead Teaching Fellowship]]*, Columbia University, 2020-2021
@@ -87,7 +103,7 @@
   - *John Arthur Elliot Endowed Scholarship*, Department of Civil
     Engineering,  University of Washington, 2013
 
-   #+LATEX: \newpage
+
 
 * Technical skills
 
@@ -141,7 +157,8 @@
     Hydrometeorology/, /Water Resources Research/, /Weather and
     Forecasting/
 
-  # use harvard styling from google scholar
+  #+LATEX: \newpage
+
 * Publications
 
   - *Massmann, A.,* 2022. Estimating ecosystem evaporation response to
@@ -168,10 +185,6 @@
     Arellano J., 2019. Land Atmosphere Interaction in the
     Tropics. /Hydrology and Earth System Sciences/.
     [[https://doi.org/10.5194/hess-2019-12][doi:10.5194/hess-2019-12]].
-#+BEGIN_EXPORT latex
-\newpage
-\section{Publications (continued)}
-#+END_EXPORT
   - Fults, L.S., *Massmann, A.K.*, Montecinos, A., Andrews, E.,
     Kingsmill, D.E., Minder, J.R., Garreaud, R.D. and
     Snider, J.R., 2019. Wintertime Aerosol Measurements during the
@@ -237,6 +250,10 @@
     Preliminary Work: Using Radar Profiles to Classify Rain in the
     Nahuelbuta Mountains]. /Seminario de Geofísica/, Universidad de
     Concepción, Concepción, Chile.
+#+BEGIN_EXPORT latex
+\newpage
+\section{Presentations (continued)}
+#+END_EXPORT
   - Massmann, A.K. and  Minder, J.R., 2015. Utilizing a Semi-idealized
     Modeling Framework to Understand Meso- and Convective-scale
     dynamics of severe Lake-effect Snowstorms. Poster presentation,

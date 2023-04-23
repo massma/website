@@ -36,19 +36,19 @@
 
 * Consulting Experience (with [[https://ketawaters.com/][Keta Waters]])
 
-** Quinault Indian Nation: April 2022 - present
+** Quinault Indian Nation: /April 2022 - present/
    - /TransAlta Water Right Acquisition: Phase I Feasibility Study/. Stream flow analysis and
      reservoir simulations.
 
-** Swinomish Indian Tribal Community: November 2022
+** Swinomish Indian Tribal Community: /Nov. 2022/
    - Reservoir simulations related to US Golden Eagle water right
      application.
 
-** Squaxin Island Tribe and Thurston County: October 2019 - October 2021
+** Squaxin Island Tribe and Thurston County: /Oct. 2019 - Oct. 2021/
    - Develop Soil Water Balance model to estimate recharge for the
      Thurston County Groundwater Model.
 
-** Squaxin Island Tribe: June 2018 – March 2020
+** Squaxin Island Tribe: /June 2018 – March 2020/
    - Develop Soil Water Balance model to estimate recharge for the
      Johns/Goldsborough watersheds.
 
@@ -108,8 +108,8 @@
 * Technical skills
 
 ** Software
-   - *Tools.* :  [[https://www.gnu.org/software/emacs/][Emacs]], [[https://www.debian.org/][Debian]], Python, Git, Latex, [[https://pandoc.org/][pandoc]]
-   - *Free Software Contributions* : [[https://mc-stan.org/][Stan]] (docs); [[https://github.com/DougBurke/hvega][hvega]]; [[https://github.com/haskell-numerics/hmatrix][hmatrix]];
+   - *Tools*:  [[https://www.gnu.org/software/emacs/][Emacs]], [[https://www.debian.org/][Debian]], Python, Git, Latex, [[https://pandoc.org/][pandoc]]
+   - *Free Software Contributions*: [[https://mc-stan.org/][Stan]] (docs); [[https://github.com/DougBurke/hvega][hvega]]; [[https://github.com/haskell-numerics/hmatrix][hmatrix]];
      [[https://github.com/trevorkeenan/FLUXNET_citations][FLUXNETcitations]]; [[https://www.gnu.org/software/guix/][GNU Guix]]
 
 ** Field observations and hardware
@@ -120,7 +120,7 @@
    - /Shaft, steel and concrete construction; tractor operation; manlift operation./
 
 * Field experience
-  - CCOPE-2015 Field Campaign (2015, [[http://www.atmos.albany.edu/student/massmann/ccope.html][ccope.html]]), Chile: /field operations lead/
+  - CCOPE-2015 Field Campaign (2015), Chile: /field operations lead/
   - Pre-OLYMPEX Field Campaign (2014), Washington State: /site
     design, testing and deployment (snow depth)/
   - Snoqualmie Pass Snow Energy Balance Research Site (2013-2014),
@@ -152,10 +152,10 @@
   - Science Outreach at Liceo Mariano Latorre; Curanilahue, Chile; Aug. 2015
   - Engineering Discovery Day; University of Washington; 2013, 2014
   - Volunteer Board Member, Northwest Youth Water Polo, Oct. 2013 - Aug. 2014
-  - Reviewer for /JGR - Biogeosciences/, /Geophysical Research Letters/, /Journal of Applied
-    Meteorology and Climatology/, /Journal of Climate/, /Journal of
-    Hydrometeorology/, /Water Resources Research/, /Weather and
-    Forecasting/
+  - Past reviewer for /JGR - Biogeosciences/, /Geophysical Research
+    Letters/, /Journal of Applied Meteorology and Climatology/,
+    /Journal of Climate/, /Journal of Hydrometeorology/, /Water
+    Resources Research/, /Weather and Forecasting/
 
   #+LATEX: \newpage
 

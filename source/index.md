@@ -7,7 +7,8 @@ Adam Massmann\'s home
 ---------------------
 
 **Update**: In June 2022 I successfully defended my thesis. I am
-currently working with [Keta Waters](https://ketawaters.com/).
+currently working with [Keta Waters](https://ketawaters.com/), and my
+**new website is [massma.github.io](https://massma.github.io/).**
 
 From 2016-2022 I was a Ph.D. student in environmental engineering,
 advised by [Pierre
@@ -15,7 +16,8 @@ Gentine](https://gentinelab.eee.columbia.edu/people/pierre-gentine) at
 Columbia University. I studied **human-land-climate interactions** by
 merging **physical or conceptual models** with **observational
 data**. Most of the materials on this website are from my time as a
-student.
+student, and I no longer update this site. **My new website is
+[massma.github.io](https://massma.github.io/).**
 
 -   [CV](cv/massmann-cv.html) \[[pdf](cv/massmann-cv.pdf)\]
 

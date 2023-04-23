@@ -103,13 +103,13 @@ analysis is not causal.**
 Toy examples are useful for understanding, but are causal graphs
 useful for real applications? To answer, I went back to an an old
 [field
-campaign](http://www.atmos.albany.edu/student/massmann/ccope.html) I
+campaign](https://data.eol.ucar.edu/project/CCOPE-2015) I
 was a part of at UAlbany. We were trying to estimate the effect of
 rain regime[^4] on rainfall patterns in the Nahuelbuta mountains in
 Chile. Here is a graph for that system:
 
 ![Graph for the
-[CCOPE](http://www.atmos.albany.edu/student/massmann/ccope.html) field
+[CCOPE](https://data.eol.ucar.edu/project/CCOPE-2015) field
 campaign](dot/ccope.png)
 
 The details of what everything means aren't that important. What is

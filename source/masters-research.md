@@ -42,8 +42,7 @@ pagetitle: "Adam's mesoscale meteorology research"
 
     **Links**
 
-    -   [Field project
-        website](http://www.atmos.albany.edu/student/massmann/ccope.html)
+    -   [Field project's data repository](https://data.eol.ucar.edu/project/CCOPE-2015)
     -   [Presentation at 17th Conference on Mountain
         Meteorology](https://ams.confex.com/ams/17Mountain/webprogram/Paper296523.html)
     -   [Paper on the
